@@ -283,7 +283,7 @@ EndMovie
 
 BeginMovie A05_P01E
 Font=batang.ttc
-<Time=00:00:00:30, Duration=00:00:00:00, Position=14:center, Color=255:255:0, Text="尤里复制中心的位置就在澳大利亚，雪梨。">
+<Time=00:00:00:30, Duration=00:00:00:00, Position=14:center, Color=255:255:0, Text="尤里复制中心的位置就在澳大利亚，悉尼。">
 EndMovie
 
 BeginMovie A05_P02E
