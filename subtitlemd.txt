@@ -25,7 +25,7 @@ BeginMovie A00_F00E
 <Time=00:00:39:10, Duration=00:00:04:00, Position=14:Center, Color=255:255:128, Text="或许我可以向您解说一下，总统先生。 ">
 <Time=00:00:42:00, Duration=00:00:00:00, Position=14:Center, Color=0:255:0, Text="尤里。">
 <Time=00:00:43:10, Duration=00:00:00:00, Position=14:Center, Color=255:255:128, Text="这个装置叫做「心灵控制器」，">
-<Time=00:00:46:10, Duration=00:00:00:00, Position=14:Center, Color=255:255:128, Text="在全世界各地已经有由这项装置彼此间连线所组成的网路。">
+<Time=00:00:46:10, Duration=00:00:00:00, Position=14:Center, Color=255:255:128, Text="在全世界各地已经有由这项装置彼此间连线所组成的网络。">
 <Time=00:00:50:00, Duration=00:00:02:30, Position=14:Center, Color=0:255:0, Text="又是你那套心灵控制的把戏吗？">
 <Time=00:00:53:30, Duration=00:00:00:00, Position=14:Center, Color=255:255:128 Text="总统先生，这可不是小把戏，">
 <Time=00:00:55:10, Duration=00:00:00:00, Position=14:Center, Color=255:255:128, Text="再过一段时间，">
@@ -241,7 +241,7 @@ Font=batang.ttc
 <Time=00:00:02:30, Duration=00:00:04:00, Position=14:Center, Color=255:255:0, Text="爱因斯坦教授已经被俘虏了，">
 <Time=00:00:04:30, Duration=00:00:04:00, Position=14:center, Color=255:255:0, Text="我们相信尤里计划强迫他，协助进行改善心灵控制器技术。">
 <Time=00:00:09:30, Duration=00:00:04:00, Position=14:Right, Color=0:255:0, Text="借由博士的协助，">
-<Time=00:00:11:00, Duration=00:00:03:00, Position=14:Right, Color=0:255:0, Text="尤里将可更快的完成其心灵控制器网路，">
+<Time=00:00:11:00, Duration=00:00:03:00, Position=14:Right, Color=0:255:0, Text="尤里将可更快的完成其心灵控制器网络，">
 <Time=00:00:15:00, Duration=00:00:02:30, Position=14:Right, Color=0:255:0, Text="我们不可以让这样的情况发生！">
 EndMovie
 
@@ -631,7 +631,7 @@ BeginMovie S06_P01E
 Font=batang.ttc
 <Time=00:00:00:30, Duration=00:00:05:00, Position=14:center, Color=255:255:0, Text="太空船的电脑已经将尤里的计划告诉我们了；">
 <Time=00:00:04:00, Duration=00:00:04:00, Position=14:center, Color=255:255:0, Text="尤里的月球基地就在附近，">
-<Time=00:00:06:00, Duration=00:00:04:00, Position=14:center, Color=255:255:0, Text="等心灵控制器的网路启动之后，">
+<Time=00:00:06:00, Duration=00:00:04:00, Position=14:center, Color=255:255:0, Text="等心灵控制器的网络启动之后，">
 <Time=00:00:09:00, Duration=00:00:04:00, Position=14:center, Color=255:255:0, Text="他将连同他的复制人部队，一同撤退到这座基地中。">
 <Time=00:00:13:00, Duration=00:00:03:00, Position=14:center, Color=255:255:0, Text="我们一定要消灭这座基地。">
 EndMovie
