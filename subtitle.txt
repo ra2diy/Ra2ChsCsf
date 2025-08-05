@@ -1,0 +1,1151 @@
+; Comments begin with a semicolon character.
+/BeginMovie TITLMVIE
+/Font=batang.ttc
+/<Time=00:00:00:00, Duration=00:00:10:00, Position=14:Center, Color=0:255:0, Text="中文测试">
+/<Time=00:00:05:00, Duration=00:00:05:00, Position=14:Center, Color=255:255:255, Text="红色警戒 2 字幕影片">
+/<Time=00:00:15:00, Duration=00:00:05:00, Position=14:Center, Color=255:255:255, Text="此为 15 秒影片">
+/<Time=00:00:20:00, Duration=00:00:05:00, Position=14:Left, Color=0:0:255, Text="左边为蓝色。">
+/<Time=00:00:22:00, Duration=00:00:05:00, Position=14:Right, Color=255:0:0, Text="右边为红色。">
+/<Time=00:00:24:00, Duration=00:00:05:00, Position=14:Center, Color=255:0:255, Text="这是粉红色">
+/EndMovie
+
+BeginMovie A00_F00E
+/Font=batang.ttc
+<Time=00:00:02:10, Duration=00:00:00:00, Position=14:Center, Color=0:255:0, Text="总统先生。">
+<Time=00:00:03:10, Duration=00:00:03:00, Position=14:Center, Color=0:255:0, Text="五角大厦的卡维利将军正在第五线。">
+<Time=00:00:08:00, Duration=00:00:01:00, Position=14:Center, Color=255:255:0, Text="我是杜根。">
+<Time=00:00:09:30, Duration=00:00:00:00, Position=14:Center, Color=0:255:255, Text="总统先生，">
+<Time=00:00:10:30, Duration=00:00:03:00, Position=14:Center, Color=0:255:255, Text="恐怕得通知您，我们遇上了天杀的紧急状况。">
+<Time=00:00:18:00, Duration=00:00:00:00, Position=14:Center, Color=255:255:0, Text="班，有多严重？">
+<Time=00:00:19:30, Duration=00:00:00:00, Position=14:Center, Color=0:255:255, Text="跟据北美空防司令部的情报显示，有苏联战机自四面八方而来，">
+<Time=00:00:23:00, Duration=00:00:00:00, Position=14:Center, Color=0:255:255, Text="而地面部队正由墨西哥往北进军。">
+<Time=00:00:26:00, Duration=00:00:00:00, Position=14:Center, Color=0:255:255, Text="我实在搞不懂他们是如何神不知鬼不觉的调动了这么多军队。">
+<Time=00:00:28:30, Duration=00:00:02:00, Position=14:Center, Color=255:255:0, Text="你最好再跟北美空防司令部确认一下。">
+<Time=00:00:31:30, Duration=00:00:00:00, Position=14:Center, Color=255:255:0, Text="这没有道理。">
+<Time=00:00:33:30, Duration=00:00:00:00, Position=14:Center, Color=255:255:0, Text="我会打给克里姆林宫的。">
+<Time=00:00:34:30, Duration=00:00:01:00, Position=14:Center, Color=0:255:255, Text="遵命照办。">
+<Time=00:00:45:30, Duration=00:00:00:00, Position=14:Center, Color=255:0:0, Text="嗯，我是洛马诺夫总理。">
+<Time=00:00:48:00, Duration=00:00:00:00, Position=14:Center, Color=255:255:0, Text="到底怎么了，艾力克斯？">
+<Time=00:00:50:00, Duration=00:00:03:00, Position=14:Center, Color=255:0:0, Text="为什么这样问，总统先生，">
+<Time=00:00:52:00, Duration=00:00:03:00, Position=14:Center, Color=255:0:0, Text="你指的是什么？">
+<Time=00:00:54:30, Duration=00:00:00:00, Position=14:Center, Color=255:255:0, Text="艾力克斯，我...">
+<Time=00:00:56:30, Duration=00:00:00:00, Position=14:Center, Color=255:255:0, Text="我有...嗯，">
+<Time=00:00:59:00, Duration=00:00:00:00, Position=14:Center, Color=255:255:0, Text="你倾全国之兵攻打我国。">
+<Time=00:01:03:00, Duration=00:00:00:00, Position=14:Center, Color=255:255:0, Text="我们应该是盟友，而你这...你这疯子。">
+<Time=00:01:05:00, Duration=00:00:00:00, Position=14:Center, Color=255:255:0, Text="我可是协助你上台的人呀。">
+<Time=00:01:07:00, Duration=00:00:00:00, Position=14:Center, Color=255:0:0, Text="你给我听清楚。">
+<Time=00:01:09:00, Duration=00:00:00:00, Position=14:Center, Color=255:0:0, Text="我不是你的宠物，总统先生。">
+<Time=00:01:12:00, Duration=00:00:00:00, Position=14:Center, Color=255:0:0, Text="我们洛马诺夫家族有着优良的传统。">
+<Time=00:01:14:30, Duration=00:00:00:00, Position=14:Center, Color=255:255:0, Text="我才不管你的什么鬼家族传统。">
+<Time=00:01:17:00, Duration=00:00:00:00, Position=14:Center, Color=255:255:0, Text="你马上给我取消这次军事行动。">
+<Time=00:01:18:30, Duration=00:00:03:00, Position=14:Center, Color=255:255:0, Text="艾力克斯，你听到了没...马上给我取消！">
+<Time=00:01:24:00, Duration=00:00:01:00, Position=14:Center, Color=255:255:0, Text="你知道我们会还以颜色的。">
+<Time=00:01:26:00, Duration=00:00:03:00, Position=14:Center, Color=255:0:0, Text="喔，别那么有把握，总统先生。">
+<Time=00:01:37:00, Duration=00:00:00:00, Position=14:Center, Color=0:255:255, Text="总统大人？">
+<Time=00:01:37:50, Duration=00:00:00:00, Position=14:Center, Color=255:255:0, Text="确认了吗？">
+<Time=00:01:39:00, Duration=00:00:00:00, Position=14:Center, Color=0:255:255, Text="让您猜中了。">
+<Time=00:01:40:00, Duration=00:00:01:00, Position=14:Center, Color=255:255:0, Text="好样的，">
+<Time=00:01:42:00, Duration=00:00:02:00, Position=14:Center, Color=255:255:0, Text="是该还击的时候了，">
+<Time=00:01:45:00, Duration=00:00:01:00, Position=14:Center, Color=255:255:0, Text="放手攻击吧。">
+<Time=00:01:46:00, Duration=00:00:00:00, Position=14:Center, Color=0:255:255, Text="是的，总统大人。">
+<Time=00:01:48:30, Duration=00:00:02:00, Position=14:Center, Color=0:255:255, Text="我是卡维利将军。">
+<Time=00:01:51:00, Duration=00:00:02:00, Position=14:Center, Color=0:255:255, Text="苏联军入侵的消息已经证实了！">
+<Time=00:01:54:00, Duration=00:00:03:00, Position=14:Center, Color=0:255:255, Text="实施发射指令 ZERO ONE ZERO">
+<Time=00:01:57:00, Duration=00:00:02:00, Position=14:Center, Color=0:255:255, Text="ADAM DELTA CHARLIE">
+<Time=00:01:59:00, Duration=00:00:01:00, Position=14:Center, Color=192:192:0, Text="已经确认了！">
+<Time=00:02:00:00, Duration=00:00:01:00, Position=14:Center, Color=192:192:0, Text="装填飞弹！">
+<Time=00:02:02:00, Duration=00:00:01:00, Position=14:Center, Color=255:255:128, Text="装填完毕！">
+<Time=00:02:04:00, Duration=00:00:01:00, Position=14:Center, Color=192:192:0, Text="飞弹指挥部。">
+<Time=00:02:10:00, Duration=00:00:02:00, Position=14:Center, Color=255:255:128, Text="离发射还有十秒，开启飞弹发射井！">
+<Time=00:02:13:30, Duration=00:00:02:00, Position=14:Center, Color=255:255:128, Text="杰瑞，这到底怎么...">
+<Time=00:02:15:00, Duration=00:00:02:00, Position=14:Center, Color=255:255:128, Text="我们得打开飞弹发射井，不然飞弹会在里头爆炸......">
+<Time=00:02:19:00, Duration=00:00:03:00, Position=14:Center, Color=255:255:128, Text="飞弹发射井舱门是关闭的，这是自杀的行为呀.......">
+<Time=00:02:28:00, Duration=00:00:00:00, Position=14:Center, Color=255:0:0, Text="尤里，办妥了吗？">
+<Time=00:02:31:00, Duration=00:00:03:30, Position=14:Center, Color=255:0:255, Text="不的，总理同志。好戏正要上场而己。">
+EndMovie
+
+;First Allied Mission Briefing
+BeginMovie A01_F00E
+/Font=batang.ttc
+<Time=00:00:03:00, Duration=00:00:00:00, Position=14:Center, Color=255:255:0, Text="早安，指挥官。">
+<Time=00:00:04:30, Duration=00:00:00:00, Position=14:Center, Color=255:255:0, Text="我们成功的着手规划了">
+<Time=00:00:06:30, Duration=00:00:00:00, Position=14:Center, Color=255:255:0, Text="总统的紧急拉德斯草案。">
+<Time=00:00:08:30, Duration=00:00:00:00, Position=14:center, Color=255:255:0, Text="我是雅娃少尉，">
+<Time=00:00:10:00, Duration=00:00:00:00, Position=14:center, Color=255:255:0, Text="奉命前来接受您指挥的情报官。">
+<Time=00:00:12:30, Duration=00:00:00:00, Position=14:center, Color=255:255:0, Text="既然您是唯一幸存的指挥官，">
+<Time=00:00:14:30, Duration=00:00:02:00, Position=14:center, Color=255:255:0, Text="我想很幸运我能有份新差事。">
+<Time=00:00:18:00, Duration=00:00:00:00, Position=14:Center, Color=255:255:0, Text="看来我们遭到苏联全面的侵略了。">
+<Time=00:00:21:30, Duration=00:00:00:00, Position=14:Center, Color=255:255:0, Text="几乎所有主要城市都被攻击，">
+<Time=00:00:23:30, Duration=00:00:03:00, Position=14:Center, Color=255:255:0, Text="我军目前陷于混乱之中。">
+<Time=00:00:27:30, Duration=00:00:00:00, Position=14:Center, Color=255:255:0, Text="请等一下，指挥官。">
+<Time=00:00:29:30, Duration=00:00:02:00, Position=14:Center, Color=255:255:0, Text="我们有来自五角大厦卡维利将军的讯息。">
+<Time=00:00:36:00, Duration=00:00:00:00, Position=14:Center, Color=255:255:0, Text="指挥官，我希望你已休息过，而且准备就绪。">
+<Time=00:00:39:00, Duration=00:00:00:00, Position=14:Center, Color=255:255:0, Text="因为从上午八点开始，您将掌控美东所有卫星、">
+<Time=00:00:42:30, Duration=00:00:00:00, Position=14:Center, Color=255:255:0, Text="基地、坦克、战机、士兵">
+<Time=00:00:46:00, Duration=00:00:00:00, Position=14:Center, Color=255:255:0, Text="及妇孺。">
+<Time=00:00:49:00, Duration=00:00:00:00, Position=14:Center, Color=255:255:0, Text="你直接向总统及我负责。">
+<Time=00:00:53:00, Duration=00:00:00:00, Position=14:Center, Color=255:255:0, Text="你的作战军官及贴身护卫是这位少尉。">
+<Time=00:00:56:30, Duration=00:00:00:00, Position=14:Center, Color=255:255:0, Text="这次任务的先头侦察兵将是女特务谭雅。">
+<Time=00:01:00:00, Duration=00:00:03:00, Position=14:Left, Color=0:255:0, Text="将军，我希望指挥官能迅速做出决策，">
+<Time=00:01:02:00, Duration=00:00:03:00, Position=14:Left, Color=0:255:0, Text="因为我们没有太多时间可以浪费。">
+<Time=00:01:04:00, Duration=00:00:03:00, Position=14:Right, Color=255:255:0, Text="我确信谭雅对你深具信心，指挥官。">
+<Time=00:01:07:00, Duration=00:00:03:00, Position=14:Left, Color=0:255:0, Text="喔，你可说的真有把握。">
+<Time=00:01:09:00, Duration=00:00:03:00, Position=14:Left, Color=0:255:0, Text="毕竟在外面冒生命危险的不是你！">
+<Time=00:01:12:00, Duration=00:00:00:00, Position=14:Center, Color=255:255:0, Text="她是最棒的，">
+<Time=00:01:14:00, Duration=00:00:00:00, Position=14:Center, Color=255:255:0, Text="但你得学会和苏联人打交道。">
+<Time=00:01:16:30, Duration=00:00:00:00, Position=14:Center, Color=255:255:0, Text="你马上就动身，先在纽约停留。">
+<Time=00:01:19:30, Duration=00:00:00:00, Position=14:Center, Color=255:255:0, Text="少尉会告诉你其他细节。">
+<Time=00:01:22:00, Duration=00:00:00:00, Position=14:Center, Color=255:255:0, Text="不久前，苏联的两栖部队登陆了">
+<Time=00:01:25:00, Duration=00:00:00:00, Position=14:Center, Color=255:255:0, Text="曼哈顿岛，利用他们的地面部队有组织的">
+<Time=00:01:28:00, Duration=00:00:00:00, Position=14:Center, Color=255:255:0, Text="占领了城市。">
+<Time=00:01:31:00, Duration=00:00:00:00, Position=14:Center, Color=255:255:0, Text="很幸运的，我们仍然坚守住布雷利要塞，">
+<Time=00:01:34:00, Duration=00:00:00:00, Position=14:Center, Color=255:255:0, Text="但我们的通讯中断了。">
+<Time=00:01:37:00, Duration=00:00:00:00, Position=14:Center, Color=255:255:0, Text="要是您能让谭雅特务进入布雷利要塞，">
+<Time=00:01:40:00, Duration=00:00:00:00, Position=14:Center, Color=255:255:0, Text="她会重新恢复通讯。">
+<Time=00:01:42:00, Duration=00:00:00:00, Position=14:Center, Color=255:255:0, Text="指挥官，祝您好运。">
+EndMovie
+
+BeginMovie A01_P01E
+Font=batang.ttc
+<Time=00:00:02:20, Duration=00:00:06:00, Position=14:Center, Color=255:255:0, Text="我仅代表伟大的苏联，诚挚的邀请美国国民。">
+<Time=00:00:10:00, Duration=00:00:00:00, Position=14:center, Color=255:255:0, Text="瞧瞧你们的自由女神像，">
+<Time=00:00:12:40, Duration=00:00:00:00, Position=14:center, Color=255:255:0, Text="看看她在你们面前是如何的残破不堪。">
+<Time=00:00:15:50, Duration=00:00:00:00, Position=14:center, Color=255:255:0, Text="在片刻之间，你们一度强大的纽约市，">
+<Time=00:00:20:00, Duration=00:00:00:00, Position=14:center, Color=255:255:0, Text="将步入自由女神像的后尘，">
+<Time=00:00:24:30, Duration=00:00:00:00, Position=14:center, Color=255:255:0, Text="而决定权在你们手上。">
+<Time=00:00:27:20, Duration=00:00:00:00, Position=14:Center, Color=255:255:0, Text="你们可以继续哀悼自己的过去，">
+<Time=00:00:30:10, Duration=00:00:00:00, Position=14:Center, Color=255:255:0, Text="也可以选择投降，">
+<Time=00:00:32:00, Duration=00:00:05:00, Position=14:Center, Color=255:255:0, Text="加入我们伟大的苏联革命。">
+EndMovie
+
+
+BeginMovie A01_P02E
+Font=batang.ttc
+<Time=00:00:00:30, Duration=00:00:00:00, Position=14:Center, Color=255:255:0, Text="太棒了，指挥官，我们重新与要塞取得连系了。">
+<Time=00:00:04:00, Duration=00:00:00:00, Position=14:center, Color=255:255:0, Text="谭雅传送回苏联一处重要补给站地点的情报。">
+<Time=00:00:09:00, Duration=00:00:03:30, Position=14:center, Color=255:255:0, Text="卡维利将军希望您能马上处理。">
+<Time=00:00:13:00, Duration=00:00:03:00, Position=14:center, Color=255:255:0, Text="喔，长官，继续保持绝佳的表现喔。">
+EndMovie
+
+BeginMovie A01_P03E
+Font=batang.ttc
+<Time=00:00:03:30, Duration=00:00:00:00, Position=14:Center, Color=255:255:0, Text="谭雅在此...">
+<Time=00:00:05:00, Duration=00:00:00:00, Position=14:center, Color=255:255:0, Text="仔细听好。我们在这港口里找到了一些">
+<Time=00:00:08:20, Duration=00:00:00:00, Position=14:center, Color=255:255:0, Text="正打算到哈德逊河观光的无畏级战舰。">
+<Time=00:00:11:40, Duration=00:00:03:00, Position=14:center, Color=255:255:0, Text="我打算先让他们瞧瞧水底的风光。">
+EndMovie
+
+;Second Allied Mission Briefing
+BeginMovie A02_F00E
+Font=batang.ttc
+<Time=00:00:01:00, Duration=00:00:01:00, Position=14:Center, Color=255:255:0, Text="总统先生">
+<Time=00:00:03:00, Duration=00:00:00:00, Position=14:Center, Color=255:255:0, Text="在事态变的更严重之前，欧洲会请求我们援助的。">
+<Time=00:00:07:30, Duration=00:00:03:00, Position=14:Center, Color=255:255:0, Text="是，长官。我会处理。">
+<Time=00:00:20:00, Duration=00:00:00:00, Position=14:center, Color=255:255:0, Text="我就是觉得不对劲。">
+<Time=00:00:21:30, Duration=00:00:00:00, Position=14:center, Color=255:255:0, Text="我们不应该向任何人求援。">
+<Time=00:00:24:00, Duration=00:00:00:00, Position=14:center, Color=255:255:0, Text="洛马诺夫总理已经将整个欧洲踩在脚下。">
+<Time=00:00:30:00, Duration=00:00:00:00, Position=14:center, Color=255:255:0, Text="洛马诺夫派出了他的鹰犬，维拉迪摩将军">
+<Time=00:00:33:00, Duration=00:00:00:00, Position=14:Center, Color=255:255:0, Text="来对付我们的空军基地。">
+<Time=00:00:36:30, Duration=00:00:03:30, Position=14:Center, Color=255:255:0, Text="他的军队像头德州竞马会里发狂的公牛，正在掀起滔天巨浪。">
+<Time=00:00:42:00, Duration=00:00:00:00, Position=14:Center, Color=255:255:0, Text="今晨五点正，">
+<Time=00:00:43:30, Duration=00:00:00:00, Position=14:Center, Color=255:255:0, Text="我们侦测到大队的苏联坦克车，">
+<Time=00:00:46:00, Duration=00:00:00:00, Position=14:Center, Color=255:255:0, Text="在科泉市的空军学院附近集结。">
+<Time=00:00:50:30, Duration=00:00:03:00, Position=14:Left, Color=0:255:0, Text="长官，特务谭雅自战场上传送紧急讯息。">
+<Time=00:00:54:30, Duration=00:00:00:00, Position=14:Left, Color=255:255:255, Text="将军，看来共产党已经占领了空军学院。">
+<Time=00:00:57:30, Duration=00:00:00:00, Position=14:Right, Color=255:255:0, Text="为什么妳等到现在才跟我们连络？">
+<Time=00:01:00:30, Duration=00:00:00:00, Position=14:Right, Color=255:255:0, Text="我们不能让维拉迪摩占领那座机场。">
+<Time=00:01:03:30, Duration=00:00:00:00, Position=14:Left, Color=255:255:255, Text="长官，是基于各种考量，我们无能为力...">
+<Time=00:01:06:30, Duration=00:00:00:00, Position=14:Right, Color=255:255:0, Text="指挥官，把谭雅从洞里弄出来吧！">
+<Time=00:01:09:30, Duration=00:00:00:00, Position=14:Right, Color=255:255:0, Text="让她多出点有价值的任务，">
+<Time=00:01:11:00, Duration=00:00:00:00, Position=14:Right, Color=255:255:0, Text="没问题吧？我相信她会感激的。">
+<Time=00:01:12:40, Duration=00:00:02:30, Position=14:Left, Color=255:255:255, Text="真是见......">
+<Time=00:01:15:30, Duration=00:00:00:00, Position=14:Center, Color=255:255:0, Text="看来我们和谭雅失去连络了。">
+<Time=00:01:18:30, Duration=00:00:03:00, Position=14:Center, Color=255:255:0, Text="指挥官，出发去把她弄回来吧。">
+EndMovie
+
+BeginMovie A02_P01E
+Font=batang.ttc
+<Time=00:00:01:30, Duration=00:00:00:00, Position=14:Center, Color=255:255:0, Text="我们找出科泉市一群火箭飞行兵的位置了。">
+<Time=00:00:04:30, Duration=00:00:02:00, Position=14:center, Color=255:255:0, Text="他们准备过来会合，接受我们的指挥。">
+EndMovie
+
+BeginMovie A02_P02E
+Font=batang.ttc
+<Time=00:00:01:00, Duration=00:00:06:00, Position=14:Center, Color=255:255:0, Text="哇呜～">
+<Time=00:00:04:00, Duration=00:00:03:00, Position=14:center, Color=255:255:0, Text="轰掉他们，宝贝！">
+EndMovie
+
+BeginMovie A03_F00E
+Font=batang.ttc
+<Time=00:00:00:30, Duration=00:00:00:00, Position=14:Center, Color=255:0:0, Text="在最短的时间内，我们全体、不论老少，">
+<Time=00:00:04:00, Duration=00:00:05:00, Position=14:center, Color=255:0:0, Text="都将向我们的新领导人，苏联总理洛马诺夫宣誓效忠...">
+<Time=00:00:12:00, Duration=00:00:00:00, Position=14:center, Color=0:255:0, Text="指挥官，">
+<Time=00:00:14:00, Duration=00:00:00:00, Position=14:center, Color=0:255:0, Text="你在柯罗拉多州的表现实在天杀的令人印象深刻。">
+<Time=00:00:18:00, Duration=00:00:00:00, Position=14:center, Color=0:255:0, Text="但在你出外作战之时，事情有所变化，战争结束了。">
+<Time=00:00:23:00, Duration=00:00:05:00, Position=14:center, Color=0:255:0, Text="我所了解的是，那些共产党和我们所要的是同样的...">
+<Time=00:00:30:00, Duration=00:00:00:00, Position=14:center, Color=255:255:0, Text="我不认为我们应该继续听下去。">
+<Time=00:00:33:00, Duration=00:00:00:00, Position=14:center, Color=255:255:0, Text="看来总统，甚至连卡维利将军都受到苏联心灵信标的影响。">
+<Time=00:00:39:00, Duration=00:00:00:00, Position=14:center, Color=255:255:0, Text="心灵信标是由这个人所研发的心灵控制装置。">
+<Time=00:00:42:30, Duration=00:00:00:00, Position=14:center, Color=255:255:0, Text="这位就是尤里。">
+<Time=00:00:44:30, Duration=00:00:00:00, Position=14:center, Color=255:255:0, Text="我们的情报来源终于证实尤里和他的心灵部队">
+<Time=00:00:47:00, Duration=00:00:00:00, Position=14:center, Color=255:255:0, Text="是在他们发动侵略之前，就瓦解我们的防御的主因。">
+<Time=00:00:52:00, Duration=00:00:03:00, Position=14:center, Color=255:255:0, Text="到目前为止，苏联控制了此区域许多人。">
+<Time=00:00:56:30, Duration=00:00:00:00, Position=14:center, Color=255:255:0, Text="喔，别担心，指挥官。">
+<Time=00:00:58:30, Duration=00:00:02:00, Position=14:center, Color=255:255:0, Text="我还没被赤化！">
+<Time=00:01:02:30, Duration=00:00:00:00, Position=14:center, Color=255:255:0, Text="情报尚未证实心灵信标的正确位置，">
+<Time=00:01:06:00, Duration=00:00:00:00, Position=14:center, Color=255:255:0, Text="但可以确定的是，心灵信标一定受到苏联军队的重军把守。">
+<Time=00:01:09:30, Duration=00:00:00:00, Position=14:center, Color=255:255:0, Text="我可以帮你和这区内未受心灵控制的部队连络。">
+<Time=00:01:12:30, Duration=00:00:00:00, Position=14:center, Color=255:255:0, Text="利用这些部队，摧毁心灵信标。">
+<Time=00:01:15:00, Duration=00:00:03:00, Position=14:center, Color=255:255:0, Text="摧毁心灵信标之后，就能将总统救出到安全的地方。">
+EndMovie
+
+BeginMovie A03_P01E
+Font=batang.ttc
+<Time=00:00:03:30, Duration=00:00:00:00, Position=14:Center, Color=255:255:0, Text="指挥官，不论给你什么报酬，我想都不够。">
+<Time=00:00:08:00, Duration=00:00:00:00, Position=14:Center, Color=255:255:0, Text="我不清楚你是如何把我们从这样的困境给救出来，但我实在很感激。">
+<Time=00:00:10:30, Duration=00:00:00:00, Position=14:Center, Color=255:255:0, Text="这一切都结束后，我打算把你晋升为...呃...">
+<Time=00:00:13:30, Duration=00:00:00:00, Position=14:Center, Color=255:255:0, Text="不论你想当什么官都行。当然，总统除外。">
+<Time=00:00:15:30, Duration=00:00:03:00, Position=14:center, Color=255:255:0, Text="指挥官，随时留意。我需要你。">
+EndMovie
+
+BeginMovie A04_F00E
+Font=batang.ttc
+<Time=00:00:00:30, Duration=00:00:06:00, Position=14:Center, Color=255:255:0, Text="我实在搞不懂天杀的那里发生了什么事，指挥官。">
+<Time=00:00:06:00, Duration=00:00:04:00, Position=14:Center, Color=255:255:0, Text="但你也看得出来，我们在这里倒可以安顿下来。">
+<Time=00:00:10:30, Duration=00:00:00:00, Position=14:center, Color=255:255:0, Text="我知道，加拿大；">
+<Time=00:00:12:30, Duration=00:00:04:00, Position=14:center, Color=255:255:0, Text="这里的乳牛比人还多。">
+<Time=00:00:16:00, Duration=00:00:00:00, Position=14:center, Color=255:255:0, Text="好吧！各就岗位吧。">
+<Time=00:00:18:30, Duration=00:00:02:00, Position=14:center, Color=255:255:0, Text="少尉会替你效劳的。">
+<Time=00:00:21:00, Duration=00:00:00:00, Position=14:center, Color=0:255:0, Text="看来维拉迪摩将军刚刚蹂躏了芝加哥市。">
+<Time=00:00:24:00, Duration=00:00:00:00, Position=14:center, Color=0:255:0, Text="离这里可动用的最近军队在密西根湖对岸。">
+<Time=00:00:27:00, Duration=00:00:03:00, Position=14:center, Color=0:255:0, Text="情报建议我们发动渡湖的两栖攻击。">
+<Time=00:00:31:00, Duration=00:00:03:00, Position=14:center, Color=0:255:0, Text="嗯，我想凡事都得有第一次。">
+<Time=00:00:34:00, Duration=00:00:03:00, Position=14:center, Color=0:255:0, Text="指挥官，祝您好运。">
+EndMovie
+
+BeginMovie A04_P01E
+Font=batang.ttc
+<Time=00:00:01:00, Duration=00:00:05:45, Position=14:Center, Color=255:255:0, Text="指挥官，我们刚刚接获一个关于苏联在芝加哥活动的情报。">
+<Time=00:00:08:00, Duration=00:00:00:00, Position=14:center, Color=255:255:0, Text="这是一组心灵控制增幅器，我们推测要是这组仪器启动了，">
+<Time=00:00:11:30, Duration=00:00:04:00, Position=14:center, Color=255:255:0, Text="就能像控制华盛顿一样，控制全国。">
+<Time=00:00:15:40, Duration=00:00:04:00, Position=14:center, Color=255:255:0, Text="卡维利将军希望您找出这组装置，并加以摧毁。">
+EndMovie
+
+BeginMovie A04_P02E
+Font=batang.ttc
+<Time=00:00:00:30, Duration=00:00:00:00, Position=14:center, Color=255:255:0, Text="指挥官，他们绝对料不到我们会来突袭；实在是太棒了。">
+<Time=00:00:03:30, Duration=00:00:00:00, Position=14:center, Color=255:0:0, Text="给我听着，你们这些该死的美国人，">
+<Time=00:00:06:30, Duration=00:00:00:00, Position=14:center, Color=255:0:0, Text="不管你们躲到天涯还是海角。">
+<Time=00:00:09:30, Duration=00:00:00:00, Position=14:center, Color=255:0:0, Text="你们可以像傀儡师一样指挥自己的军队，">
+<Time=00:00:14:00, Duration=00:00:03:00, Position=14:center, Color=255:0:0, Text="但这是我的舞台。">
+<Time=00:00:18:00, Duration=00:00:00:00, Position=14:center, Color=255:0:0, Text="这是你们所拯救的城市。">
+<Time=00:00:22:00, Duration=00:00:00:00, Position=14:center, Color=255:0:0, Text="没有了被你们鲁莽摧毁的心灵控制增幅器，">
+<Time=00:00:26:30, Duration=00:00:00:00, Position=14:center, Color=255:0:0, Text="我也用不着了。">
+<Time=00:00:30:00, Duration=00:00:04:00, Position=14:center, Color=255:0:0, Text="让你们瞧瞧祖国俄罗斯的力量吧！">
+EndMovie
+
+BeginMovie A05_F00E
+Font=batang.ttc
+<Time=00:00:00:30, Duration=00:00:00:00, Position=14:Center, Color=255:255:0, Text="午安，指挥官。">
+<Time=00:00:02:30, Duration=00:00:00:00, Position=14:Center, Color=255:255:0, Text="总统及欧洲议会正在等您。">
+<Time=00:00:05:00, Duration=00:00:02:00, Position=14:Center, Color=255:255:0, Text="请不要挂断，我会带领您的。">
+<Time=00:00:09:30, Duration=00:00:00:00, Position=14:Center, Color=0:255:0, Text="呀，指挥官，我很高兴你赶到了。">
+<Time=00:00:11:30, Duration=00:00:00:00, Position=14:Center, Color=0:255:0, Text="我和欧洲议会正在讨论援助计划...">
+<Time=00:00:13:30, Duration=00:00:00:00, Position=14:center, Color=128:128:255, Text="只...只是可能而己。">
+<Time=00:00:15:30, Duration=00:00:00:00, Position=14:center, Color=0:255:0, Text="...对美国可能的援助计划。">
+<Time=00:00:19:00, Duration=00:00:00:00, Position=14:center, Color=0:255:0, Text="芝加哥遭受的核子攻击似乎让他们重新考虑。">
+<Time=00:00:22:30, Duration=00:00:00:00, Position=14:center, Color=255:255:255, Text="不要认为我们对你们的处境漠不关心，总统先生。">
+<Time=00:00:25:00, Duration=00:00:00:00, Position=14:center, Color=255:255:255, Text="但对我们来说，美国实在十分遥远。">
+<Time=00:00:28:30, Duration=00:00:00:00, Position=14:center, Color=0:255:0, Text="指挥官，目前我们同意交换特务谭雅出这次任务，">
+<Time=00:00:32:30, Duration=00:00:00:00, Position=14:center, Color=0:255:0, Text="以换取盟军对美国的士兵和物资援助。">
+<Time=00:00:35:30, Duration=00:00:00:00, Position=14:center, Color=255:255:255, Text="前提是满足我们提出的条件。我准备好要下令了。">
+<Time=00:00:40:00, Duration=00:00:00:00, Position=14:center, Color=255:0:0, Text="现在你们给我暂停一下好吗？！这是我要执行的任务。">
+<Time=00:00:43:00, Duration=00:00:00:00, Position=14:center, Color=255:255:255, Text="我们都需要领导人，特务小姐，不是吗？">
+<Time=00:00:46:00, Duration=00:00:00:00, Position=14:center, Color=255:0:0, Text="我们没有时间训练这个人，总统先生。">
+<Time=00:00:49:30, Duration=00:00:00:00, Position=14:center, Color=255:0:0, Text="如果你需要我的人手，就必须把我和指挥官派在一起。">
+<Time=00:00:52:30, Duration=00:00:03:00, Position=14:center, Color=255:0:0, Text="这就是我的条件。">
+<Time=00:00:56:00, Duration=00:00:00:00, Position=14:center, Color=0:255:0, Text="很好。要是你也算上一份，指挥官">
+<Time=00:00:59:00, Duration=00:00:00:00, Position=14:center, Color=0:255:0, Text="～看来你是被征召入伍的～">
+<Time=00:01:01:40, Duration=00:00:00:00, Position=14:center, Color=0:255:0, Text="首相大臣会告诉你细节。">
+<Time=00:01:03:30, Duration=00:00:00:00, Position=14:center, Color=255:0:255, Text="你在第二张照片所见的物体就是苏联飞弹发射井。">
+<Time=00:01:10:00, Duration=00:00:00:00, Position=14:center, Color=255:0:255, Text="指挥官，你也看得出来这些发射井靠得太近了。">
+<Time=00:01:15:00, Duration=00:00:00:00, Position=14:center, Color=255:0:255, Text="我相信洛马诺夫企图威胁不要让我们参战。">
+<Time=00:01:20:00, Duration=00:00:00:00, Position=14:center, Color=128:128:255, Text="除非解除了这项危机，不然我们的人那儿都不会去。">
+<Time=00:01:25:00, Duration=00:00:00:00, Position=14:center, Color=0:255:0, Text="解决掉这些飞弹发射井，战争就接近尾声了。">
+<Time=00:01:29:00, Duration=00:00:03:00, Position=14:center, Color=0:255:0, Text="我们全靠你了，指挥官。">
+EndMovie
+
+BeginMovie A05_P01E
+Font=batang.ttc
+<Time=00:00:00:30, Duration=00:00:00:00, Position=14:center, Color=255:255:0, Text="看来我们已经进入状况了。">
+<Time=00:00:03:00, Duration=00:00:00:00, Position=14:center, Color=255:255:0, Text="我方间谍渗透进苏联的作战实验室，">
+<Time=00:00:04:30, Duration=00:00:00:00, Position=14:center, Color=255:255:0, Text="传递出他们发射井所在位置的工程设计图。">
+<Time=00:00:06:50, Duration=00:00:00:00, Position=14:center, Color=255:255:0, Text="指挥官，我准备要大干一场了。">
+<Time=00:00:08:30, Duration=00:00:00:00, Position=14:center, Color=255:255:0, Text="解决掉那些发射井，准备打道回府吧。">
+<Time=00:00:12:00, Duration=00:00:03:00, Position=14:center, Color=255:255:0, Text="这里变得有点冷了！">
+EndMovie
+
+BeginMovie A05_P02E
+Font=batang.ttc
+<Time=00:00:01:00, Duration=00:00:00:00, Position=14:center, Color=255:255:0, Text="看来我们的爆破间谍小组已经顺利编组了，">
+<Time=00:00:03:50, Duration=00:00:01:30, Position=14:center, Color=255:255:0, Text="我还需要多一点人手。">
+<Time=00:00:05:30, Duration=00:00:03:00, Position=14:center, Color=255:255:0, Text="记住，这次不要用义大利间谍好吗？">
+EndMovie
+
+BeginMovie A05_P03E
+Font=batang.ttc
+<Time=00:00:01:00, Duration=00:00:00:00, Position=14:center, Color=255:255:0, Text="长官，留意苏联警犬。">
+<Time=00:00:03:30, Duration=00:00:03:00, Position=14:center, Color=255:255:0, Text="苏联军队放出警犬来侦测间谍。">
+EndMovie
+
+BeginMovie A06_F00E
+Font=batang.ttc
+<Time=00:00:00:30, Duration=00:00:00:00, Position=14:Center, Color=255:255:0, Text="我得交棒给你了，小子...">
+<Time=00:00:03:00, Duration=00:00:00:00, Position=14:Center, Color=255:255:0, Text="我从来都没看过谭雅为谁卖命。">
+<Time=00:00:06:00, Duration=00:00:00:00, Position=14:center, Color=255:255:0, Text="她目前回乡执行任务，但她要我传送是否有什么、嗯，">
+<Time=00:00:12:00, Duration=00:00:00:00, Position=14:center, Color=255:255:0, Text="必须召集她回来的地方。">
+<Time=00:00:15:30, Duration=00:00:00:00, Position=14:center, Color=255:255:0, Text="嗯，另外你一定也给德国人留下深刻印象了。">
+<Time=00:00:18:30, Duration=00:00:00:00, Position=14:center, Color=255:255:0, Text="基于对你的赏识，他们的大臣决定让你与他们最杰出的科学家接触，">
+<Time=00:00:23:30, Duration=00:00:03:00, Position=14:center, Color=255:255:0, Text="爱因斯坦博士，您还在线上吗？">
+<Time=00:00:26:00, Duration=00:00:00:00, Position=14:center, Color=255:155:0, Text="是的，是的！我在这里，再等一下！">
+<Time=00:00:30:30, Duration=00:00:00:00, Position=14:center, Color=255:155:0, Text="好的，指挥官，">
+<Time=00:00:33:30, Duration=00:00:05:00, Position=14:center, Color=255:155:0, Text="你当然也知道，战争不是我的本行。">
+<Time=00:00:39:30, Duration=00:00:00:00, Position=14:center, Color=255:155:0, Text="我只是个科学家。">
+<Time=00:00:42:30, Duration=00:00:00:00, Position=14:center, Color=255:155:0, Text="但是苏联总理洛马诺夫和他手下的将领除非">
+<Time=00:00:46:00, Duration=00:00:00:00, Position=14:center, Color=255:155:0, Text="用心灵控制了地球上所有人的身体和心智，不然不会善罢甘休。">
+<Time=00:00:53:30, Duration=00:00:00:00, Position=14:center, Color=255:155:0, Text="他们确实拥有心灵科技可以这样做。">
+<Time=00:00:58:30, Duration=00:00:05:00, Position=14:center, Color=255:155:0, Text="但我也，我也懂得一些科技。">
+<Time=00:01:14:00, Duration=00:00:00:00, Position=14:center, Color=255:155:0, Text="这些是光棱塔的草图。">
+<Time=00:01:17:00, Duration=00:00:00:00, Position=14:center, Color=255:155:0, Text="贵国总统对这项科技有很大的兴趣。">
+<Time=00:01:23:00, Duration=00:00:01:30, Position=14:center, Color=255:255:0, Text="博士，非常感谢。">
+<Time=00:01:26:00, Duration=00:00:00:00, Position=14:center, Color=255:255:0, Text="指挥官，红军已经在靠近华盛顿特区建造了能部署磁爆线圈的前进基地。">
+<Time=00:01:33:30, Duration=00:00:00:00, Position=14:center, Color=255:255:0, Text="现在他们可说是根深蒂固了，">
+<Time=00:01:35:30, Duration=00:00:00:00, Position=14:center, Color=255:255:0, Text="但我想要是我们能够夺回首都；我们就能扭转局势。">
+<Time=00:01:40:30, Duration=00:00:00:00, Position=14:center, Color=255:255:0, Text="我已经厌倦一直待在加拿大了。">
+<Time=00:01:44:30, Duration=00:00:03:00, Position=14:center, Color=255:255:0, Text="把我的办公室给抢回来！">
+EndMovie
+
+BeginMovie A06_P01E
+Font=batang.ttc
+<Time=00:00:01:10, Duration=00:00:03:00, Position=14:center, Color=255:255:0, Text="长官，苏联军放出了机械小蜘蛛！">
+<Time=00:00:06:00, Duration=00:00:03:00, Position=14:center, Color=255:255:0, Text="要是我方坦克太过靠近这些机械小蜘蛛，就会被撕裂成碎片。">
+EndMovie
+
+BeginMovie A06_P02E
+Font=batang.ttc
+<Time=00:00:01:00, Duration=00:00:00:00, Position=14:center, Color=255:255:0, Text="是的，指挥官。">
+<Time=00:00:02:30, Duration=00:00:00:00, Position=14:center, Color=255:255:0, Text="我想向您展示一项很有趣的东西。">
+<Time=00:00:07:00, Duration=00:00:03:00, Position=14:center, Color=255:255:0, Text="请，我想让您看一看。">
+<Time=00:00:10:00, Duration=00:00:00:00, Position=14:center, Color=255:255:0, Text="您瞧，">
+<Time=00:00:12:00, Duration=00:00:00:00, Position=14:center, Color=255:255:0, Text="当光棱砲塔 X 位置靠近光棱砲塔 Y 时，">
+<Time=00:00:17:10, Duration=00:00:00:00, Position=14:center, Color=255:255:0, Text="中央光棱砲塔产生的能力，">
+<Time=00:00:23:00, Duration=00:00:00:00, Position=14:center, Color=255:255:0, Text="就会受到 X 与 Y 的影响，增加两倍。">
+<Time=00:00:27:20, Duration=00:00:03:00, Position=14:center, Color=255:255:0, Text="很奇妙吧？">
+EndMovie
+
+BeginMovie A07_F00E
+Font=batang.ttc
+<Time=00:00:00:30, Duration=00:00:00:00, Position=14:Center, Color=255:255:0, Text="指挥官，没有休息是会过劳死的！">
+<Time=00:00:02:30, Duration=00:00:00:00, Position=14:Center, Color=255:255:0, Text="很抱歉吵醒您，但卡维利将军发布了紧急召集令，">
+<Time=00:00:05:30, Duration=00:00:00:00, Position=14:center, Color=255:255:0, Text="预定开始时间是...">
+<Time=00:00:06:30, Duration=00:00:02:00, Position=14:center, Color=255:255:0, Text="现在。">
+<Time=00:00:12:30, Duration=00:00:00:00, Position=14:center, Color=0:255:0, Text="早安，指挥官。">
+<Time=00:00:13:30, Duration=00:00:00:00, Position=14:center, Color=0:255:0, Text="我有好消息也有坏消息。">
+<Time=00:00:15:30, Duration=00:00:05:00, Position=14:center, Color=0:255:0, Text="好消息是很高兴终于又回到家了。">
+<Time=00:00:21:00, Duration=00:00:00:00, Position=14:center, Color=0:255:0, Text="而坏消息是，我们的 U2 侦察机，发现了苏联舰队正航向南太平洋。">
+<Time=00:00:26:00, Duration=00:00:00:00, Position=14:center, Color=0:255:0, Text="看来维拉迪摩将军正动身前往珍珠港的太平洋司令部。">
+<Time=00:00:32:30, Duration=00:00:00:00, Position=14:center, Color=0:255:0, Text="他们很有可能成功的对我们发动攻击。">
+<Time=00:00:37:30, Duration=00:00:00:00, Position=14:center, Color=0:255:0, Text="我要你准备准备，由衷的欢迎这条苏联的牛头犬，维拉迪摩。">
+<Time=00:00:43:30, Duration=00:00:04:00, Position=14:center, Color=0:255:0, Text="喔，指挥官，替自己倒杯咖啡吧。">
+<Time=00:00:48:30, Duration=00:00:03:00, Position=14:center, Color=0:255:0, Text="你看起来气色很差。">
+EndMovie
+
+BeginMovie A07_P01E
+Font=batang.ttc
+<Time=00:00:03:00, Duration=00:00:00:00, Position=14:center, Color=255:255:0, Text="长官，情况看起来不太乐观；">
+<Time=00:00:05:00, Duration=00:00:03:00, Position=14:center, Color=255:255:0, Text="要是没有援军赶到，我们很快就会全军阵亡了。">
+EndMovie
+
+BeginMovie A07_P02E
+Font=batang.ttc
+<Time=00:00:00:40, Duration=00:00:00:00, Position=14:center, Color=255:255:0, Text="指挥官，您的时空裂缝产生器可以用来阻挠苏联雷达。">
+<Time=00:00:05:00, Duration=00:00:03:00, Position=14:center, Color=255:255:0, Text="就能阻止他们在这块区域里发射核子武器。">
+EndMovie
+
+BeginMovie A08_F00E
+Font=batang.ttc
+<Time=00:00:00:30, Duration=00:00:02:00, Position=14:Center, Color=255:255:0, Text="指挥官，你在夏威夷的表现真是太杰出了，">
+<Time=00:00:03:30, Duration=00:00:00:00, Position=14:Center, Color=255:255:0, Text="我知道你的心在见到威奇奇海滩就想整个定下来了，">
+<Time=00:00:08:00, Duration=00:00:00:00, Position=14:Center, Color=255:255:0, Text="但我们在圣路易有新的状况。">
+<Time=00:00:11:30, Duration=00:00:00:00, Position=14:Right, Color=0:255:0, Text="密苏里中央地带现在是我国所有地面作战">
+<Time=00:00:15:30, Duration=00:00:00:00, Position=14:Right, Color=0:255:0, Text="的发动处，我们要是没有这地方，">
+<Time=00:00:19:30, Duration=00:00:02:00, Position=14:Right, Color=0:255:0, Text="势必会陷入愁云惨雾之中。">
+<Time=00:00:21:30, Duration=00:00:05:00, Position=14:center, Color=0:255:0, Text="问题是尤里和他的超能部队在城里安置了另一座心灵信标。">
+<Time=00:00:27:30, Duration=00:00:00:00, Position=14:Left, Color=255:255:0, Text="我从来不曾想过要派你去对付自己的同胞。">
+<Time=00:00:30:30, Duration=00:00:00:00, Position=14:Left, Color=255:255:0, Text="但这些心灵信标将正直的美国同胞转变">
+<Time=00:00:32:30, Duration=00:00:00:00, Position=14:Left, Color=255:255:0, Text="为受苏联控制的杀手。">
+<Time=00:00:35:30, Duration=00:00:00:00, Position=14:Left, Color=255:255:0, Text="动作迅速、明确，">
+<Time=00:00:37:30, Duration=00:00:03:00, Position=14:Left, Color=255:255:0, Text="试着不要伤害我的选民，好吗？">
+<Time=00:00:42:00, Duration=00:00:00:00, Position=14:Center, Color=255:0:0, Text="不幸地，您必须这样做。">
+<Time=00:00:44:00, Duration=00:00:00:00, Position=14:Center, Color=255:0:0, Text="谭雅的突击队已经准备就绪。但是我们不清楚他们能行动多久，">
+<Time=00:00:49:00, Duration=00:00:00:00, Position=14:Center, Color=255:0:0, Text="才会受心灵信标控制...呃...">
+<Time=00:00:51:30, Duration=00:00:01:30, Position=14:Center, Color=255:0:0, Text="等等，指挥官。">
+<Time=00:00:54:30, Duration=00:00:03:00, Position=14:Center, Color=255:255:255, Text="是的，她不是在开玩笑，指挥官。">
+<Time=00:00:56:30, Duration=00:00:00:00, Position=14:Center, Color=255:255:255, Text="要是我们移动不够迅速，">
+<Time=00:00:58:00, Duration=00:00:00:00, Position=14:Center, Color=255:255:255, Text="我们就会全部变成洛马诺夫和那与他形影不离的尤里的奴隶。">
+<Time=00:01:01:00, Duration=00:00:00:00, Position=14:Center, Color=255:255:255, Text="您了解我在说什么吗？没什么比一名战士">
+<Time=00:01:05:00, Duration=00:00:02:30, Position=14:Center, Color=255:255:255, Text="失去自己的心智更惨的了。">
+<Time=00:01:10:00, Duration=00:00:02:30, Position=14:Center, Color=255:255:255, Text="我们只能信赖您了。">
+EndMovie
+
+BeginMovie A08_P01E
+Font=batang.ttc
+<Time=00:00:01:00, Duration=00:00:03:00, Position=14:center, Color=255:255:0, Text="捡起摄影机，捡起摄影机！">
+<Time=00:00:05:20, Duration=00:00:02:00, Position=14:center, Color=255:255:0, Text="不，是这里。">
+<Time=00:00:07:30, Duration=00:00:02:00, Position=14:center, Color=255:255:0, Text="拍我，你这个笨蛋！">
+<Time=00:00:10:30, Duration=00:00:02:00, Position=14:center, Color=255:255:0, Text="嘿，指挥官，">
+<Time=00:00:13:00, Duration=00:00:02:00, Position=14:center, Color=255:255:0, Text="你不觉得是下令撤退的时间了吗？">
+<Time=00:00:16:00, Duration=00:00:02:00, Position=14:center, Color=255:255:0, Text="为什么作战无法避免？">
+<Time=00:00:19:00, Duration=00:00:04:00, Position=14:center, Color=255:255:0, Text="现在加入胜利的一方太迟了。">
+<Time=00:00:24:30, Duration=00:00:03:00, Position=14:center, Color=255:255:0, Text="哈，哈，哈，哈！">
+<Time=00:00:29:00, Duration=00:00:01:30, Position=14:center, Color=255:255:0, Text="走吧！">
+<Time=00:00:32:00, Duration=00:00:02:30, Position=14:center, Color=255:255:0, Text="祖国万岁！">
+EndMovie
+
+
+BeginMovie A08_P02E
+Font=batang.ttc
+<Time=00:00:01:00, Duration=00:00:02:00, Position=14:center, Color=255:255:0, Text="指挥官，我们认为你一定会喜欢这个的。">
+<Time=00:00:04:30, Duration=00:00:00:00, Position=14:center, Color=255:255:0, Text="这是爱因斯塔的光棱科技机动版。">
+<Time=00:00:07:00, Duration=00:00:02:00, Position=14:center, Color=255:255:0, Text="实验室里的人称呼这叫光棱坦克。">
+<Time=00:00:09:30, Duration=00:00:02:30, Position=14:center, Color=255:255:0, Text="当心别烧伤自己了。">
+EndMovie
+
+BeginMovie A09_F00E
+Font=batang.ttc
+<Time=00:00:00:30, Duration=00:00:00:00, Position=14:Center, Color=255:0:0, Text="苏联军队今天在数个关键地区撤退或投降了...">
+<Time=00:00:04:00, Duration=00:00:02:30, Position=14:Center, Color=255:0:0, Text="请收看第九频道的战争新闻，就可知道是那些地区...">
+<Time=00:00:07:30, Duration=00:00:00:00, Position=14:Center, Color=255:255:0, Text="别太放松了，指挥官。洛马诺夫还有得打呢。">
+<Time=00:00:12:00, Duration=00:00:05:00, Position=14:Center, Color=255:255:0, Text="很显然苏联人认为我们不会注意到位于犹加敦的这处研发设施。">
+<Time=00:00:18:00, Duration=00:00:05:00, Position=14:Center, Color=255:255:0, Text="从这些指数上我们可以判断，他们正在尝试要复制爱因斯坦的光棱科技。">
+<Time=00:00:24:00, Duration=00:00:05:00, Position=14:Center, Color=255:255:0, Text="您的目的地是靠近加勒比海海岸的马雅废墟城市，都兰。">
+<Time=00:00:29:00, Duration=00:00:00:00, Position=14:Center, Color=255:255:0, Text="我们空降了一组海豹小组，协助您找出并摧毁这座设施。">
+<Time=00:00:33:00, Duration=00:00:02:00, Position=14:Center, Color=255:255:0, Text="我想您会喜欢上这些人。">
+EndMovie
+
+BeginMovie A09_P01E
+Font=batang.ttc
+<Time=00:00:01:00, Duration=00:00:00:00, Position=14:center, Color=255:255:0, Text="指挥官，海豹小组解放了一群当地的自由斗士。">
+<Time=00:00:04:50, Duration=00:00:00:00, Position=14:center, Color=255:255:0, Text="他们愿意用苏联研发设施的位置资讯来交换">
+<Time=00:00:07:40, Duration=00:00:00:00, Position=14:center, Color=255:255:0, Text="与我们并肩作战的机会。">
+<Time=00:00:11:00, Duration=00:00:02:00, Position=14:center, Color=255:255:0, Text="我想您应该不会介意。">
+EndMovie
+
+BeginMovie A10_F00E
+Font=batang.ttc
+<Time=00:00:00:50, Duration=00:00:00:00, Position=14:Center, Color=255:255:0, Text="指挥官，别让恶势力有喘息的机会。">
+<Time=00:00:03:00, Duration=00:00:00:00, Position=14:Center, Color=255:255:0, Text="我们都要前往德国。">
+<Time=00:00:05:00, Duration=00:00:00:00, Position=14:Center, Color=255:255:0, Text="我要到柏林，我们计划从那里发动最后决战。">
+<Time=00:00:10:00, Duration=00:00:00:00, Position=14:Center, Color=255:255:0, Text="洛马诺夫可不是什么傻子。他让我们吃足了苦头。">
+<Time=00:00:14:30, Duration=00:00:00:00, Position=14:Center, Color=255:255:0, Text="他的主要目标是爱因斯坦在黑森林里的实验室。">
+<Time=00:00:19:00, Duration=00:00:00:00, Position=14:Center, Color=255:255:0, Text="我希望你与当地部队合作，让苏联军队无法接近实验室一步。">
+<Time=00:00:24:00, Duration=00:00:03:00, Position=14:Center, Color=255:255:0, Text="爱因斯坦是我们的最后王牌，我们可承担不起失去他的损失。">
+<Time=00:00:28:00, Duration=00:00:01:30, Position=14:Center, Color=255:255:0, Text="再见，指挥官。">
+EndMovie
+
+BeginMovie A10_P01E
+Font=batang.ttc
+<Time=00:00:00:30, Duration=00:00:03:00, Position=14:center, Color=255:255:0, Text="指挥官，我有大好消息要告诉你。">
+<Time=00:00:04:00, Duration=00:00:03:00, Position=14:center, Color=255:255:0, Text="这是我的幻影号坦克。">
+<Time=00:00:07:00, Duration=00:00:00:00, Position=14:center, Color=255:255:0, Text="幻影号的神奇功能是能准确模仿其所锁定的任何有机物的外观。">
+<Time=00:00:14:00, Duration=00:00:02:00, Position=14:center, Color=255:255:0, Text="看...">
+<Time=00:00:19:00, Duration=00:00:03:00, Position=14:center, Color=255:255:0, Text="看到了吗！？">
+<Time=00:00:20:45, Duration=00:00:03:00, Position=14:center, Color=255:255:0, Text="这真是太神奇了，不是吗？">
+EndMovie
+
+BeginMovie A10_P02E
+Font=batang.ttc
+<Time=00:00:01:00, Duration=00:00:00:00, Position=14:center, Color=255:255:0, Text="指挥官，我连结到间谍卫星了。">
+<Time=00:00:04:00, Duration=00:00:00:00, Position=14:center, Color=255:255:0, Text="在我们对谈的过程中，就能上线运作了...">
+<Time=00:00:07:00, Duration=00:00:00:00, Position=14:center, Color=255:255:0, Text="等，等等！是天启坦克。">
+<Time=00:00:11:00, Duration=00:00:03:00, Position=14:center, Color=255:255:0, Text="当心呀，长官。">
+EndMovie
+
+BeginMovie A11_F00E
+Font=batang.ttc
+<Time=00:00:05:00, Duration=00:00:00:00, Position=14:Center, Color=255:255:0, Text="指挥官，我们对于卡维利将军的事都感到很遗憾。">
+<Time=00:00:07:30, Duration=00:00:00:00, Position=14:Center, Color=255:255:0, Text="苏联人到处滥用疯狂伊文。">
+<Time=00:00:10:50, Duration=00:00:00:00, Position=14:Center, Color=255:255:0, Text="卡维利将军总是说，您是能带领我们赢得胜利的人。">
+<Time=00:00:13:50, Duration=00:00:02:00, Position=14:Center, Color=255:255:0, Text="看来您已经证明他所言不假。">
+<Time=00:00:18:30, Duration=00:00:03:20, Position=14:Center, Color=255:255:0, Text="指挥官，爱因斯坦博士在二号闭路频道上。">
+<Time=00:00:25:30, Duration=00:00:00:00, Position=14:Center, Color=0:255:0, Text="请容我说声谢谢，指挥官。">
+<Time=00:00:28:30, Duration=00:00:00:00, Position=14:Center, Color=0:255:0, Text="谢谢你拯救了我的家园。">
+<Time=00:00:32:30, Duration=00:00:00:00, Position=14:Center, Color=0:255:0, Text="我有件东西，呃，该怎么说？回报，对吧？">
+<Time=00:00:37:30, Duration=00:00:00:00, Position=14:Center, Color=0:255:0, Text="你也知道，呃，我的超时空传送仪吧？">
+<Time=00:00:43:00, Duration=00:00:00:00, Position=14:Center, Color=0:255:0, Text="超时空传送仪是能在时空中传送物体的装置。">
+<Time=00:00:51:10, Duration=00:00:00:00, Position=14:Center, Color=0:255:0, Text="我日以继夜，耗费了许多时间，">
+<Time=00:00:54:40, Duration=00:00:00:00, Position=14:Center, Color=0:255:0, Text="终于找出部署这项武器的最佳地点。">
+<Time=00:00:59:00, Duration=00:00:00:00, Position=14:Center, Color=0:255:0, Text="只有一个小问题。">
+<Time=00:01:02:00, Duration=00:00:00:00, Position=14:Center, Color=0:255:0, Text="最完美的地方是在这里，">
+<Time=00:01:06:30, Duration=00:00:00:00, Position=14:Center, Color=0:255:0, Text="佛罗里达传送点的一个小岛上～">
+<Time=00:01:12:00, Duration=00:00:04:00, Position=14:Center, Color=0:255:0, Text="只离苏联盟友古巴几公里远。">
+<Time=00:01:21:00, Duration=00:00:03:00, Position=14:Center, Color=0:255:0, Text="嗯，我得回去工作了。">
+<Time=00:01:25:30, Duration=00:00:00:00, Position=14:Center, Color=255:255:0, Text="有了这项情报，我就能收集与苏联在此区域的核子武器的相关资讯。">
+<Time=00:01:30:30, Duration=00:00:03:00, Position=14:Center, Color=255:255:0, Text="他们将是超时空传送仪的最大威胁。">
+<Time=00:01:33:00, Duration=00:00:03:00, Position=14:Center, Color=255:255:0, Text="指挥官，祝您好运。">
+EndMovie
+
+BeginMovie A11_P01E
+Font=batang.ttc
+<Time=00:00:00:30, Duration=00:00:00:00, Position=14:center, Color=255:255:0, Text="这段讯息是发给你的，躲起来的指挥官呀，">
+<Time=00:00:05:30, Duration=00:00:00:00, Position=14:center, Color=255:255:0, Text="你可以继续跳你的舞，但你肯定再也笑不出来。">
+<Time=00:00:11:30, Duration=00:00:00:00, Position=14:center, Color=255:255:0, Text="现在是向苏联投降的时间了，指挥官。">
+<Time=00:00:17:30, Duration=00:00:05:00, Position=14:center, Color=255:255:0, Text="尝过我核弹的威力后，你一定会乞求我再给你一次机会。">
+EndMovie
+
+BeginMovie A11_P02E
+Font=batang.ttc
+<Time=00:00:03:00, Duration=00:00:00:00, Position=14:center, Color=255:255:0, Text="我警告你，我们会毁灭你，指挥官。">
+<Time=00:00:06:30, Duration=00:00:03:00, Position=14:center, Color=255:255:0, Text="现在是最后的警告...">
+<Time=00:00:11:00, Duration=00:00:00:30, Position=14:center, Color=255:255:0, Text="什么？">
+<Time=00:00:12:00, Duration=00:00:01:00, Position=14:center, Color=0:255:0, Text="...被破坏了">
+<Time=00:00:14:30, Duration=00:00:01:00, Position=14:center, Color=0:255:0, Text="...呀！">
+<Time=00:00:16:00, Duration=00:00:01:00, Position=14:center, Color=0:255:0, Text="飞弹被破坏了！">
+<Time=00:00:17:30, Duration=00:00:01:00, Position=14:center, Color=255:255:0, Text="但是...">
+<Time=00:00:18:20, Duration=00:00:01:00, Position=14:center, Color=0:255:0, Text="Nyet！">
+<Time=00:00:20:30, Duration=00:00:00:00, Position=14:center, Color=255:255:0, Text="啊！指挥官，你的死期到了！">
+<Time=00:00:24:50, Duration=00:00:00:00, Position=14:center, Color=255:255:0, Text="我一定会粉碎你。">
+<Time=00:00:28:00, Duration=00:00:03:00, Position=14:center, Color=255:255:0, Text="不会让你等太久的。">
+EndMovie
+
+BeginMovie A11_P03E
+Font=batang.ttc
+<Time=00:00:01:30, Duration=00:00:00:00, Position=14:center, Color=255:255:0, Text="指挥官，我以为我什么都见识过了，">
+<Time=00:00:04:00, Duration=00:00:01:30, Position=14:center, Color=255:255:0, Text="但这是前所未见的。">
+<Time=00:00:06:30, Duration=00:00:00:00, Position=14:center, Color=255:255:0, Text="您猜对了，受心灵控制的乌贼。">
+<Time=00:00:09:00, Duration=00:00:04:00, Position=14:center, Color=255:255:0, Text="情报指出，唯一有效的对策是经过特别训练的海豚。">
+<Time=00:00:13:30, Duration=00:00:00:00, Position=14:center, Color=255:255:0, Text="目前已经准备就绪，等待您的命令。">
+<Time=00:00:14:50, Duration=00:00:00:00, Position=14:center, Color=255:255:0, Text="再来还会有什么？！杀人鲸吗？！">
+<Time=00:00:17:30, Duration=00:00:03:00, Position=14:center, Color=255:255:0, Text="祝您好运，指挥官。">
+EndMovie
+
+BeginMovie A12_F00E
+Font=batang.ttc
+<Time=00:00:13:30, Duration=00:00:03:00, Position=14:Center, Color=255:255:0, Text="他为国家贡献良多。是位光荣的美国人。">
+<Time=00:00:19:00, Duration=00:00:00:00, Position=14:Center, Color=255:255:0, Text="我知道卡维利将军看到你继承他的盟军总司令之位，">
+<Time=00:00:22:00, Duration=00:00:00:00, Position=14:Center, Color=255:255:0, Text="一定会觉得很光荣。">
+<Time=00:00:25:00, Duration=00:00:00:00, Position=14:Center, Color=255:255:0, Text="将军，接下来我们需要由你领导部队。">
+<Time=00:00:28:00, Duration=00:00:00:00, Position=14:Center, Color=255:255:0, Text="下一站是克里姆林宫。">
+<Time=00:00:30:00, Duration=00:00:00:00, Position=14:Center, Color=255:255:0, Text="特务谭雅奉命进入克里姆林宫，找出洛马诺夫，">
+<Time=00:00:33:30, Duration=00:00:03:30, Position=14:Center, Color=255:255:0, Text="他一定要为千百万死于他手中的无辜生命付出代价。">
+<Time=00:00:42:00, Duration=00:00:00:00, Position=14:Center, Color=255:255:0, Text="记住，我们的军力仍然是一比三的劣势。">
+<Time=00:00:45:00, Duration=00:00:00:00, Position=14:Center, Color=255:255:0, Text="所以我们会透过位于传送点的超时空传送仪，派遣所有部队。">
+<Time=00:00:48:00, Duration=00:00:00:00, Position=14:Center, Color=255:255:0, Text="部队抵达俄国之后，就听从你的指挥了，指挥官。">
+<Time=00:00:50:20, Duration=00:00:00:00, Position=14:Center, Color=255:255:0, Text="攻占克里姆林宫！">
+<Time=00:00:52:00, Duration=00:00:02:00, Position=14:Center, Color=255:255:0, Text="结束这场战争。">
+EndMovie
+
+BeginMovie A12_P01E
+Font=batang.ttc
+<Time=00:00:00:50, Duration=00:00:00:00, Position=14:center, Color=255:255:0, Text="指挥官，我方战场上的超时空部队回报，">
+<Time=00:00:03:30, Duration=00:00:00:00, Position=14:center, Color=255:255:0, Text="一切障碍均已扫除。">
+<Time=00:00:05:00, Duration=00:00:03:00, Position=14:center, Color=255:255:0, Text="他们准备要迎接您的机动基地车。">
+EndMovie
+
+BeginMovie A12_P02E
+Font=batang.ttc
+<Time=00:00:02:00, Duration=00:00:00:00, Position=14:center, Color=255:255:0, Text="嗯，指挥官。">
+<Time=00:00:04:00, Duration=00:00:00:00, Position=14:center, Color=255:255:0, Text="就我所学，操纵大自然的力量不是个好主意，">
+<Time=00:00:10:00, Duration=00:00:04:30, Position=14:center, Color=255:255:0, Text="但这邪恶的洛马诺夫一再逼进，我们别无选择。">
+<Time=00:00:17:00, Duration=00:00:00:00, Position=14:center, Color=255:255:0, Text="这组天气控制装置能有效控制天气型态。">
+<Time=00:00:24:00, Duration=00:00:00:00, Position=14:center, Color=255:255:0, Text="这可是上帝的玩具呀，指挥官。">
+<Time=00:00:27:30, Duration=00:00:03:00, Position=14:center, Color=255:255:0, Text="请谨慎使用！">
+EndMovie
+
+BeginMovie A13_F01E
+Font=batang.ttc
+<Time=00:00:08:20, Duration=00:00:01:30, Position=14:Center, Color=255:255:0, Text="洛马诺夫在那儿？">
+<Time=00:00:35:30, Duration=00:00:00:00, Position=14:Center, Color=0:255:0, Text="...经过数个月的血腥混战，">
+<Time=00:00:39:00, Duration=00:00:00:00, Position=14:Center, Color=0:255:0, Text="就在今天下午，盟军展现出令人措手不及的高科技及优良的传统军事纪律，">
+<Time=00:00:42:00, Duration=00:00:00:00, Position=14:Center, Color=0:255:0, Text="在克里姆林宫的指挥所，俘虏了苏联总理洛马诺夫。">
+<Time=00:00:45:00, Duration=00:00:00:00, Position=14:Center, Color=0:255:0, Text="盟军这次令人惊喜而成功的军事行动，">
+<Time=00:00:48:00, Duration=00:00:00:00, Position=14:Center, Color=0:255:0, Text="大部分要归功于这位知名度并不高的指挥官，他来自......">
+EndMovie
+
+BeginMovie A13_F02E
+Font=batang.ttc
+<Time=00:00:00:40, Duration=00:00:03:00, Position=14:Center, Color=255:255:0, Text="当你为自己庆功之后，">
+<Time=00:00:03:00, Duration=00:00:03:00, Position=14:Center, Color=255:255:0, Text="我给你个小小的建议。">
+<Time=00:00:04:30, Duration=00:00:03:00, Position=14:Center, Color=255:255:0, Text="总统邀请你...">
+<Time=00:00:06:30, Duration=00:00:03:00, Position=14:Center, Color=255:255:0, Text="不，我们...参加他今晚在白宫办的庆功宴...">
+<Time=00:00:11:00, Duration=00:00:00:00, Position=14:Center, Color=255:255:0, Text="我想或许你想搭个便车。">
+<Time=00:00:13:30, Duration=00:00:00:00, Position=14:Center, Color=255:255:0, Text="听听直升机的声音。">
+<Time=00:00:16:30, Duration=00:00:04:00, Position=14:Center, Color=255:255:0, Text="看在老天的份上，大兵，冲冲澡吧！">
+EndMovie
+
+;First S Mission Briefing
+BeginMovie S01_F00E
+Font=batang.ttc
+<Time=00:00:01:30, Duration=00:00:03:00, Position=14:Center, Color=255:255:0, Text="将军同志！">
+<Time=00:00:03:30, Duration=00:00:00:00, Position=14:Center, Color=255:255:0, Text="我是佐菲亚少尉；">
+<Time=00:00:06:00, Duration=00:00:03:00, Position=14:Center, Color=255:255:0, Text="我的职责是监督您顺利指挥军务。">
+<Time=00:00:10:00, Duration=00:00:00:00, Position=14:Center, Color=255:255:0, Text="自大战之后，我已经成功的协助完成超过五十场的">
+<Time=00:00:13:00, Duration=00:00:00:00, Position=14:center, Color=255:255:0, Text="模拟战役。">
+<Time=00:00:15:00, Duration=00:00:03:00, Position=14:center, Color=255:255:0, Text="相信我的表现，一定会超出您的满意。">
+<Time=00:00:20:30, Duration=00:00:00:00, Position=14:center, Color=255:255:0, Text="请稍候，同志；">
+<Time=00:00:22:30, Duration=00:00:00:00, Position=14:center, Color=255:255:0, Text="是洛马诺夫总理本人！">
+<Time=00:00:25:30, Duration=00:00:00:00, Position=14:center, Color=0:255:0, Text="迷人的佐菲亚少尉是否依然努力不懈，争取晋升机会呢？">
+<Time=00:00:28:30, Duration=00:00:00:00, Position=14:center, Color=0:255:0, Text="请让我和将军私下说一下话。">
+<Time=00:00:31:00, Duration=00:00:02:00, Position=14:Center, Color=255:255:0, Text="遵命，总理。">
+<Time=00:00:33:40, Duration=00:00:04:00, Position=14:Center, Color=0:255:0, Text="将军同志，一同欢迎苏联的未来吧。">
+<Time=00:00:37:00, Duration=00:00:00:00, Position=14:Center, Color=0:255:0, Text="我想向你介绍这位小朋友。">
+<Time=00:00:41:00, Duration=00:00:00:00, Position=14:Center, Color=0:255:0, Text="这是山姆。">
+<Time=00:00:42:30, Duration=00:00:00:00, Position=14:Center, Color=0:255:0, Text="就好像山姆大叔！">
+<Time=00:00:44:00, Duration=00:00:03:00, Position=14:Center, Color=0:255:0, Text="打声招呼吧，小山姆大叔。">
+<Time=00:00:48:00, Duration=00:00:00:00, Position=14:Center, Color=0:255:0, Text="那些美国佬，">
+<Time=00:00:50:00, Duration=00:00:00:00, Position=14:Center, Color=0:255:0, Text="在儿童电影里拿海龟当主角，教他们的小孩害怕苏联。">
+<Time=00:00:54:00, Duration=00:00:00:00, Position=14:Center, Color=0:255:0, Text="这只小海龟看到了苏联的大飞弹发射而来了，">
+<Time=00:00:57:00, Duration=00:00:00:00, Position=14:Center, Color=0:255:0, Text="就躲进他的龟壳躲了起来，">
+<Time=00:00:59:00, Duration=00:00:05:00, Position=14:Center, Color=0:255:0, Text="就好像没用又怕死的美国人。">
+<Time=00:01:04:30, Duration=00:00:00:00, Position=14:Center, Color=0:255:0, Text="今天，我们将名垂史册，同志！">
+<Time=00:01:07:00, Duration=00:00:00:00, Position=14:Center, Color=0:255:0, Text="我们将联手摧毁美国。">
+<Time=00:01:10:00, Duration=00:00:00:00, Position=14:Center, Color=0:255:0, Text="他们的城市、家园、梦想，或许还有更多可以摧毁。">
+<Time=00:01:13:00, Duration=00:00:05:00, Position=14:Center, Color=0:255:0, Text="这位是我的顾问，尤里。他会协助我们让一切成真。">
+<Time=00:01:19:30, Duration=00:00:03:00, Position=14:Center, Color=0:0:255, Text="我和你一样，都是苏联的仆人。">
+<Time=00:01:22:30, Duration=00:00:03:00, Position=14:Center, Color=0:0:255, Text="不过，此刻我们必须加快速度。">
+<Time=00:01:25:00, Duration=00:00:03:00, Position=14:Center, Color=0:0:255, Text="时间十分紧迫。">
+<Time=00:01:26:00, Duration=00:00:00:00, Position=14:Center, Color=0:255:0, Text="当然。">
+<Time=00:01:27:30, Duration=00:00:03:00, Position=14:Center, Color=0:255:0, Text="同志，你的首要目标是">
+<Time=00:01:30:30, Duration=00:00:00:00, Position=14:Center, Color=0:255:0, Text="华盛顿特区。">
+<Time=00:01:33:30, Duration=00:00:00:00, Position=14:Center, Color=0:255:0, Text="向我们证实对你的信赖是正确的吧，将军同志。">
+<Time=00:01:36:30, Duration=00:00:05:00, Position=14:Center, Color=0:255:0, Text="粉碎美国首府的所有盟军，摧毁五角大厦。">
+EndMovie
+
+BeginMovie S01_F00F
+Font=batang.ttc
+<Time=00:00:01:30, Duration=00:00:03:00, Position=14:Center, Color=255:255:0, Text="将军同志！">
+<Time=00:00:03:30, Duration=00:00:00:00, Position=14:Center, Color=255:255:0, Text="我是佐菲亚少尉；">
+<Time=00:00:06:00, Duration=00:00:03:00, Position=14:Center, Color=255:255:0, Text="我的职责是监督您顺利指挥军务。">
+<Time=00:00:10:00, Duration=00:00:00:00, Position=14:Center, Color=255:255:0, Text="自大战之后，我已经成功的协助完成超过五十场的">
+<Time=00:00:13:00, Duration=00:00:00:00, Position=14:center, Color=255:255:0, Text="模拟战役。">
+<Time=00:00:15:00, Duration=00:00:03:00, Position=14:center, Color=255:255:0, Text="相信我的表现，一定会超出您的满意。">
+<Time=00:00:20:30, Duration=00:00:00:00, Position=14:center, Color=255:255:0, Text="请稍候，同志；">
+<Time=00:00:22:30, Duration=00:00:00:00, Position=14:center, Color=255:255:0, Text="是洛马诺夫总理本人！">
+<Time=00:00:25:30, Duration=00:00:00:00, Position=14:center, Color=0:255:0, Text="迷人的佐菲亚少尉是否依然努力不懈，争取晋升机会呢？">
+<Time=00:00:28:30, Duration=00:00:00:00, Position=14:center, Color=0:255:0, Text="请让我和将军私下说一下话。">
+<Time=00:00:31:00, Duration=00:00:02:00, Position=14:Center, Color=255:255:0, Text="遵命，总理。">
+<Time=00:00:33:40, Duration=00:00:04:00, Position=14:Center, Color=0:255:0, Text="将军同志，一同欢迎苏联的未来吧。">
+<Time=00:00:37:00, Duration=00:00:00:00, Position=14:Center, Color=0:255:0, Text="我想向你介绍这位小朋友。">
+<Time=00:00:41:00, Duration=00:00:00:00, Position=14:Center, Color=0:255:0, Text="这是山姆。">
+<Time=00:00:42:30, Duration=00:00:00:00, Position=14:Center, Color=0:255:0, Text="就好像山姆大叔！">
+<Time=00:00:44:00, Duration=00:00:03:00, Position=14:Center, Color=0:255:0, Text="打声招呼吧，小山姆大叔。">
+<Time=00:00:48:00, Duration=00:00:00:00, Position=14:Center, Color=0:255:0, Text="那些美国佬，">
+<Time=00:00:50:00, Duration=00:00:00:00, Position=14:Center, Color=0:255:0, Text="在儿童电影里拿海龟当主角，教他们的小孩害怕苏联。">
+<Time=00:00:54:00, Duration=00:00:00:00, Position=14:Center, Color=0:255:0, Text="这只小海龟看到了苏联的大飞弹发射而来了，">
+<Time=00:00:57:00, Duration=00:00:00:00, Position=14:Center, Color=0:255:0, Text="就躲进他的龟壳躲了起来，">
+<Time=00:00:59:00, Duration=00:00:05:00, Position=14:Center, Color=0:255:0, Text="就好像没用又怕死的美国人。">
+<Time=00:01:04:30, Duration=00:00:00:00, Position=14:Center, Color=0:255:0, Text="今天，我们将名垂史册，同志！">
+<Time=00:01:07:00, Duration=00:00:00:00, Position=14:Center, Color=0:255:0, Text="我们将联手摧毁美国。">
+<Time=00:01:10:00, Duration=00:00:00:00, Position=14:Center, Color=0:255:0, Text="他们的城市、家园、梦想，或许还有更多可以摧毁。">
+<Time=00:01:13:00, Duration=00:00:05:00, Position=14:Center, Color=0:255:0, Text="这位是我的顾问，尤里。他会协助我们让一切成真。">
+<Time=00:01:19:30, Duration=00:00:03:00, Position=14:Center, Color=0:0:255, Text="我和你一样，都是苏联的仆人。">
+<Time=00:01:22:30, Duration=00:00:03:00, Position=14:Center, Color=0:0:255, Text="不过，此刻我们必须加快速度。">
+<Time=00:01:25:00, Duration=00:00:03:00, Position=14:Center, Color=0:0:255, Text="时间十分紧迫。">
+<Time=00:01:26:00, Duration=00:00:00:00, Position=14:Center, Color=0:255:0, Text="当然。">
+<Time=00:01:27:30, Duration=00:00:03:00, Position=14:Center, Color=0:255:0, Text="同志，你的首要目标是">
+<Time=00:01:30:30, Duration=00:00:00:00, Position=14:Center, Color=0:255:0, Text="华盛顿特区。">
+<Time=00:01:33:30, Duration=00:00:00:00, Position=14:Center, Color=0:255:0, Text="向我们证实对你的信赖是正确的吧，将军同志。">
+<Time=00:01:36:30, Duration=00:00:05:00, Position=14:Center, Color=0:255:0, Text="粉碎美国首府的所有盟军，摧毁五角大厦。">
+EndMovie
+
+BeginMovie S01_F00G
+Font=batang.ttc
+<Time=00:00:01:30, Duration=00:00:03:00, Position=14:Center, Color=255:255:0, Text="将军同志！">
+<Time=00:00:03:30, Duration=00:00:00:00, Position=14:Center, Color=255:255:0, Text="我是佐菲亚少尉；">
+<Time=00:00:06:00, Duration=00:00:03:00, Position=14:Center, Color=255:255:0, Text="我的职责是监督您顺利指挥军务。">
+<Time=00:00:10:00, Duration=00:00:00:00, Position=14:Center, Color=255:255:0, Text="自大战之后，我已经成功的协助完成超过五十场的">
+<Time=00:00:13:00, Duration=00:00:00:00, Position=14:center, Color=255:255:0, Text="模拟战役。">
+<Time=00:00:15:00, Duration=00:00:03:00, Position=14:center, Color=255:255:0, Text="相信我的表现，一定会超出您的满意。">
+<Time=00:00:20:30, Duration=00:00:00:00, Position=14:center, Color=255:255:0, Text="请稍候，同志；">
+<Time=00:00:22:30, Duration=00:00:00:00, Position=14:center, Color=255:255:0, Text="是洛马诺夫总理本人！">
+<Time=00:00:25:30, Duration=00:00:00:00, Position=14:center, Color=0:255:0, Text="迷人的佐菲亚少尉是否依然努力不懈，争取晋升机会呢？">
+<Time=00:00:28:30, Duration=00:00:00:00, Position=14:center, Color=0:255:0, Text="请让我和将军私下说一下话。">
+<Time=00:00:31:00, Duration=00:00:02:00, Position=14:Center, Color=255:255:0, Text="遵命，总理。">
+<Time=00:00:33:40, Duration=00:00:04:00, Position=14:Center, Color=0:255:0, Text="将军同志，一同欢迎苏联的未来吧。">
+<Time=00:00:37:00, Duration=00:00:00:00, Position=14:Center, Color=0:255:0, Text="我想向你介绍这位小朋友。">
+<Time=00:00:41:00, Duration=00:00:00:00, Position=14:Center, Color=0:255:0, Text="这是山姆。">
+<Time=00:00:42:30, Duration=00:00:00:00, Position=14:Center, Color=0:255:0, Text="就好像山姆大叔！">
+<Time=00:00:44:00, Duration=00:00:03:00, Position=14:Center, Color=0:255:0, Text="打声招呼吧，小山姆大叔。">
+<Time=00:00:48:00, Duration=00:00:00:00, Position=14:Center, Color=0:255:0, Text="那些美国佬，">
+<Time=00:00:50:00, Duration=00:00:00:00, Position=14:Center, Color=0:255:0, Text="在儿童电影里拿海龟当主角，教他们的小孩害怕苏联。">
+<Time=00:00:54:00, Duration=00:00:00:00, Position=14:Center, Color=0:255:0, Text="这只小海龟看到了苏联的大飞弹发射而来了，">
+<Time=00:00:57:00, Duration=00:00:00:00, Position=14:Center, Color=0:255:0, Text="就躲进他的龟壳躲了起来，">
+<Time=00:00:59:00, Duration=00:00:05:00, Position=14:Center, Color=0:255:0, Text="就好像没用又怕死的美国人。">
+<Time=00:01:04:30, Duration=00:00:00:00, Position=14:Center, Color=0:255:0, Text="今天，我们将名垂史册，同志！">
+<Time=00:01:07:00, Duration=00:00:00:00, Position=14:Center, Color=0:255:0, Text="我们将联手摧毁美国。">
+<Time=00:01:10:00, Duration=00:00:00:00, Position=14:Center, Color=0:255:0, Text="他们的城市、家园、梦想，或许还有更多可以摧毁。">
+<Time=00:01:13:00, Duration=00:00:05:00, Position=14:Center, Color=0:255:0, Text="这位是我的顾问，尤里。他会协助我们让一切成真。">
+<Time=00:01:19:30, Duration=00:00:03:00, Position=14:Center, Color=0:0:255, Text="我和你一样，都是苏联的仆人。">
+<Time=00:01:22:30, Duration=00:00:03:00, Position=14:Center, Color=0:0:255, Text="不过，此刻我们必须加快速度。">
+<Time=00:01:25:00, Duration=00:00:03:00, Position=14:Center, Color=0:0:255, Text="时间十分紧迫。">
+<Time=00:01:26:00, Duration=00:00:00:00, Position=14:Center, Color=0:255:0, Text="当然。">
+<Time=00:01:27:30, Duration=00:00:03:00, Position=14:Center, Color=0:255:0, Text="同志，你的首要目标是">
+<Time=00:01:30:30, Duration=00:00:00:00, Position=14:Center, Color=0:255:0, Text="华盛顿特区。">
+<Time=00:01:33:30, Duration=00:00:00:00, Position=14:Center, Color=0:255:0, Text="向我们证实对你的信赖是正确的吧，将军同志。">
+<Time=00:01:36:30, Duration=00:00:05:00, Position=14:Center, Color=0:255:0, Text="粉碎美国首府的所有盟军，摧毁五角大厦。">
+EndMovie
+
+BeginMovie S01_F00K
+Font=batang.ttc
+<Time=00:00:01:30, Duration=00:00:03:00, Position=14:Center, Color=255:255:0, Text="将军同志！">
+<Time=00:00:03:30, Duration=00:00:00:00, Position=14:Center, Color=255:255:0, Text="我是佐菲亚少尉；">
+<Time=00:00:06:00, Duration=00:00:03:00, Position=14:Center, Color=255:255:0, Text="我的职责是监督您顺利指挥军务。">
+<Time=00:00:10:00, Duration=00:00:00:00, Position=14:Center, Color=255:255:0, Text="自大战之后，我已经成功的协助完成超过五十场的">
+<Time=00:00:13:00, Duration=00:00:00:00, Position=14:center, Color=255:255:0, Text="模拟战役。">
+<Time=00:00:15:00, Duration=00:00:03:00, Position=14:center, Color=255:255:0, Text="相信我的表现，一定会超出您的满意。">
+<Time=00:00:20:30, Duration=00:00:00:00, Position=14:center, Color=255:255:0, Text="请稍候，同志；">
+<Time=00:00:22:30, Duration=00:00:00:00, Position=14:center, Color=255:255:0, Text="是洛马诺夫总理本人！">
+<Time=00:00:25:30, Duration=00:00:00:00, Position=14:center, Color=0:255:0, Text="迷人的佐菲亚少尉是否依然努力不懈，争取晋升机会呢？">
+<Time=00:00:28:30, Duration=00:00:00:00, Position=14:center, Color=0:255:0, Text="请让我和将军私下说一下话。">
+<Time=00:00:31:00, Duration=00:00:02:00, Position=14:Center, Color=255:255:0, Text="遵命，总理。">
+<Time=00:00:33:40, Duration=00:00:04:00, Position=14:Center, Color=0:255:0, Text="将军同志，一同欢迎苏联的未来吧。">
+<Time=00:00:37:00, Duration=00:00:00:00, Position=14:Center, Color=0:255:0, Text="我想向你介绍这位小朋友。">
+<Time=00:00:41:00, Duration=00:00:00:00, Position=14:Center, Color=0:255:0, Text="这是山姆。">
+<Time=00:00:42:30, Duration=00:00:00:00, Position=14:Center, Color=0:255:0, Text="就好像山姆大叔！">
+<Time=00:00:44:00, Duration=00:00:03:00, Position=14:Center, Color=0:255:0, Text="打声招呼吧，小山姆大叔。">
+<Time=00:00:48:00, Duration=00:00:00:00, Position=14:Center, Color=0:255:0, Text="那些美国佬，">
+<Time=00:00:50:00, Duration=00:00:00:00, Position=14:Center, Color=0:255:0, Text="在儿童电影里拿海龟当主角，教他们的小孩害怕苏联。">
+<Time=00:00:54:00, Duration=00:00:00:00, Position=14:Center, Color=0:255:0, Text="这只小海龟看到了苏联的大飞弹发射而来了，">
+<Time=00:00:57:00, Duration=00:00:00:00, Position=14:Center, Color=0:255:0, Text="就躲进他的龟壳躲了起来，">
+<Time=00:00:59:00, Duration=00:00:05:00, Position=14:Center, Color=0:255:0, Text="就好像没用又怕死的美国人。">
+<Time=00:01:04:30, Duration=00:00:00:00, Position=14:Center, Color=0:255:0, Text="今天，我们将名垂史册，同志！">
+<Time=00:01:07:00, Duration=00:00:00:00, Position=14:Center, Color=0:255:0, Text="我们将联手摧毁美国。">
+<Time=00:01:10:00, Duration=00:00:00:00, Position=14:Center, Color=0:255:0, Text="他们的城市、家园、梦想，或许还有更多可以摧毁。">
+<Time=00:01:13:00, Duration=00:00:05:00, Position=14:Center, Color=0:255:0, Text="这位是我的顾问，尤里。他会协助我们让一切成真。">
+<Time=00:01:19:30, Duration=00:00:03:00, Position=14:Center, Color=0:0:255, Text="我和你一样，都是苏联的仆人。">
+<Time=00:01:22:30, Duration=00:00:03:00, Position=14:Center, Color=0:0:255, Text="不过，此刻我们必须加快速度。">
+<Time=00:01:25:00, Duration=00:00:03:00, Position=14:Center, Color=0:0:255, Text="时间十分紧迫。">
+<Time=00:01:26:00, Duration=00:00:00:00, Position=14:Center, Color=0:255:0, Text="当然。">
+<Time=00:01:27:30, Duration=00:00:03:00, Position=14:Center, Color=0:255:0, Text="同志，你的首要目标是">
+<Time=00:01:30:30, Duration=00:00:00:00, Position=14:Center, Color=0:255:0, Text="华盛顿特区。">
+<Time=00:01:33:30, Duration=00:00:00:00, Position=14:Center, Color=0:255:0, Text="向我们证实对你的信赖是正确的吧，将军同志。">
+<Time=00:01:36:30, Duration=00:00:05:00, Position=14:Center, Color=0:255:0, Text="粉碎美国首府的所有盟军，摧毁五角大厦。">
+EndMovie
+
+BeginMovie S01_P01E
+Font=batang.ttc
+<Time=00:00:01:30, Duration=00:00:00:00, Position=14:center, Color=255:255:0, Text="将军同志，您肯定会更想用超能力突击队来对付敌人。">
+<Time=00:00:06:10, Duration=00:00:04:00, Position=14:center, Color=255:255:0, Text="您会发现，他们强大的力量效果超卓。">
+EndMovie
+
+;Second S Mission Briefing
+BeginMovie S02_F00E
+Font=batang.ttc
+<Time=00:00:02:30, Duration=00:00:00:00, Position=14:Center, Color=255:255:0, Text="恭喜！">
+<Time=00:00:03:30, Duration=00:00:00:00, Position=14:Center, Color=255:255:0, Text="将军同志。">
+<Time=00:00:05:00, Duration=00:00:00:00, Position=14:Center, Color=255:255:0, Text="瞧瞧美国总统杜根">
+<Time=00:00:08:00, Duration=00:00:02:00, Position=14:Center, Color=255:255:0, Text="怎样抱头鼠窜。">
+<Time=00:00:11:30, Duration=00:00:00:00, Position=14:Center, Color=255:255:0, Text="此处是滨海州佛罗里达。">
+<Time=00:00:14:00, Duration=00:00:00:00, Position=14:center, Color=255:255:0, Text="美国人在这区拥有一个大型的海军基地。">
+<Time=00:00:16:30, Duration=00:00:00:00, Position=14:center, Color=255:255:0, Text="北从纽约，南至哈瓦那，他们可以四处出击。">
+<Time=00:00:20:30, Duration=00:00:00:00, Position=14:center, Color=255:255:0, Text="同志，你需要建立一座自己的海军基地，">
+<Time=00:00:23:00, Duration=00:00:05:00, Position=14:center, Color=255:255:0, Text="利用潜艇让脆弱的盟军海军无法开出外海。">
+<Time=00:00:29:00, Duration=00:00:00:00, Position=14:center, Color=255:255:0, Text="这位维拉迪摩将军，">
+<Time=00:00:30:30, Duration=00:00:00:00, Position=14:center, Color=255:255:0, Text="我想不必再介绍了吧，他会监督整个行动，">
+<Time=00:00:34:00, Duration=00:00:05:00, Position=14:center, Color=255:255:0, Text="从指挥舰上为你提供援助。">
+<Time=00:00:37:30, Duration=00:00:02:30, Position=14:center, Color=255:255:0, Text="祖国万岁！祝你好运。">
+<Time=00:00:41:00, Duration=00:00:00:00, Position=14:center, Color=0:255:0, Text="哈哈。当然，当然，同志。">
+<Time=00:00:43:30, Duration=00:00:00:00, Position=14:center, Color=0:255:0, Text="露几手给我们瞧瞧吧。">
+<Time=00:00:45:30, Duration=00:00:00:00, Position=14:center, Color=0:255:0, Text="但别妄想我会让你指使我？！">
+<Time=00:00:49:00, Duration=00:00:00:00, Position=14:Center, Color=0:255:0, Text="洛马诺夫要怎么说我管不着。">
+<Time=00:00:52:00, Duration=00:00:00:00, Position=14:Center, Color=0:255:0, Text="在这里，你就得听我的。">
+<Time=00:00:54:30, Duration=00:00:00:00, Position=14:Center, Color=0:255:0, Text="我会监视你的">
+<Time=00:00:56:30, Duration=00:00:02:00, Position=14:Center, Color=0:255:0, Text="一举一动。">
+EndMovie
+
+BeginMovie S02_P01E
+Font=batang.ttc
+<Time=00:00:01:00, Duration=00:00:00:00, Position=14:center, Color=255:255:0, Text="将军同志！维拉迪摩将军需要您清除海岸防线。">
+<Time=00:00:05:00, Duration=00:00:04:00, Position=14:center, Color=255:255:0, Text="现在正是您建立自己的海军基地的大好时机。">
+EndMovie
+
+BeginMovie S02_P02E
+Font=batang.ttc
+<Time=00:00:01:00, Duration=00:00:00:00, Position=14:center, Color=255:255:0, Text="进攻的时机到了！一切荣耀归于祖国！">
+<Time=00:00:04:30, Duration=00:00:00:00, Position=14:center, Color=0:255:0, Text="但是，长官，我们还未准备就绪，尚未建造足够的潜艇...">
+<Time=00:00:08:30, Duration=00:00:05:00, Position=14:center, Color=255:255:0, Text="胡说！我用只橡皮鸭就能摧毁这只美国海军舰队！">
+EndMovie
+
+BeginMovie S02_P03E
+Font=batang.ttc
+<Time=00:00:01:00, Duration=00:00:00:00, Position=14:center, Color=0:255:0, Text="将军，看来我们有可能低估了盟军的实力。">
+<Time=00:00:05:00, Duration=00:00:04:00, Position=14:center, Color=255:255:0, Text="将军，你还在等什么？采取行动吧！">
+EndMovie
+
+BeginMovie S03_F00E
+Font=batang.ttc
+<Time=00:00:01:00, Duration=00:00:00:00, Position=14:Center, Color=255:0:0, Text="我国高层领导今天在红场亲自主持了游行，">
+<Time=00:00:04:00, Duration=00:00:00:00, Position=14:Center, Color=255:0:0, Text="庆祝在美国境内接二连三的胜利。">
+<Time=00:00:08:30, Duration=00:00:00:00, Position=14:Center, Color=255:0:0, Text="洛马诺夫总理亲自颁发史达林勋章给此次战役的英雄，">
+<Time=00:00:13:30, Duration=00:00:02:30, Position=14:Center, Color=255:0:0, Text="维拉迪摩将军。">
+<Time=00:00:16:30, Duration=00:00:00:00, Position=14:Center, Color=255:255:0, Text="我们都知道事实真相，同志。">
+<Time=00:00:19:30, Duration=00:00:00:00, Position=14:center, Color=255:255:0, Text="维拉迪摩只不过较早撤回莫斯科，">
+<Time=00:00:23:00, Duration=00:00:00:00, Position=14:center, Color=255:255:0, Text="并不表示他就能独揽功劳。对吧！">
+<Time=00:00:27:00, Duration=00:00:03:30, Position=14:center, Color=255:255:0, Text="这不重要，让我和你分享一些东西。">
+<Time=00:00:32:30, Duration=00:00:00:00, Position=14:center, Color=255:255:0, Text="人脑的确是充满电流的潘朵拉之盒，我们只不过正开始了解而己。">
+<Time=00:00:39:30, Duration=00:00:00:00, Position=14:center, Color=255:255:0, Text="大部分人的头脑仅仅是接收机。">
+<Time=00:00:42:30, Duration=00:00:06:30, Position=14:center, Color=255:255:0, Text="但有些人比较先进，能自由选择传递及接收电荷。">
+<Time=00:00:50:30, Duration=00:00:02:30, Position=14:center, Color=255:255:0, Text="这是我的心灵信标。">
+<Time=00:00:53:30, Duration=00:00:05:00, Position=14:center, Color=255:255:0, Text="有了这个信标，我们就能传送想传送的讯息。">
+<Time=00:00:58:30, Duration=00:00:03:00, Position=14:center, Color=255:255:0, Text="我们会到处设置这个装置。">
+<Time=00:01:02:30, Duration=00:00:03:00, Position=14:center, Color=255:255:0, Text="美国人终将受我们所掌控">
+<Time=00:01:05:30, Duration=00:00:03:00, Position=14:center, Color=255:255:0, Text="身、心都不例外，">
+<Time=00:01:09:30, Duration=00:00:03:00, Position=14:center, Color=255:255:0, Text="甚至我们还能控制他们的灵魂。">
+<Time=00:01:12:00, Duration=00:00:00:00, Position=14:center, Color=255:255:0, Text="同志，开始纽约市的心灵侵略吧。">
+<Time=00:01:16:30, Duration=00:00:04:00, Position=14:center, Color=255:255:0, Text="要是我们成功了，洛马诺夫不可能不注意到的。">
+EndMovie
+
+BeginMovie S03_P01E
+Font=batang.ttc
+<Time=00:00:01:00, Duration=00:00:00:00, Position=14:center, Color=255:255:0, Text="将军同志，总理要求您占据位于纽约，">
+<Time=00:00:04:00, Duration=00:00:00:00, Position=14:center, Color=255:255:0, Text="那可悲的资本主义者的圣坛">
+<Time=00:00:06:00, Duration=00:00:00:00, Position=14:center, Color=255:255:0, Text="世界贸易中心。">
+<Time=00:00:09:00, Duration=00:00:00:00, Position=14:center, Color=255:255:0, Text="征服此区的美国守军后，">
+<Time=00:00:13:00, Duration=00:00:03:00, Position=14:center, Color=255:255:0, Text="部署一具心灵信标确实控制美国人。">
+EndMovie
+
+BeginMovie S04_F00E
+Font=batang.ttc
+<Time=00:00:09:00, Duration=00:00:03:00, Position=14:Center, Color=255:255:255, Text="各就各位！所有舰队准备就绪！">
+<Time=00:00:15:00, Duration=00:00:04:00, Position=14:center, Color=255:255:0, Text="我们遭遇到需要立即注意的状况，将军同志。">
+<Time=00:00:20:00, Duration=00:00:00:00, Position=14:center, Color=255:255:0, Text="大韩民国采取了我们始料未及的军事行动。">
+<Time=00:00:23:30, Duration=00:00:05:00, Position=14:center, Color=255:255:0, Text="我正在追踪航行中的韩国舰队，他们有可能会在海参威附近登陆。">
+<Time=00:00:31:00, Duration=00:00:05:00, Position=14:center, Color=255:255:0, Text="将军同志，总理要求您立即注意。">
+<Time=00:00:35:30, Duration=00:00:01:30, Position=14:center, Color=255:255:0, Text="我帮您转接。">
+<Time=00:00:38:00, Duration=00:00:00:00, Position=14:center, Color=255:0:0, Text="啊，同志。我刚刚还在向尤里同志保证，大韩民国没什么好怕的。">
+<Time=00:00:45:00, Duration=00:00:00:00, Position=14:center, Color=0:255:0, Text="或许总理大人忘记了向全世界宣扬他的声威。">
+<Time=00:00:49:00, Duration=00:00:03:00, Position=14:center, Color=255:0:0, Text="...是...没错，说的没错。">
+<Time=00:00:54:00, Duration=00:00:00:00, Position=14:center, Color=0:255:0, Text="别感到为难，我们还有将军在此呢，">
+<Time=00:00:57:00, Duration=00:00:03:00, Position=14:center, Color=0:255:0, Text="他在纽约表现如此出色，肯定能处理这次的危机。">
+<Time=00:01:00:40, Duration=00:00:04:00, Position=14:center, Color=255:0:0, Text="或许吧，但我认为我们应该找维拉迪摩来解决。">
+<Time=00:01:07:30, Duration=00:00:01:30, Position=14:center, Color=0:255:0, Text="悉听尊便，总理同志。">
+<Time=00:01:14:00, Duration=00:00:01:00, Position=14:center, Color=0:255:0, Text="将军？">
+<Time=00:01:16:00, Duration=00:00:01:00, Position=14:center, Color=255:255:255, Text="不好意思。">
+<Time=00:01:20:00, Duration=00:00:00:00, Position=14:center, Color=0:255:0, Text="哎，他毕竟是我们的战争英雄，是需要休息休息。哈哈哈。">
+<Time=00:01:27:30, Duration=00:00:06:00, Position=14:center, Color=0:255:0, Text="当心大韩民国，同志。让他们瞧瞧我们是如何对付敌人的。">
+EndMovie
+
+BeginMovie S04_P01E
+Font=batang.ttc
+<Time=00:00:03:00, Duration=00:00:00:00, Position=14:center, Color=255:255:0, Text="苏联将军。">
+<Time=00:00:05:00, Duration=00:00:04:00, Position=14:center, Color=255:255:0, Text="我们在你们的祖国建筑了要塞。">
+<Time=00:00:10:00, Duration=00:00:03:00, Position=14:center, Color=255:255:0, Text="准备受死吧。">
+EndMovie
+
+BeginMovie S04_P02E
+Font=batang.ttc
+<Time=00:00:01:00, Duration=00:00:00:00, Position=14:center, Color=255:255:0, Text="同志，">
+<Time=00:00:02:00, Duration=00:00:05:00, Position=14:center, Color=255:255:0, Text="我刚收到我方令人恐惧的新反装甲武器的示范简报。">
+<Time=00:00:09:30, Duration=00:00:03:00, Position=14:center, Color=255:255:0, Text="这些机械蜘蛛深受恐怖机器人的设计影响。">
+<Time=00:00:15:00, Duration=00:00:00:00, Position=14:center, Color=255:255:0, Text="您喜欢吗？同志，">
+<Time=00:00:17:30, Duration=00:00:03:30, Position=14:center, Color=255:255:0, Text="我想您一定迫不及待要在战场上试试这种新武器。">
+EndMovie
+
+BeginMovie S05_F00E
+Font=batang.ttc
+<Time=00:00:00:30, Duration=00:00:00:00, Position=14:Center, Color=255:255:255, Text="...美国接二连三遭受无情打击...">
+<Time=00:00:04:00, Duration=00:00:04:30, Position=14:center, Color=255:255:255, Text="麦可．杜根总统今天从不明地点向欧洲盟军求援。">
+<Time=00:00:09:00, Duration=00:00:00:00, Position=14:center, Color=255:255:0, Text="...此刻，我向诸位求援。">
+<Time=00:00:11:30, Duration=00:00:03:00, Position=14:center, Color=255:255:0, Text="美国是洛马诺夫的第一个目标。">
+<Time=00:00:16:30, Duration=00:00:03:00, Position=14:center, Color=255:255:0, Text="与我们并肩作战，">
+<Time=00:00:19:30, Duration=00:00:03:00, Position=14:center, Color=255:255:0, Text="不然美国绝非他唯一的目标。">
+<Time=00:00:21:30, Duration=00:00:00:00, Position=14:center, Color=255:255:255, Text="法国将领雷恩．里昂要求盟军授与他大量的军队，">
+<Time=00:00:25:30, Duration=00:00:01:45, Position=14:center, Color=255:255:255, Text="但各国反应还是有点缓不济急...">
+<Time=00:00:27:50, Duration=00:00:00:00, Position=14:center, Color=255:0:0, Text="同志，看来我们过于看轻欧洲邻国，他们不如我们想像的懦弱。">
+<Time=00:00:34:00, Duration=00:00:00:00, Position=14:center, Color=255:0:0, Text="法国已经和德国在波兰边界会师了。">
+<Time=00:00:40:00, Duration=00:00:00:00, Position=14:center, Color=0:255:0, Text="但这些愚蠢的人让自己的母国变得毫无防备。">
+<Time=00:00:43:00, Duration=00:00:00:00, Position=14:center, Color=0:255:0, Text="让他们瞧瞧苏联的铁血雄师，">
+<Time=00:00:46:00, Duration=00:00:00:00, Position=14:center, Color=0:255:0, Text="入侵巴黎！">
+<Time=00:00:47:00, Duration=00:00:04:00, Position=14:center, Color=0:255:0, Text="用我们的磁能科技阻止他们的反扑。">
+<Time=00:00:52:00, Duration=00:00:02:00, Position=14:center, Color=0:255:0, Text="给我杀得片瓦不留。">
+EndMovie
+
+BeginMovie S05_P01E
+Font=batang.ttc
+<Time=00:00:01:00, Duration=00:00:03:00, Position=14:center, Color=255:255:0, Text="如果您已经准备就绪，将军，">
+<Time=00:00:03:00, Duration=00:00:02:00, Position=14:center, Color=255:255:0, Text="突击队已经在巴黎集合了。">
+<Time=00:00:06:00, Duration=00:00:03:00, Position=14:center, Color=255:255:0, Text="我一直喜欢这座灯火之城。">
+<Time=00:00:09:00, Duration=00:00:03:30, Position=14:center, Color=255:255:0, Text="很遗憾巴黎灯灭之时，我们无法亲自到现场。">
+EndMovie
+
+BeginMovie S05_P02E
+Font=batang.ttc
+<Time=00:00:00:30, Duration=00:00:00:00, Position=14:center, Color=255:255:0, Text="将军同志，">
+<Time=00:00:01:40, Duration=00:00:00:00, Position=14:center, Color=255:255:0, Text="我们必须再靠近铁塔一点，">
+<Time=00:00:05:00, Duration=00:00:03:00, Position=14:center, Color=255:255:0, Text="才能补充足更多磁能。">
+EndMovie
+
+BeginMovie S06_F00E
+Font=batang.ttc
+<Time=00:00:00:30, Duration=00:00:00:00, Position=14:Center, Color=255:255:255, Text="成千上万的巴黎市民今天逃离自己的家园...">
+<Time=00:00:03:00, Duration=00:00:00:00, Position=14:center, Color=255:255:0, Text="...这里真是一团乱，吉米。">
+<Time=00:00:05:00, Duration=00:00:00:00, Position=14:center, Color=255:255:0, Text="...我们甚至不知道总统先生还听不听得到我们的呼唤。等等！">
+<Time=00:00:08:00, Duration=00:00:03:00, Position=14:center, Color=255:0:0, Text="美国向我们屈服了。">
+<Time=00:00:12:00, Duration=00:00:03:00, Position=14:center, Color=255:0:0, Text="我们应把这归功于...啊...">
+<Time=00:00:15:30, Duration=00:00:05:00, Position=14:center, Color=255:0:0, Text="胜利归功于你卓越的领导...">
+<Time=00:00:21:00, Duration=00:00:03:00, Position=14:center, Color=255:0:0, Text="以及...">
+<Time=00:00:22:00, Duration=00:00:00:00, Position=14:center, Color=255:0:0, Text="...及维拉迪摩将军。">
+<Time=00:00:24:00, Duration=00:00:00:00, Position=14:Left, Color=0:255:255, Text="感谢阁下！">
+<Time=00:00:25:30, Duration=00:00:00:00, Position=14:Left, Color=0:255:255, Text="您的伟大只有您的宽宏大量所能及。">
+<Time=00:00:28:00, Duration=00:00:00:00, Position=14:center, Color=255:0:0, Text="我...我...啊...">
+<Time=00:00:32:50, Duration=00:00:00:00, Position=14:center, Color=255:0:0, Text="对我们最近的胜利，有话要宣布。">
+<Time=00:00:37:00, Duration=00:00:00:00, Position=14:center, Color=255:0:0, Text="我现在晋升尤里为我苏联军总司令。">
+<Time=00:00:43:00, Duration=00:00:00:00, Position=14:Left, Color=0:255:255, Text="什么！？">
+<Time=00:00:44:30, Duration=00:00:00:00, Position=14:center, Color=255:0:0, Text="此令即刻生效。">
+<Time=00:00:46:30, Duration=00:00:00:00, Position=14:Left, Color=0:255:255, Text="尤里，这一定是你搞的鬼！">
+<Time=00:00:49:00, Duration=00:00:01:00, Position=14:Left, Color=0:255:255, Text="我比谁都清楚你的伎俩！">
+<Time=00:00:50:30, Duration=00:00:00:00, Position=14:center, Color=0:255:0, Text="看来我们的维拉迪摩很不高兴呀。">
+<Time=00:00:53:00, Duration=00:00:00:00, Position=14:center, Color=0:255:0, Text="真是遗憾。将军，我们有要务得处理。">
+<Time=00:00:56:30, Duration=00:00:00:00, Position=14:center, Color=0:255:0, Text="盟军太平洋舰队在夏威夷附近集结。">
+<Time=00:00:59:00, Duration=00:00:03:00, Position=14:center, Color=0:255:0, Text="你接下来要到珍珠港摧毁太平洋舰队，">
+<Time=00:00:61:00, Duration=00:00:03:00, Position=14:center, Color=0:255:0, Text="为我苏联军在那里重建据点。">
+EndMovie
+
+BeginMovie S06_P01E
+Font=batang.ttc
+<Time=00:00:00:30, Duration=00:00:05:00, Position=14:center, Color=255:255:0, Text="将军同志，我侦察到大韩民国的援军正在路上。">
+<Time=00:00:06:00, Duration=00:00:05:00, Position=14:center, Color=255:255:0, Text="要是他们抵达了珍珠港，我们就很难压倒盟军舰队了。">
+EndMovie
+
+BeginMovie S06_P02E
+Font=batang.ttc
+<Time=00:00:01:30, Duration=00:00:00:00, Position=14:center, Color=255:255:0, Text="真是杰出的战略，同志。">
+<Time=00:00:03:00, Duration=00:00:00:00, Position=14:center, Color=255:255:0, Text="考艾岛机场落入我们掌控之中，我们就能随心所欲，">
+<Time=00:00:05:00, Duration=00:00:03:00, Position=14:center, Color=255:255:0, Text="派遣伞兵到四处奇袭。">
+EndMovie
+
+BeginMovie S06_P03E
+Font=batang.ttc
+<Time=00:00:00:30, Duration=00:00:00:00, Position=14:center, Color=255:255:0, Text="将军同志，">
+<Time=00:00:02:00, Duration=00:00:00:00, Position=14:center, Color=255:255:0, Text="我们必须更接近磁能线圈，才可充能。">
+<Time=00:00:04:00, Duration=00:00:02:30, Position=14:center, Color=255:255:0, Text="充能完毕，就能增加我们武器的射程。">
+EndMovie
+
+BeginMovie S07_F00E
+Font=batang.ttc
+<Time=00:00:01:30, Duration=00:00:00:00, Position=14:Center, Color=0:255:0 Text="将军，晚安。">
+<Time=00:00:03:00, Duration=00:00:00:00, Position=14:Center, Color=0:255:0, Text="你的表现还是如同往常一样杰出。">
+<Time=00:00:06:00, Duration=00:00:00:00, Position=14:Center, Color=0:255:0, Text="不过，我有些坏消息。">
+<Time=00:00:08:30, Duration=00:00:00:00, Position=14:Left, Color=0:255:0, Text="维拉迪摩，在这个消息公开之前，">
+<Time=00:00:10:00, Duration=00:00:01:00, Position=14:Left, Color=0:255:0, Text="最好先让你知情。">
+<Time=00:00:12:00, Duration=00:00:00:00, Position=14:Left, Color=0:255:0, Text="洛马诺夫总理病了，">
+<Time=00:00:15:00, Duration=00:00:00:00, Position=14:Left, Color=0:255:0, Text="再也无法履行他的职务。">
+<Time=00:00:17:30, Duration=00:00:01:00, Position=14:Right, Color=255:255:0, Text="真的吗？">
+<Time=00:00:18:50, Duration=00:00:00:00, Position=14:Left, Color=0:255:0, Text="但这不是我们最关切的。">
+<Time=00:00:21:30, Duration=00:00:00:00, Position=14:Left, Color=0:255:0, Text="盟军求助于德国教授，亚伯．爱因斯坦，">
+<Time=00:00:24:30, Duration=00:00:00:00, Position=14:Left, Color=0:255:0, Text="他替他们建造了超时空传送仪，">
+<Time=00:00:26:30, Duration=00:00:01:30, Position=14:Left, Color=0:255:0, Text="这是能大量传送的装置。">
+<Time=00:00:29:00, Duration=00:00:00:00, Position=15:center, Color=0:255:0, Text="我的情报来源指出他们第一个目标：">
+<Time=00:00:33:30, Duration=00:00:00:00, Position=15:center, Color=0:255:0, Text="就是我们在乌拉尔山脉的研究实验室。">
+<Time=00:00:36:30, Duration=00:00:05:00, Position=15:center, Color=0:255:0, Text="我相信盟军想窃取我们的天启坦克计划。">
+<Time=00:00:43:30, Duration=00:00:00:00, Position=14:Right, Color=255:255:0, Text="喔？你的情报来源没有警告你爱因斯坦也参了一脚吗？">
+<Time=00:00:47:30, Duration=00:00:00:00, Position=14:Right, Color=255:255:0, Text="或者他不受你那下三滥的心灵控制把戏影响？">
+<Time=00:00:50:30, Duration=00:00:00:00, Position=14:Left, Color=0:255:0, Text="真是够了。">
+<Time=00:00:51:50, Duration=00:00:00:00, Position=14:Right, Color=255:255:0, Text="你这个叛徒！">
+<Time=00:00:53:30, Duration=00:00:00:00, Position=14:Right, Color=255:255:0, Text="你这个蠢蛋别想我会让你就这样予取予求！">
+<Time=00:00:55:00, Duration=00:00:00:00, Position=14:Left, Color=0:255:0, Text="够了！维拉迪摩将军，">
+<Time=00:00:56:30, Duration=00:00:00:00, Position=14:Right, Color=255:255:0, Text="我的坦克，我的士兵，正在你家门口叩门...">
+<Time=00:00:57:30, Duration=00:00:00:00, Position=14:Left, Color=0:255:0, Text="先关心关心自己的免职令吧。你的好日子不多了。">
+<Time=00:01:00:30, Duration=00:00:00:00, Position=14:center, Color=0:255:0, Text="将军？请尽力防守乌拉尔山脉。我会代你传达对总理的关切。">
+EndMovie
+
+BeginMovie S07_P01E
+Font=batang.ttc
+<Time=00:00:00:30, Duration=00:00:00:00, Position=14:center, Color=255:255:0, Text="有件事您该注意。">
+<Time=00:00:03:10, Duration=00:00:00:00, Position=14:center, Color=255:255:0, Text="卡维利将军在我方村落部署了一辆卡车；">
+<Time=00:00:07:20, Duration=00:00:00:00, Position=14:center, Color=255:255:0, Text="他一直播放资本主义的宣传带，">
+<Time=00:00:10:30, Duration=00:00:04:00, Position=14:center, Color=255:255:0, Text="企图鼓动我方民众起而反抗。">
+EndMovie
+
+BeginMovie S07_P02E
+Font=batang.ttc
+<Time=00:00:01:00, Duration=00:00:00:00, Position=14:center, Color=255:255:0, Text="我想我们应该派几条警犬，">
+<Time=00:00:03:00, Duration=00:00:03:00, Position=14:center, Color=255:255:0, Text="揪出敌人间谍。">
+EndMovie
+
+BeginMovie S08_F00E
+Font=batang.ttc
+<Time=00:00:04:00, Duration=00:00:03:00, Position=14:Center, Color=0:255:0 Text="将军们，士兵们，同志们！">
+<Time=00:00:08:00, Duration=00:00:01:30, Position=14:Center, Color=0:255:0 Text="今天是不幸的一天。">
+<Time=00:00:10:00, Duration=00:00:00:00, Position=14:Center, Color=0:255:0 Text="最近久病在床的亚历山大．">
+<Time=00:00:12:30, Duration=00:00:00:00, Position=14:Center, Color=0:255:0 Text="洛马诺夫总理，">
+<Time=00:00:14:00, Duration=00:00:00:00, Position=14:Center, Color=0:255:0 Text="被维拉迪摩将军残忍的谋杀了。">
+<Time=00:00:17:00, Duration=00:00:03:00, Position=14:Center, Color=255:255:255, Text="不要啊！维拉迪摩将军！">
+<Time=00:00:21:00, Duration=00:00:00:00, Position=14:Center, Color=0:255:0, Text="此刻，晚上九点十五分，">
+<Time=00:00:26:00, Duration=00:00:00:00, Position=14:Center, Color=0:255:0, Text="维拉迪摩将军不配再称为人。">
+<Time=00:00:29:30, Duration=00:00:03:00, Position=14:Center, Color=0:255:0, Text="他现在就算是死了，也没人会替他收尸。">
+<Time=00:00:34:30, Duration=00:00:00:00, Position=14:Center, Color=0:255:0, Text="我感觉得到他正隐身于白宫，">
+<Time=00:00:40:00, Duration=00:00:00:00, Position=14:Center, Color=0:255:0, Text="这腐败堕落者的巢穴。">
+<Time=00:00:43:00, Duration=00:00:00:00, Position=14:Center, Color=0:255:0, Text="占领白宫，找出这人渣。">
+<Time=00:00:47:00, Duration=00:00:03:00, Position=14:Center, Color=0:255:0, Text="然后你可以就地处决他，我们已经将他的名字自党籍中除掉了。">
+EndMovie
+
+BeginMovie S08_P01E
+Font=batang.ttc
+<Time=00:00:00:30, Duration=00:00:00:00, Position=14:center, Color=255:255:0, Text="你这个蠢蛋，将军。">
+<Time=00:00:03:00, Duration=00:00:00:00, Position=14:center, Color=255:255:0, Text="尤里把你当成傀儡玩弄在手掌心。">
+<Time=00:00:06:00, Duration=00:00:03:00, Position=14:center, Color=255:255:0, Text="你永远抓不到我维拉迪摩将军的。">
+EndMovie
+
+BeginMovie S09_F00E
+Font=batang.ttc
+<Time=00:00:05:00, Duration=00:00:00:00, Position=14:Center, Color=255:255:0, Text="在这里，在这里！">
+<Time=00:00:07:50, Duration=00:00:00:00, Position=14:Center, Color=255:255:255, Text="将军，不要听信尤里的谎言！">
+<Time=00:00:10:00, Duration=00:00:01:30, Position=14:Center, Color=255:255:255, Text="他不是...">
+<Time=00:00:12:00, Duration=00:00:00:00, Position=14:Center, Color=0:255:0, Text="不用在意，将军同志。">
+<Time=00:00:15:00, Duration=00:00:00:00, Position=14:Center, Color=0:255:0, Text="他对我们不再具任何意义。">
+<Time=00:00:18:00, Duration=00:00:00:00, Position=14:Center, Color=0:255:0, Text="我们现在手边有更重要的事要办。">
+<Time=00:00:20:50, Duration=00:00:03:00, Position=14:Center, Color=0:255:0, Text="美国总统杜根在德州，圣安东尼奥市露面了。">
+<Time=00:00:25:50, Duration=00:00:00:00, Position=14:Center, Color=0:255:0, Text="或许他想撤退到白杨木屋。">
+<Time=00:00:29:00, Duration=00:00:03:00, Position=14:Center, Color=0:255:0, Text="再俘虏他一次，把他带来接受我们控制。">
+EndMovie
+
+BeginMovie S09_P01E
+Font=batang.ttc
+<Time=00:00:02:45, Duration=00:00:00:00, Position=14:center, Color=255:255:0, Text="听我说，你这苏联人渣。">
+<Time=00:00:05:00, Duration=00:00:00:00, Position=14:center, Color=255:255:0, Text="你可以搜遍寸土寸壤。但你绝对找不到我，">
+<Time=00:00:08:00, Duration=00:00:00:00, Position=14:center, Color=255:255:0, Text="也抓不到我。">
+<Time=00:00:10:00, Duration=00:00:02:00, Position=14:center, Color=255:255:0, Text="这样的表现你还算得上是位将军吗？">
+<Time=00:00:14:00, Duration=00:00:03:00, Position=14:center, Color=255:255:0, Text="我们正嘲笑你们呢，红军的混帐！">
+EndMovie
+
+BeginMovie S10_F00E
+Font=batang.ttc
+<Time=00:00:01:00, Duration=00:00:03:00, Position=14:Center, Color=255:0:0, Text="我想是我们好好谈谈的时候了，就你跟我。">
+<Time=00:00:05:00, Duration=00:00:00:00, Position=14:Center, Color=255:0:0, Text="当年苏联刚建国的时候，">
+<Time=00:00:07:00, Duration=00:00:00:00, Position=14:Center, Color=255:0:0, Text="是史达林训练出我们独特的超能力。">
+<Time=00:00:12:00, Duration=00:00:00:00, Position=14:Center, Color=255:0:0, Text="我们受训用意志力来控制人们的心智。">
+<Time=00:00:15:00, Duration=00:00:00:00, Position=14:Center, Color=255:0:0, Text="这是史达林殿下的心灵遗产。">
+<Time=00:00:18:00, Duration=00:00:00:00, Position=14:Center, Color=255:0:0, Text="我告诉你这些是为了...">
+<Time=00:00:20:00, Duration=00:00:00:00, Position=14:Center, Color=255:0:0, Text="...因为你够聪明，懂得不要知道太多。...">
+<Time=00:00:23:00, Duration=00:00:00:00, Position=14:Center, Color=255:0:0, Text="我们遭遇到新状况了。爱因斯坦这怪老头替盟军">
+<Time=00:00:28:00, Duration=00:00:00:00, Position=14:Center, Color=255:0:0, Text="兴建了能控制上空暴风云之能量的装置。">
+<Time=00:00:33:00, Duration=00:00:00:00, Position=14:Center, Color=255:0:0, Text="这几乎是匪夷所思的武器，但威力非凡。">
+<Time=00:00:37:30, Duration=00:00:00:00, Position=14:Center, Color=255:0:0, Text="用我提供给你的核子飞弹，摧毁这项装置。">
+<Time=00:00:41:30, Duration=00:00:02:00, Position=14:Center, Color=255:0:0, Text="让我们的大军再度动起来吧。">
+<Time=00:00:45:00, Duration=00:00:04:00, Position=14:Center, Color=0:255:0, Text="将军。现在开始我将从维拉迪摩的指挥转入您麾下。">
+<Time=00:00:50:00, Duration=00:00:03:00, Position=14:Center, Color=0:255:0, Text="天气控制装置似乎位于美国维尔京群岛。">
+<Time=00:00:57:00, Duration=00:00:03:00, Position=14:Center, Color=0:255:0, Text="长官？我并不是很清楚您的意图。">
+<Time=00:00:61:00, Duration=00:00:04:00, Position=14:Center, Color=0:255:0, Text="但要是您心中有所盘算，现在是告诉我的时候了。">
+EndMovie
+
+BeginMovie S10_P01E
+Font=batang.ttc
+<Time=00:00:01:00, Duration=00:00:00:00, Position=14:center, Color=255:255:0, Text="我想你会喜欢这家伙的，将军。">
+<Time=00:00:03:00, Duration=00:00:00:00, Position=14:center, Color=255:255:0, Text="名为疯狂伊文的爆破专家现在开始加入您阵营中。">
+<Time=00:00:08:30, Duration=00:00:03:00, Position=14:center, Color=255:255:0, Text="他最适合手边的任务了。">
+EndMovie
+
+BeginMovie S10_P02E
+Font=batang.ttc
+<Time=00:00:01:30, Duration=00:00:00:00, Position=14:center, Color=255:255:0, Text="将军同志！敌军武器正在充电，">
+<Time=00:00:05:00, Duration=00:00:00:00, Position=14:center, Color=255:255:0, Text="我们这么靠近是很危险的。">
+<Time=00:00:07:10, Duration=00:00:01:30, Position=14:center, Color=255:255:0, Text="当心，同志！">
+EndMovie
+
+BeginMovie S10_P03E
+Font=batang.ttc
+<Time=00:00:01:30, Duration=00:00:00:00, Position=14:center, Color=255:255:0, Text="牠们要是能听从我们的指挥，威力会更加强大。">
+<Time=00:00:06:00, Duration=00:00:00:00, Position=14:center, Color=255:255:0, Text="我的巨型乌贼强大的力量，">
+<Time=00:00:10:00, Duration=00:00:04:00, Position=14:center, Color=255:255:0, Text="唯一的克星是盟军特别训练的攻击海豚而己。">
+EndMovie
+
+BeginMovie S11_F00E
+Font=batang.ttc
+<Time=00:00:01:30, Duration=00:00:00:00, Position=14:Center, Color=255:255:255, Text="将军同志。">
+<Time=00:00:04:30, Duration=00:00:00:00, Position=14:Center, Color=255:255:255, Text="您比我猜想的还要来得固执。">
+<Time=00:00:08:00, Duration=00:00:00:00, Position=14:Center, Color=255:255:255, Text="瞧瞧你，对敌人来说是多么大的威胁呀。">
+<Time=00:00:13:00, Duration=00:00:00:00, Position=14:Center, Color=255:255:255, Text="帮我个忙。亲自到莫斯科来让我添光吧，">
+<Time=00:00:17:00, Duration=00:00:02:00, Position=14:Center, Color=255:255:255, Text="我会亲自向你道谢的。">
+<Time=00:00:20:00, Duration=00:00:02:00, Position=14:Center, Color=0:255:255, Text="在您动身到任何地方去之前，应该先看看这个。">
+<Time=00:00:23:00, Duration=00:00:02:00, Position=14:Center, Color=0:255:255, Text="这卷带子今天才送到。">
+<Time=00:00:25:30, Duration=00:00:02:00, Position=14:Center, Color=0:255:255, Text="「如果总理不幸过世，就寄出这卷带子。」">
+<Time=00:00:30:20, Duration=00:00:00:00, Position=14:Center, Color=255:0:0, Text="要是你收到这卷带子，那么我想我应该已经死了，">
+<Time=00:00:38:00, Duration=00:00:00:00, Position=14:Center, Color=255:0:0, Text="我迷失了...我不知道...怎么...">
+<Time=00:00:46:00, Duration=00:00:00:00, Position=14:Center, Color=255:0:0, Text="喔，祖国俄罗斯，我开始忘记怎么说话了。">
+<Time=00:00:52:00, Duration=00:00:00:00, Position=14:Center, Color=255:0:0, Text="呸！尤里。他控制了我的心智！他杀了我。">
+<Time=00:00:59:30, Duration=00:00:00:00, Position=14:Center, Color=255:0:0, Text="要是我现在死了，指挥权就交给你了。">
+<Time=00:01:03:30, Duration=00:00:00:00, Position=14:Center, Color=255:0:0, Text="将这卷带子传得愈广、愈远愈好。">
+<Time=00:01:06:00, Duration=00:00:00:00, Position=14:Center, Color=255:0:0, Text="为了俄罗斯的光荣，为了公平正义，">
+<Time=00:01:09:00, Duration=00:00:02:00, Position=14:Center, Color=255:0:0, Text="把我的国家夺回来吧。">
+<Time=00:01:12:30, Duration=00:00:00:00, Position=14:Center, Color=0:255:255, Text="我想现在我们都弄清事实真相了吧。啍？">
+<Time=00:01:16:40, Duration=00:00:00:00, Position=14:Center, Color=0:255:255, Text="尤里在莫斯科城外有自己的要塞，他正在集结军队。">
+<Time=00:01:21:00, Duration=00:00:00:00, Position=14:Center, Color=0:255:255, Text="但大部分的军队听从您的指示。">
+<Time=00:01:23:00, Duration=00:00:00:00, Position=14:Center, Color=0:255:255, Text="不，......别再多说，将军。">
+<Time=00:01:26:00, Duration=00:00:00:00, Position=14:Center, Color=0:255:255, Text="他们现在听从您的指示。">
+<Time=00:01:29:00, Duration=00:00:00:00, Position=14:Center, Color=0:255:255, Text="只要我们不要再多说，破坏了对他们的心灵控制...">
+<Time=00:01:31:00, Duration=00:00:03:00, Position=14:Center, Color=0:255:255, Text="为您效劳是种荣誉。">
+EndMovie
+
+BeginMovie S11_P01E
+Font=batang.ttc
+<Time=00:00:01:30, Duration=00:00:00:00, Position=14:center, Color=255:255:0, Text="多谢了，将军。">
+<Time=00:00:03:00, Duration=00:00:00:00, Position=14:center, Color=255:255:0, Text="这些人现在成为我的手下了。">
+<Time=00:00:05:00, Duration=00:00:02:30, Position=14:center, Color=255:255:0, Text="我总是有更多人能差遣。">
+EndMovie
+
+BeginMovie S11_P02E
+Font=batang.ttc
+<Time=00:00:01:00, Duration=00:00:00:00, Position=14:center, Color=255:255:0, Text="你知道吗。">
+<Time=00:00:03:00, Duration=00:00:00:00, Position=14:center, Color=255:255:0, Text="能窥探你的内心是很棒的事，将军。">
+<Time=00:00:06:30, Duration=00:00:02:00, Position=14:center, Color=255:255:0, Text="我还是有机会。">
+EndMovie
+
+BeginMovie S11_P03E
+Font=batang.ttc
+<Time=00:00:02:30, Duration=00:00:00:00, Position=14:center, Color=255:255:0, Text="当心，将军同志。">
+<Time=00:00:05:00, Duration=00:00:00:00, Position=14:center, Color=255:255:0, Text="尤里重建了铁幕。">
+<Time=00:00:07:00, Duration=00:00:03:30, Position=14:center, Color=255:255:0, Text="如此一来他的部队就会暂时无敌。">
+EndMovie
+
+BeginMovie S11_P04E
+Font=batang.ttc
+<Time=00:00:01:10, Duration=00:00:00:00, Position=14:center, Color=255:255:0, Text="现在就算不设防，也没有人能逮到我们了，同志。">
+<Time=00:00:04:30, Duration=00:00:00:00, Position=14:center, Color=255:255:0, Text="我手上有加强心灵侦测器的办法。">
+<Time=00:00:07:30, Duration=00:00:00:00, Position=14:center, Color=255:255:0, Text="这项装置将能警告我们所有进入射程的部队行动。">
+<Time=00:00:12:00, Duration=00:00:02:30, Position=14:center, Color=255:255:0, Text="我们可以高枕无忧了。">
+EndMovie
+
+BeginMovie S12_F00E
+Font=batang.ttc
+<Time=00:00:01:10, Duration=00:00:00:00, Position=14:Center, Color=255:255:255, Text="虽然我们的国家在叛徒尤里手上失去了敬爱的总理，">
+<Time=00:00:04:00, Duration=00:00:00:00, Position=14:Center, Color=255:255:255, Text="和伟大的维拉迪摩将军，">
+<Time=00:00:07:00, Duration=00:00:00:00, Position=14:Center, Color=255:255:255, Text="幸好我们还有率领大军与盟军血战，">
+<Time=00:00:10:00, Duration=00:00:03:00, Position=14:Center, Color=255:255:255, Text="值得众人敬仰的总司令。">
+<Time=00:00:14:30, Duration=00:00:00:00, Position=14:Center, Color=255:255:0, Text="将军，我取出了尤里的档案，">
+<Time=00:00:18:00, Duration=00:00:00:00, Position=14:Center, Color=255:255:0, Text="他提供给我们，一份临别礼物。">
+<Time=00:00:22:00, Duration=00:00:00:00, Position=14:Center, Color=255:255:0, Text="盟军认为我们不知道超时空传送仪在阿拉斯加，">
+<Time=00:00:26:00, Duration=00:00:00:00, Position=14:Center, Color=255:255:0, Text="他们借此打算发动全面的攻击。">
+<Time=00:00:29:00, Duration=00:00:00:00, Position=14:Center, Color=255:255:0, Text="这是他们仅存的所有军力。">
+<Time=00:00:32:00, Duration=00:00:00:00, Position=14:Center, Color=255:255:0, Text="能一举消灭他们的最后希望是再好不过了。">
+<Time=00:00:35:00, Duration=00:00:00:00, Position=14:Center, Color=255:255:0, Text="成功之后，您就准备成为世界总理吧。">
+EndMovie
+
+BeginMovie S12_P01E
+Font=batang.ttc
+<Time=00:00:01:00, Duration=00:00:00:00, Position=14:center, Color=255:255:0, Text="将军同志，我必须警告您。">
+<Time=00:00:03:30, Duration=00:00:00:00, Position=14:center, Color=255:255:0, Text="盟军超时空传送仪有可能会导致我们的失败。">
+<Time=00:00:06:30, Duration=00:00:00:00, Position=14:center, Color=255:255:0, Text="首先迅速发动海路攻击。">
+<Time=00:00:09:30, Duration=00:00:00:00, Position=14:center, Color=255:255:0, Text="他们不会预期到我们的攻击，">
+<Time=00:00:12:00, Duration=00:00:02:30, Position=14:center, Color=255:255:0, Text="这就是他们失败的原因。">
+EndMovie
+
+BeginMovie S13_F01E
+Font=batang.ttc
+<Time=00:00:01:00, Duration=00:00:00:00, Position=14:Center, Color=255:255:255, Text="到处都是民众在祝贺新的苏联总理。">
+<Time=00:00:05:20, Duration=00:00:02:00, Position=14:Center, Color=255:255:255, Text="接下来转到伦敦现场。">
+<Time=00:00:07:00, Duration=00:00:00:00, Position=14:Center, Color=255:255:0, Text="街上的人们呀，这是最棒的时刻了...">
+<Time=00:00:10:00, Duration=00:00:00:00, Position=14:Center, Color=255:0:0, Text="...已经有几十年没见过这样的场面了，">
+<Time=00:00:13:00, Duration=00:00:03:00, Position=14:Center, Color=255:0:0, Text="众所期待的新总理亲自现身了...">
+<Time=00:00:17:00, Duration=00:00:07:00, Position=14:Center, Color=0:255:0, Text="能看透你想法的感觉真是很棒，我还是有机会的...">
+EndMovie
