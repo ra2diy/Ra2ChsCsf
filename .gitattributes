@@ -1,0 +1,2 @@
+*.txt text working-tree-encoding=UTF-16 eol=CRLF
+*.ini text working-tree-encoding=UTF-8 eol=LF
