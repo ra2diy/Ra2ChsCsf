@@ -465,7 +465,7 @@ EndMovie
 
 BeginMovie A10_P02E
 Font=batang.ttc
-<Time=00:00:01:00, Duration=00:00:00:00, Position=14:center, Color=255:255:0, Text="指挥官，我连结到间谍卫星了。">
+<Time=00:00:01:00, Duration=00:00:00:00, Position=14:center, Color=255:255:0, Text="指挥官，我连接到间谍卫星了。">
 <Time=00:00:04:00, Duration=00:00:00:00, Position=14:center, Color=255:255:0, Text="在我们对谈的过程中，就能上线运作了...">
 <Time=00:00:07:00, Duration=00:00:00:00, Position=14:center, Color=255:255:0, Text="等，等等！是天启坦克。">
 <Time=00:00:11:00, Duration=00:00:03:00, Position=14:center, Color=255:255:0, Text="当心呀，长官。">

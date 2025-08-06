@@ -198,7 +198,7 @@ EndMovie
 
 BeginMovie A03_F00E
 Font=batang.ttc
-<Time=00:00:01:00, Duration=00:00:00:00, Position=14:Center, Color=255:255:0, Text="指挥官，我们透过卫星连结收到了一段影片。">
+<Time=00:00:01:00, Duration=00:00:00:00, Position=14:Center, Color=255:255:0, Text="指挥官，我们透过卫星连接收到了一段影片。">
 <Time=00:00:05:00, Duration=00:00:06:00, Position=14:center, Color=255:255:0, Text="影片是由位于华盛顿州西雅图市的巨微公司，百万执行董事宾尔所发出来的。">
 <Time=00:00:10:00, Duration=00:00:01:30, Position=14:center, Color=255:255:0, Text="我现在马上播放。">
 <Time=00:00:12:00, Duration=00:00:00:00, Position=14:center, Color=0:255:0, Text="我不知道我还能继续连线多久，">
