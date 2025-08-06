@@ -289,7 +289,7 @@ BeginMovie A05_P02E
 Font=batang.ttc
 <Time=00:00:01:00, Duration=00:00:00:00, Position=14:center, Color=255:255:0, Text="看来我们的爆破间谍小组已经顺利编组了，">
 <Time=00:00:03:50, Duration=00:00:01:30, Position=14:center, Color=255:255:0, Text="我还需要多一点人手。">
-<Time=00:00:05:30, Duration=00:00:03:00, Position=14:center, Color=255:255:0, Text="记住，这次不要用义大利间谍好吗？">
+<Time=00:00:05:30, Duration=00:00:03:00, Position=14:center, Color=255:255:0, Text="记住，这次不要用意大利间谍好吗？">
 EndMovie
 
 BeginMovie A05_P03E
