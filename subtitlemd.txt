@@ -102,7 +102,7 @@ BeginMovie A01_F00E
 <Time=00:01:24:00, Duration=00:00:00:00, Position=14:Center, Color=0:255:0, Text="我真的很不愿意承认这件事，">
 <Time=00:01:25:30, Duration=00:00:02:00, Position=14:Center, Color=0:255:0, Text="但我现在真的希望卡维利将军还活着。">
 <Time=00:01:29:00, Duration=00:00:00:00, Position=14:Center, Color=0:0:255, Text="如果我的装置顺利运作了，谭雅小姐，">
-<Time=00:01:32:00, Duration=00:00:00:00, Position=14:Center, Color=0:0:255, Text="妳的愿望说不定可以实现。">
+<Time=00:01:32:00, Duration=00:00:00:00, Position=14:Center, Color=0:0:255, Text="你的愿望说不定可以实现。">
 <Time=00:01:34:30, Duration=00:00:00:00, Position=14:Center, Color=0:0:255, Text="当你们回到过去的时候，请跟以前的我联络，">
 <Time=00:01:38:30, Duration=00:00:02:30, Position=14:Center, Color=0:0:255, Text="我应该可以提供你们协助，对吧？">
 EndMovie
@@ -369,7 +369,7 @@ Font=batang.ttc
 <Time=00:00:36:00, Duration=00:00:02:30, Position=14:Left, Color=0:255:0, Text="嗯，让我们听听看吧！">
 <Time=00:00:37:00, Duration=00:00:03:00, Position=14:Right, Color=255:255:0, Text="长官，我利用三角测量计算尤里的通讯方式，">
 <Time=00:00:39:30, Duration=00:00:02:30, Position=14:Right, Color=255:255:0, Text="我相信我已经找到他的下落了。">
-<Time=00:00:43:00, Duration=00:00:02:30, Position=14:Left, Color=0:255:0, Text="少尉，很高兴有妳的继续参与。">
+<Time=00:00:43:00, Duration=00:00:02:30, Position=14:Left, Color=0:255:0, Text="少尉，很高兴有你的继续参与。">
 <Time=00:00:48:30, Duration=00:00:03:00, Position=14:center, Color=0:255:0, Text="嗯，我觉得我们已经成功在望了！">
 <Time=00:00:52:30, Duration=00:00:03:00, Position=14:center, Color=0:255:0, Text="他就在南极洲里，">
 <Time=00:00:55:30, Duration=00:00:03:00, Position=14:center, Color=0:255:0, Text="嗯，指挥官，就是这里了，全体弟兄们，">
