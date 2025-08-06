@@ -121,7 +121,7 @@ EndMovie
 
 BeginMovie A01_P02E
 Font=batang.ttc
-<Time=00:00:00:30, Duration=00:00:00:00, Position=14:Center, Color=255:255:0, Text="太棒了，指挥官，我们重新与要塞取得连系了。">
+<Time=00:00:00:30, Duration=00:00:00:00, Position=14:Center, Color=255:255:0, Text="太棒了，指挥官，我们重新与要塞取得联系了。">
 <Time=00:00:04:00, Duration=00:00:00:00, Position=14:center, Color=255:255:0, Text="谭雅传送回苏联一处重要补给站地点的情报。">
 <Time=00:00:09:00, Duration=00:00:03:30, Position=14:center, Color=255:255:0, Text="卡维利将军希望您能马上处理。">
 <Time=00:00:13:00, Duration=00:00:03:00, Position=14:center, Color=255:255:0, Text="喔，长官，继续保持绝佳的表现喔。">
