@@ -12,7 +12,7 @@
 BeginMovie A00_F00E
 /Font=batang.ttc
 <Time=00:00:02:10, Duration=00:00:00:00, Position=14:Center, Color=0:255:0, Text="总统先生。">
-<Time=00:00:03:10, Duration=00:00:03:00, Position=14:Center, Color=0:255:0, Text="五角大厦的卡维利将军正在第五线。">
+<Time=00:00:03:10, Duration=00:00:03:00, Position=14:Center, Color=0:255:0, Text="五角大楼的卡维利将军正在第五线。">
 <Time=00:00:08:00, Duration=00:00:01:00, Position=14:Center, Color=255:255:0, Text="我是杜根。">
 <Time=00:00:09:30, Duration=00:00:00:00, Position=14:Center, Color=0:255:255, Text="总统先生，">
 <Time=00:00:10:30, Duration=00:00:03:00, Position=14:Center, Color=0:255:255, Text="恐怕得通知您，我们遇上了天杀的紧急状况。">
@@ -78,7 +78,7 @@ BeginMovie A01_F00E
 <Time=00:00:21:30, Duration=00:00:00:00, Position=14:Center, Color=255:255:0, Text="几乎所有主要城市都被攻击，">
 <Time=00:00:23:30, Duration=00:00:03:00, Position=14:Center, Color=255:255:0, Text="我军目前陷于混乱之中。">
 <Time=00:00:27:30, Duration=00:00:00:00, Position=14:Center, Color=255:255:0, Text="请等一下，指挥官。">
-<Time=00:00:29:30, Duration=00:00:02:00, Position=14:Center, Color=255:255:0, Text="我们有来自五角大厦卡维利将军的讯息。">
+<Time=00:00:29:30, Duration=00:00:02:00, Position=14:Center, Color=255:255:0, Text="我们有来自五角大楼卡维利将军的讯息。">
 <Time=00:00:36:00, Duration=00:00:00:00, Position=14:Center, Color=255:255:0, Text="指挥官，我希望你已休息过，而且准备就绪。">
 <Time=00:00:39:00, Duration=00:00:00:00, Position=14:Center, Color=255:255:0, Text="因为从上午八点开始，您将掌控美东所有卫星、">
 <Time=00:00:42:30, Duration=00:00:00:00, Position=14:Center, Color=255:255:0, Text="基地、坦克、战机、士兵">
@@ -618,7 +618,7 @@ Font=batang.ttc
 <Time=00:01:27:30, Duration=00:00:03:00, Position=14:Center, Color=0:255:0, Text="同志，你的首要目标是">
 <Time=00:01:30:30, Duration=00:00:00:00, Position=14:Center, Color=0:255:0, Text="华盛顿特区。">
 <Time=00:01:33:30, Duration=00:00:00:00, Position=14:Center, Color=0:255:0, Text="向我们证实对你的信赖是正确的吧，将军同志。">
-<Time=00:01:36:30, Duration=00:00:05:00, Position=14:Center, Color=0:255:0, Text="粉碎美国首府的所有盟军，摧毁五角大厦。">
+<Time=00:01:36:30, Duration=00:00:05:00, Position=14:Center, Color=0:255:0, Text="粉碎美国首府的所有盟军，摧毁五角大楼。">
 EndMovie
 
 BeginMovie S01_F00F
@@ -655,7 +655,7 @@ Font=batang.ttc
 <Time=00:01:27:30, Duration=00:00:03:00, Position=14:Center, Color=0:255:0, Text="同志，你的首要目标是">
 <Time=00:01:30:30, Duration=00:00:00:00, Position=14:Center, Color=0:255:0, Text="华盛顿特区。">
 <Time=00:01:33:30, Duration=00:00:00:00, Position=14:Center, Color=0:255:0, Text="向我们证实对你的信赖是正确的吧，将军同志。">
-<Time=00:01:36:30, Duration=00:00:05:00, Position=14:Center, Color=0:255:0, Text="粉碎美国首府的所有盟军，摧毁五角大厦。">
+<Time=00:01:36:30, Duration=00:00:05:00, Position=14:Center, Color=0:255:0, Text="粉碎美国首府的所有盟军，摧毁五角大楼。">
 EndMovie
 
 BeginMovie S01_F00G
@@ -692,7 +692,7 @@ Font=batang.ttc
 <Time=00:01:27:30, Duration=00:00:03:00, Position=14:Center, Color=0:255:0, Text="同志，你的首要目标是">
 <Time=00:01:30:30, Duration=00:00:00:00, Position=14:Center, Color=0:255:0, Text="华盛顿特区。">
 <Time=00:01:33:30, Duration=00:00:00:00, Position=14:Center, Color=0:255:0, Text="向我们证实对你的信赖是正确的吧，将军同志。">
-<Time=00:01:36:30, Duration=00:00:05:00, Position=14:Center, Color=0:255:0, Text="粉碎美国首府的所有盟军，摧毁五角大厦。">
+<Time=00:01:36:30, Duration=00:00:05:00, Position=14:Center, Color=0:255:0, Text="粉碎美国首府的所有盟军，摧毁五角大楼。">
 EndMovie
 
 BeginMovie S01_F00K
@@ -729,7 +729,7 @@ Font=batang.ttc
 <Time=00:01:27:30, Duration=00:00:03:00, Position=14:Center, Color=0:255:0, Text="同志，你的首要目标是">
 <Time=00:01:30:30, Duration=00:00:00:00, Position=14:Center, Color=0:255:0, Text="华盛顿特区。">
 <Time=00:01:33:30, Duration=00:00:00:00, Position=14:Center, Color=0:255:0, Text="向我们证实对你的信赖是正确的吧，将军同志。">
-<Time=00:01:36:30, Duration=00:00:05:00, Position=14:Center, Color=0:255:0, Text="粉碎美国首府的所有盟军，摧毁五角大厦。">
+<Time=00:01:36:30, Duration=00:00:05:00, Position=14:Center, Color=0:255:0, Text="粉碎美国首府的所有盟军，摧毁五角大楼。">
 EndMovie
 
 BeginMovie S01_P01E
