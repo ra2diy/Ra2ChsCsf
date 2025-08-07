@@ -854,12 +854,12 @@ EndMovie
 BeginMovie S05_F00E
 Font=batang.ttc
 <Time=00:00:00:30, Duration=00:00:00:00, Position=14:Center, Color=255:255:255, Text="...美国接二连三遭受无情打击...">
-<Time=00:00:04:00, Duration=00:00:04:30, Position=14:center, Color=255:255:255, Text="麦可．杜根总统今天从不明地点向欧洲盟军求援。">
+<Time=00:00:04:00, Duration=00:00:04:30, Position=14:center, Color=255:255:255, Text="麦可 · 杜根总统今天从不明地点向欧洲盟军求援。">
 <Time=00:00:09:00, Duration=00:00:00:00, Position=14:center, Color=255:255:0, Text="...此刻，我向诸位求援。">
 <Time=00:00:11:30, Duration=00:00:03:00, Position=14:center, Color=255:255:0, Text="美国是洛马诺夫的第一个目标。">
 <Time=00:00:16:30, Duration=00:00:03:00, Position=14:center, Color=255:255:0, Text="与我们并肩作战，">
 <Time=00:00:19:30, Duration=00:00:03:00, Position=14:center, Color=255:255:0, Text="不然美国绝非他唯一的目标。">
-<Time=00:00:21:30, Duration=00:00:00:00, Position=14:center, Color=255:255:255, Text="法国将领雷恩．里昂要求盟军授与他大量的军队，">
+<Time=00:00:21:30, Duration=00:00:00:00, Position=14:center, Color=255:255:255, Text="法国将领雷恩 · 里昂要求盟军授与他大量的军队，">
 <Time=00:00:25:30, Duration=00:00:01:45, Position=14:center, Color=255:255:255, Text="但各国反应还是有点缓不济急...">
 <Time=00:00:27:50, Duration=00:00:00:00, Position=14:center, Color=255:0:0, Text="同志，看来我们过于看轻欧洲邻国，他们不如我们想像的懦弱。">
 <Time=00:00:34:00, Duration=00:00:00:00, Position=14:center, Color=255:0:0, Text="法国已经和德国在波兰边界会师了。">
@@ -942,7 +942,7 @@ Font=batang.ttc
 <Time=00:00:15:00, Duration=00:00:00:00, Position=14:Left, Color=0:255:0, Text="再也无法履行他的职务。">
 <Time=00:00:17:30, Duration=00:00:01:00, Position=14:Right, Color=255:255:0, Text="真的吗？">
 <Time=00:00:18:50, Duration=00:00:00:00, Position=14:Left, Color=0:255:0, Text="但这不是我们最关切的。">
-<Time=00:00:21:30, Duration=00:00:00:00, Position=14:Left, Color=0:255:0, Text="盟军求助于德国教授，阿尔伯特．爱因斯坦，">
+<Time=00:00:21:30, Duration=00:00:00:00, Position=14:Left, Color=0:255:0, Text="盟军求助于德国教授，阿尔伯特 · 爱因斯坦，">
 <Time=00:00:24:30, Duration=00:00:00:00, Position=14:Left, Color=0:255:0, Text="他替他们建造了超时空传送仪，">
 <Time=00:00:26:30, Duration=00:00:01:30, Position=14:Left, Color=0:255:0, Text="这是能大量传送的装置。">
 <Time=00:00:29:00, Duration=00:00:00:00, Position=15:center, Color=0:255:0, Text="我的情报来源指出他们第一个目标：">
@@ -977,7 +977,7 @@ BeginMovie S08_F00E
 Font=batang.ttc
 <Time=00:00:04:00, Duration=00:00:03:00, Position=14:Center, Color=0:255:0 Text="将军们，士兵们，同志们！">
 <Time=00:00:08:00, Duration=00:00:01:30, Position=14:Center, Color=0:255:0 Text="今天是不幸的一天。">
-<Time=00:00:10:00, Duration=00:00:00:00, Position=14:Center, Color=0:255:0 Text="最近久病在床的亚历山大．">
+<Time=00:00:10:00, Duration=00:00:00:00, Position=14:Center, Color=0:255:0 Text="最近久病在床的亚历山大 · ">
 <Time=00:00:12:30, Duration=00:00:00:00, Position=14:Center, Color=0:255:0 Text="洛马诺夫总理，">
 <Time=00:00:14:00, Duration=00:00:00:00, Position=14:Center, Color=0:255:0 Text="被维拉迪摩将军残忍的谋杀了。">
 <Time=00:00:17:00, Duration=00:00:03:00, Position=14:Center, Color=255:255:255, Text="不要啊！维拉迪摩将军！">
