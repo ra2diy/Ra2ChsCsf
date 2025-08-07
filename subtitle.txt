@@ -1006,7 +1006,7 @@ Font=batang.ttc
 <Time=00:00:15:00, Duration=00:00:00:00, Position=14:Center, Color=0:255:0, Text="他对我们不再具任何意义。">
 <Time=00:00:18:00, Duration=00:00:00:00, Position=14:Center, Color=0:255:0, Text="我们现在手边有更重要的事要办。">
 <Time=00:00:20:50, Duration=00:00:03:00, Position=14:Center, Color=0:255:0, Text="美国总统杜根在德州，圣安东尼奥市露面了。">
-<Time=00:00:25:50, Duration=00:00:00:00, Position=14:Center, Color=0:255:0, Text="或许他想撤退到白杨木屋。">
+<Time=00:00:25:50, Duration=00:00:00:00, Position=14:Center, Color=0:255:0, Text="或许他想撤退到阿拉莫要塞。">
 <Time=00:00:29:00, Duration=00:00:03:00, Position=14:Center, Color=0:255:0, Text="再俘虏他一次，把他带来接受我们控制。">
 EndMovie
 
