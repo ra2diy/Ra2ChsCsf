@@ -786,7 +786,7 @@ BeginMovie S03_F00E
 Font=batang.ttc
 <Time=00:00:01:00, Duration=00:00:00:00, Position=14:Center, Color=255:0:0, Text="我国高层领导今天在红场亲自主持了游行，">
 <Time=00:00:04:00, Duration=00:00:00:00, Position=14:Center, Color=255:0:0, Text="庆祝在美国境内接二连三的胜利。">
-<Time=00:00:08:30, Duration=00:00:00:00, Position=14:Center, Color=255:0:0, Text="洛马诺夫总理亲自颁发史达林勋章给此次战役的英雄，">
+<Time=00:00:08:30, Duration=00:00:00:00, Position=14:Center, Color=255:0:0, Text="洛马诺夫总理亲自颁发斯大林勋章给此次战役的英雄，">
 <Time=00:00:13:30, Duration=00:00:02:30, Position=14:Center, Color=255:0:0, Text="维拉迪摩将军。">
 <Time=00:00:16:30, Duration=00:00:00:00, Position=14:Center, Color=255:255:0, Text="我们都知道事实真相，同志。">
 <Time=00:00:19:30, Duration=00:00:00:00, Position=14:center, Color=255:255:0, Text="维拉迪摩只不过较早撤回莫斯科，">
@@ -1023,9 +1023,9 @@ BeginMovie S10_F00E
 Font=batang.ttc
 <Time=00:00:01:00, Duration=00:00:03:00, Position=14:Center, Color=255:0:0, Text="我想是我们好好谈谈的时候了，就你跟我。">
 <Time=00:00:05:00, Duration=00:00:00:00, Position=14:Center, Color=255:0:0, Text="当年苏联刚建国的时候，">
-<Time=00:00:07:00, Duration=00:00:00:00, Position=14:Center, Color=255:0:0, Text="是史达林训练出我们独特的超能力。">
+<Time=00:00:07:00, Duration=00:00:00:00, Position=14:Center, Color=255:0:0, Text="是斯大林训练出我们独特的超能力。">
 <Time=00:00:12:00, Duration=00:00:00:00, Position=14:Center, Color=255:0:0, Text="我们受训用意志力来控制人们的心智。">
-<Time=00:00:15:00, Duration=00:00:00:00, Position=14:Center, Color=255:0:0, Text="这是史达林殿下的心灵遗产。">
+<Time=00:00:15:00, Duration=00:00:00:00, Position=14:Center, Color=255:0:0, Text="这是斯大林殿下的心灵遗产。">
 <Time=00:00:18:00, Duration=00:00:00:00, Position=14:Center, Color=255:0:0, Text="我告诉你这些是为了...">
 <Time=00:00:20:00, Duration=00:00:00:00, Position=14:Center, Color=255:0:0, Text="...因为你够聪明，懂得不要知道太多。...">
 <Time=00:00:23:00, Duration=00:00:00:00, Position=14:Center, Color=255:0:0, Text="我们遭遇到新状况了。爱因斯坦这怪老头替盟军">
