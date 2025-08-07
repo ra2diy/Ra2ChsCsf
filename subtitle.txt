@@ -920,7 +920,7 @@ EndMovie
 BeginMovie S06_P02E
 Font=batang.ttc
 <Time=00:00:01:30, Duration=00:00:00:00, Position=14:center, Color=255:255:0, Text="真是杰出的战略，同志。">
-<Time=00:00:03:00, Duration=00:00:00:00, Position=14:center, Color=255:255:0, Text="考艾岛机场落入我们掌控之中，我们就能随心所欲，">
+<Time=00:00:03:00, Duration=00:00:00:00, Position=14:center, Color=255:255:0, Text="考爱岛机场落入我们掌控之中，我们就能随心所欲，">
 <Time=00:00:05:00, Duration=00:00:03:00, Position=14:center, Color=255:255:0, Text="派遣伞兵到四处奇袭。">
 EndMovie
 
