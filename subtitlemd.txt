@@ -289,7 +289,7 @@ EndMovie
 
 BeginMovie A05_P02E
 Font=batang.ttc
-<Time=00:00:00:30, Duration=00:00:00:00, Position=14:center, Color=255:255:0, Text="尤里正在使用基因科技来调整他的部队">
+<Time=00:00:00:30, Duration=00:00:00:00, Position=14:center, Color=255:255:0, Text="尤里正在使用基因科技来调整他的部队。">
 EndMovie
 
 BeginMovie A05_P03E
