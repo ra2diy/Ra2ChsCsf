@@ -10,6 +10,7 @@
 /EndMovie
 
 BeginMovie A00_F00E
+Font=batang.ttc
 <Time=00:00:04:30, Duration=00:00:02:00, Position=14:Center, Color=255:255:0, Text="我们目前正处于第二级防卫状态。">
 <Time=00:00:09:00, Duration=00:00:02:00, Position=14:Center, Color=0:255:0, Text="少尉，这个恶魔到底想做什么？">
 <Time=00:00:11:30, Duration=00:00:02:00, Position=14:Center, Color=255:255:0, Text="总统先生，他已经正式浮出台面了。">
@@ -713,7 +714,7 @@ EndMovie
 
 ; Comments begin with a semicolon character.
 BeginMovie Renegade
-Font=arial.ttc
+Font=batang.ttc
 <Time=00:00:07:00, Duration=00:00:05:00, Position=12:Center, Color=255:255:255, Text="为全球百万爱好终极动员令的玩家而设计">
 <Time=00:00:11:00, Duration=00:00:03:00, Position=12:Center, Color=255:255:255, Text="我们为您隆重呈现">
 <Time=00:00:23:00, Duration=00:00:03:00, Position=12:Center, Color=0:0:255, Text="援军抵达">
