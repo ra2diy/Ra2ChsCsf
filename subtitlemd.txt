@@ -715,7 +715,7 @@ EndMovie
 ; Comments begin with a semicolon character.
 BeginMovie Renegade
 Font=batang.ttc
-<Time=00:00:07:00, Duration=00:00:05:00, Position=12:Center, Color=255:255:255, Text="为全球百万爱好终极动员令的玩家而设计">
+<Time=00:00:07:00, Duration=00:00:05:00, Position=12:Center, Color=255:255:255, Text="为全球百万爱好命令与征服的玩家而设计">
 <Time=00:00:11:00, Duration=00:00:03:00, Position=12:Center, Color=255:255:255, Text="我们为您隆重呈现">
 <Time=00:00:23:00, Duration=00:00:03:00, Position=12:Center, Color=0:0:255, Text="援军抵达">
 <Time=00:00:27:05, Duration=00:00:03:00, Position=12:Center, Color=0:0:255, Text="NOD兄弟会之手遭受攻击">
