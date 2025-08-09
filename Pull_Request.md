@@ -6,8 +6,8 @@ Based on the early work by @DeathFishAtEase , this pull request has been refined
 
 This update includes:
 
-📄 Complete translation of `Translation.ini` (excluding `Client:DTAConfig:TS*` section).
-🖼️ Localized UI images covering interface elements, settings items, map names & descriptions, with optimized line breaks.
+📄 Complete translation of `Translation.ini` (excluding `Client:DTAConfig:TS*` section).  
+🖼️ Localized UI images covering interface elements, settings items, map names & descriptions, with optimized line breaks.  
 🎮 Translated in-game content: cameo assets, `ra2(md).csf`, and `subtitle(md).txt`.
 
 ![image](Translation_Preview.png)
