@@ -10,6 +10,8 @@ This update includes:
 🖼️ Localized UI images covering interface elements, settings items, map names & descriptions, with optimized line breaks.
 🎮 Translated in-game content: cameo assets, `ra2(md).csf`, and `subtitle(md).txt`.
 
+![image](Translation_Preview.png)
+
 Key considerations during localization:
 - Adapted official Traditional Chinese translations to Simplified Chinese conventions, going beyond mere character conversion.
 - Corrected grammatical errors in legacy CSF texts and fixed typos in icons
