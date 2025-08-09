@@ -204,7 +204,7 @@ Font=batang.ttc
 <Time=00:00:10:00, Duration=00:00:01:30, Position=14:center, Color=255:255:0, Text="我现在马上播放。">
 <Time=00:00:12:00, Duration=00:00:00:00, Position=14:center, Color=0:255:0, Text="我不知道我还能继续连线多久，">
 <Time=00:00:15:00, Duration=00:00:00:00, Position=14:center, Color=0:255:0, Text="尤里的军队...正在入侵整个巨软园区，">
-<Time=00:00:19:00, Duration=00:00:05:00, Position=14:center, Color=0:255:0, Text="他已经建造了一座核子飞弹发射井，">
+<Time=00:00:19:00, Duration=00:00:05:00, Position=14:center, Color=0:255:0, Text="他已经建造了一座核弹发射井，">
 <Time=00:00:22:00, Duration=00:00:05:00, Position=14:center, Color=0:255:0, Text="并且威胁要炸掉整个西雅图，">
 <Time=00:00:24:10, Duration=00:00:00:00, Position=14:center, Color=0:255:0, Text="除非我贡献出足够他运作的战争资金，">
 <Time=00:00:26:30, Duration=00:00:00:00, Position=14:center, Color=0:255:0, Text="同时他还强迫我们的研发部门，进行...">
@@ -226,7 +226,7 @@ BeginMovie A03_P02E
 EndMovie
 
 BeginMovie A03_P03E
-<Time=00:00:00:30, Duration=00:00:00:00, Position=14:Center, Color=255:255:0, Text="指挥官，尤里的核子攻击已经使我们的基地严重受损，">
+<Time=00:00:00:30, Duration=00:00:00:00, Position=14:Center, Color=255:255:0, Text="指挥官，尤里的核弹攻击已经使我们的基地严重受损，">
 <Time=00:00:03:30, Duration=00:00:03:00, Position=14:Center, Color=255:255:0, Text="如果你可以占领一些发电厂的话，">
 <Time=00:00:05:30, Duration=00:00:03:00, Position=14:Center, Color=255:255:0, Text="我们说不定可以让天气控制装置恢复作用，">
 <Time=00:00:08:30, Duration=00:00:02:00, Position=14:Center, Color=255:255:0, Text="并展开反击。">

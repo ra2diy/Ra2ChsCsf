@@ -253,7 +253,7 @@ Font=batang.ttc
 <Time=00:00:11:30, Duration=00:00:00:00, Position=14:Center, Color=0:255:0, Text="我和欧洲议会正在讨论援助计划...">
 <Time=00:00:13:30, Duration=00:00:00:00, Position=14:center, Color=128:128:255, Text="只...只是可能而己。">
 <Time=00:00:15:30, Duration=00:00:00:00, Position=14:center, Color=0:255:0, Text="...对美国可能的援助计划。">
-<Time=00:00:19:00, Duration=00:00:00:00, Position=14:center, Color=0:255:0, Text="芝加哥遭受的核子攻击似乎让他们重新考虑。">
+<Time=00:00:19:00, Duration=00:00:00:00, Position=14:center, Color=0:255:0, Text="芝加哥遭受的核弹攻击似乎让他们重新考虑。">
 <Time=00:00:22:30, Duration=00:00:00:00, Position=14:center, Color=255:255:255, Text="不要认为我们对你们的处境漠不关心，总统先生。">
 <Time=00:00:25:00, Duration=00:00:00:00, Position=14:center, Color=255:255:255, Text="但对我们来说，美国实在十分遥远。">
 <Time=00:00:28:30, Duration=00:00:00:00, Position=14:center, Color=0:255:0, Text="指挥官，目前我们同意交换特务谭雅出这次任务，">
@@ -369,7 +369,7 @@ EndMovie
 BeginMovie A07_P02E
 Font=batang.ttc
 <Time=00:00:00:40, Duration=00:00:00:00, Position=14:center, Color=255:255:0, Text="指挥官，您的时空裂缝产生器可以用来阻挠苏联雷达。">
-<Time=00:00:05:00, Duration=00:00:03:00, Position=14:center, Color=255:255:0, Text="就能阻止他们在这块区域里发射核子武器。">
+<Time=00:00:05:00, Duration=00:00:03:00, Position=14:center, Color=255:255:0, Text="就能阻止他们在这块区域里发射核武器。">
 EndMovie
 
 BeginMovie A08_F00E
@@ -490,7 +490,7 @@ Font=batang.ttc
 <Time=00:01:06:30, Duration=00:00:00:00, Position=14:Center, Color=0:255:0, Text="佛罗里达传送点的一个小岛上～">
 <Time=00:01:12:00, Duration=00:00:04:00, Position=14:Center, Color=0:255:0, Text="只离苏联盟友古巴几公里远。">
 <Time=00:01:21:00, Duration=00:00:03:00, Position=14:Center, Color=0:255:0, Text="嗯，我得回去工作了。">
-<Time=00:01:25:30, Duration=00:00:00:00, Position=14:Center, Color=255:255:0, Text="有了这项情报，我就能收集与苏联在此区域的核子武器的相关资讯。">
+<Time=00:01:25:30, Duration=00:00:00:00, Position=14:Center, Color=255:255:0, Text="有了这项情报，我就能收集与苏联在此区域的核武器的相关资讯。">
 <Time=00:01:30:30, Duration=00:00:03:00, Position=14:Center, Color=255:255:0, Text="他们将是超时空传送仪的最大威胁。">
 <Time=00:01:33:00, Duration=00:00:03:00, Position=14:Center, Color=255:255:0, Text="指挥官，祝您好运。">
 EndMovie
@@ -1031,7 +1031,7 @@ Font=batang.ttc
 <Time=00:00:23:00, Duration=00:00:00:00, Position=14:Center, Color=255:0:0, Text="我们遭遇到新状况了。爱因斯坦这怪老头替盟军">
 <Time=00:00:28:00, Duration=00:00:00:00, Position=14:Center, Color=255:0:0, Text="兴建了能控制上空暴风云之能量的装置。">
 <Time=00:00:33:00, Duration=00:00:00:00, Position=14:Center, Color=255:0:0, Text="这几乎是匪夷所思的武器，但威力非凡。">
-<Time=00:00:37:30, Duration=00:00:00:00, Position=14:Center, Color=255:0:0, Text="用我提供给你的核子飞弹，摧毁这项装置。">
+<Time=00:00:37:30, Duration=00:00:00:00, Position=14:Center, Color=255:0:0, Text="用我提供给你的核弹，摧毁这项装置。">
 <Time=00:00:41:30, Duration=00:00:02:00, Position=14:Center, Color=255:0:0, Text="让我们的大军再度动起来吧。">
 <Time=00:00:45:00, Duration=00:00:04:00, Position=14:Center, Color=0:255:0, Text="将军。现在开始我将从维拉迪摩的指挥转入您麾下。">
 <Time=00:00:50:00, Duration=00:00:03:00, Position=14:Center, Color=0:255:0, Text="天气控制装置似乎位于美国维尔京群岛。">
