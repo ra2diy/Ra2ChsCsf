@@ -625,7 +625,7 @@ BeginMovie S01_F00F
 Font=batang.ttc
 <Time=00:00:01:30, Duration=00:00:03:00, Position=14:Center, Color=255:255:0, Text="将军同志！">
 <Time=00:00:03:30, Duration=00:00:00:00, Position=14:Center, Color=255:255:0, Text="我是佐菲亚少尉；">
-<Time=00:00:06:00, Duration=00:00:03:00, Position=14:Center, Color=255:255:0, Text="我的职责是监督您顺利指挥军务。">
+<Time=00:00:06:00, Duration=00:00:03:00, Position=14:Center, Color=255:255:0, Text="我的职责是确保您顺利指挥军务。">
 <Time=00:00:10:00, Duration=00:00:00:00, Position=14:Center, Color=255:255:0, Text="自大战之后，我已经成功的协助完成超过五十场的">
 <Time=00:00:13:00, Duration=00:00:00:00, Position=14:center, Color=255:255:0, Text="模拟战役。">
 <Time=00:00:15:00, Duration=00:00:03:00, Position=14:center, Color=255:255:0, Text="相信我的表现，一定会超出您的满意。">
@@ -662,7 +662,7 @@ BeginMovie S01_F00G
 Font=batang.ttc
 <Time=00:00:01:30, Duration=00:00:03:00, Position=14:Center, Color=255:255:0, Text="将军同志！">
 <Time=00:00:03:30, Duration=00:00:00:00, Position=14:Center, Color=255:255:0, Text="我是佐菲亚少尉；">
-<Time=00:00:06:00, Duration=00:00:03:00, Position=14:Center, Color=255:255:0, Text="我的职责是监督您顺利指挥军务。">
+<Time=00:00:06:00, Duration=00:00:03:00, Position=14:Center, Color=255:255:0, Text="我的职责是确保您顺利指挥军务。">
 <Time=00:00:10:00, Duration=00:00:00:00, Position=14:Center, Color=255:255:0, Text="自大战之后，我已经成功的协助完成超过五十场的">
 <Time=00:00:13:00, Duration=00:00:00:00, Position=14:center, Color=255:255:0, Text="模拟战役。">
 <Time=00:00:15:00, Duration=00:00:03:00, Position=14:center, Color=255:255:0, Text="相信我的表现，一定会超出您的满意。">
@@ -699,7 +699,7 @@ BeginMovie S01_F00K
 Font=batang.ttc
 <Time=00:00:01:30, Duration=00:00:03:00, Position=14:Center, Color=255:255:0, Text="将军同志！">
 <Time=00:00:03:30, Duration=00:00:00:00, Position=14:Center, Color=255:255:0, Text="我是佐菲亚少尉；">
-<Time=00:00:06:00, Duration=00:00:03:00, Position=14:Center, Color=255:255:0, Text="我的职责是监督您顺利指挥军务。">
+<Time=00:00:06:00, Duration=00:00:03:00, Position=14:Center, Color=255:255:0, Text="我的职责是确保您顺利指挥军务。">
 <Time=00:00:10:00, Duration=00:00:00:00, Position=14:Center, Color=255:255:0, Text="自大战之后，我已经成功的协助完成超过五十场的">
 <Time=00:00:13:00, Duration=00:00:00:00, Position=14:center, Color=255:255:0, Text="模拟战役。">
 <Time=00:00:15:00, Duration=00:00:03:00, Position=14:center, Color=255:255:0, Text="相信我的表现，一定会超出您的满意。">
