@@ -1063,7 +1063,7 @@ EndMovie
 BeginMovie S11_F00E
 Font=batang.ttc
 <Time=00:00:01:30, Duration=00:00:00:00, Position=14:Center, Color=255:255:255, Text="将军同志。">
-<Time=00:00:04:30, Duration=00:00:00:00, Position=14:Center, Color=255:255:255, Text="您比我猜想的还要来得固执。">
+<Time=00:00:04:30, Duration=00:00:00:00, Position=14:Center, Color=255:255:255, Text="您比我以为的还要来得固执。">
 <Time=00:00:08:00, Duration=00:00:00:00, Position=14:Center, Color=255:255:255, Text="瞧瞧你，对敌人来说是多么大的威胁呀。">
 <Time=00:00:13:00, Duration=00:00:00:00, Position=14:Center, Color=255:255:255, Text="帮我个忙。亲自到莫斯科来让我添光吧，">
 <Time=00:00:17:00, Duration=00:00:02:00, Position=14:Center, Color=255:255:255, Text="我会亲自向你道谢的。">
@@ -1083,8 +1083,8 @@ Font=batang.ttc
 <Time=00:01:21:00, Duration=00:00:00:00, Position=14:Center, Color=0:255:255, Text="但大部分的军队听从您的指示。">
 <Time=00:01:23:00, Duration=00:00:00:00, Position=14:Center, Color=0:255:255, Text="不，......别再多说，将军。">
 <Time=00:01:26:00, Duration=00:00:00:00, Position=14:Center, Color=0:255:255, Text="他们现在听从您的指示。">
-<Time=00:01:29:00, Duration=00:00:00:00, Position=14:Center, Color=0:255:255, Text="只要我们不要再多说，破坏了对他们的心灵控制...">
-<Time=00:01:31:00, Duration=00:00:03:00, Position=14:Center, Color=0:255:255, Text="为您效劳是种荣誉。">
+<Time=00:01:29:00, Duration=00:00:00:00, Position=14:Center, Color=0:255:255, Text="即便我们从此再也无法讲话...">
+<Time=00:01:31:00, Duration=00:00:03:00, Position=14:Center, Color=0:255:255, Text="为您效劳是我的荣誉。">
 EndMovie
 
 BeginMovie S11_P01E
