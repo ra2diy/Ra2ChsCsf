@@ -179,14 +179,14 @@ BeginMovie A02_F00E
 EndMovie
 
 BeginMovie A02_P01E
-<Time=00:00:00:30, Duration=00:00:00:00, Position=14:Center, Color=255:255:0, Text="指挥官，您的机动基地车已经于靠近洛杉矶国际机场就定位。">
+<Time=00:00:00:30, Duration=00:00:00:00, Position=14:Center, Color=255:255:0, Text="指挥官，您的机动基地车已经到达靠近洛杉矶国际机场的目标位置。">
 EndMovie
 
 BeginMovie A02_P02E
 <Time=00:00:01:00, Duration=00:00:06:00, Position=14:Center, Color=255:255:0, Text="指挥官，敌人正在使用可怕的新科技。">
 <Time=00:00:04:30, Duration=00:00:03:00, Position=14:center, Color=255:255:0, Text="这是部队回收厂，">
 <Time=00:00:06:30, Duration=00:00:03:00, Position=14:center, Color=255:255:0, Text="这些装置可以破坏一切物品，">
-<Time=00:00:08:30, Duration=00:00:03:00, Position=14:center, Color=255:255:0, Text="成为它机器或构成的一部份。">
+<Time=00:00:08:30, Duration=00:00:03:00, Position=14:center, Color=255:255:0, Text="不论机械还是有机物。">
 <Time=00:00:10:30, Duration=00:00:03:00, Position=14:center, Color=255:255:0, Text="他们正将所俘虏的市民送进部队回收厂中，">
 <Time=00:00:13:30, Duration=00:00:03:30, Position=14:center, Color=255:255:0, Text="转化为原料，以变成其战争资金！">
 EndMovie
@@ -200,7 +200,7 @@ EndMovie
 BeginMovie A03_F00E
 Font=batang.ttc
 <Time=00:00:01:00, Duration=00:00:00:00, Position=14:Center, Color=255:255:0, Text="指挥官，我们透过卫星连接收到了一段影片。">
-<Time=00:00:05:00, Duration=00:00:06:00, Position=14:center, Color=255:255:0, Text="影片是由位于华盛顿州西雅图市的巨微公司，百万执行董事宾尔所发出来的。">
+<Time=00:00:05:00, Duration=00:00:06:00, Position=14:center, Color=255:255:0, Text="影片是由位于华盛顿州西雅图市的巨软公司，百万执行董事宾尔所发出来的。">
 <Time=00:00:10:00, Duration=00:00:01:30, Position=14:center, Color=255:255:0, Text="我现在马上播放。">
 <Time=00:00:12:00, Duration=00:00:00:00, Position=14:center, Color=0:255:0, Text="我不知道我还能继续连线多久，">
 <Time=00:00:15:00, Duration=00:00:00:00, Position=14:center, Color=0:255:0, Text="尤里的军队...正在入侵整个巨软园区，">
@@ -214,11 +214,11 @@ EndMovie
 
 BeginMovie A03_P01E
 <Time=00:00:00:30, Duration=00:00:00:00, Position=14:Center, Color=0:255:0, Text="卫星讯号确认。">
-<Time=00:00:02:30, Duration=00:00:03:00, Position=14:Center, Color=0:255:0, Text="尤里已经在本区域建立了一座军事飞弹基地，">
+<Time=00:00:02:30, Duration=00:00:03:00, Position=14:Center, Color=0:255:0, Text="尤里已经在本区域建立了一座发射井，">
 EndMovie
 
 BeginMovie A03_P02E
-<Time=00:00:01:30, Duration=00:00:00:00, Position=14:Center, Color=255:0:0, Text="同盟指挥官，请注意，">
+<Time=00:00:01:30, Duration=00:00:00:00, Position=14:Center, Color=255:0:0, Text="盟军指挥官，请注意，">
 <Time=00:00:04:00, Duration=00:00:03:00, Position=14:Center, Color=255:0:0, Text="你挑衅的攻击行为将遭受惩罚，">
 <Time=00:00:07:30, Duration=00:00:03:00, Position=14:Center, Color=255:0:0, Text="西雅图已经是我的了，">
 <Time=00:00:09:30, Duration=00:00:03:00, Position=14:Center, Color=255:0:0, Text="把你的部队撤出本区域，">
@@ -274,7 +274,7 @@ BeginMovie A05_F00E
 <Time=00:00:00:30, Duration=00:00:00:00, Position=14:Center, Color=0:255:0, Text="各位，我们的间谍卫星已经在澳大利亚侦测到一座巨大的实验室机构，">
 <Time=00:00:06:00, Duration=00:00:03:30, Position=14:Center, Color=0:255:0, Text="那里将是尤里展开他复制人行动的地点，">
 <Time=00:00:10:00, Duration=00:00:00:00, Position=14:Center, Color=0:255:0, Text="根据情报所获得的资料，">
-<Time=00:00:12:30, Duration=00:00:00:00, Position=14:Center, Color=0:255:0, Text="他正计划绑架主要的同盟国领袖，">
+<Time=00:00:12:30, Duration=00:00:00:00, Position=14:Center, Color=0:255:0, Text="他正计划绑架主要的盟军领袖，">
 <Time=00:00:16:30, Duration=00:00:02:30, Position=14:Center, Color=0:255:0, Text="然后用复制人替换过来；">
 <Time=00:00:20:00, Duration=00:00:00:00, Position=14:Center, Color=0:255:0, Text="指挥官，">
 <Time=00:00:22:00, Duration=00:00:04:00, Position=14:center, Color=0:255:0, Text="我们最顶尖的工作人员，用其生命换回了这项资讯，">
@@ -289,7 +289,7 @@ EndMovie
 
 BeginMovie A05_P02E
 Font=batang.ttc
-<Time=00:00:00:30, Duration=00:00:00:00, Position=14:center, Color=255:255:0, Text="尤里正在使用基因科技来调整他的部队。">
+<Time=00:00:00:30, Duration=00:00:00:00, Position=14:center, Color=255:255:0, Text="尤里正在使用基因科技来改造他的部队。">
 EndMovie
 
 BeginMovie A05_P03E
@@ -451,7 +451,7 @@ Font=batang.ttc
 <Time=00:01:01:30, Duration=00:00:00:00, Position=14:Center, Color=0:255:0, Text="苏维埃共和国与全世界的命运，">
 <Time=00:01:06:00, Duration=00:00:02:30, Position=14:Center, Color=0:255:0, Text="就掌握在你的手中！">
 <Time=00:01:11:00, Duration=00:00:01:30, Position=14:Center, Color=0:255:0, Text="我必须离开了，">
-<Time=00:01:13:30, Duration=00:00:00:00, Position=14:Center, Color=0:255:0, Text="苏菲雅同志已经将这段讯息录下来，">
+<Time=00:01:13:30, Duration=00:00:00:00, Position=14:Center, Color=0:255:0, Text="佐菲雅同志已经将这段讯息录下来，">
 <Time=00:01:16:30, Duration=00:00:00:00, Position=14:Center, Color=0:255:0, Text="并准备交给过去的我。">
 <Time=00:01:19:00, Duration=00:00:02:30, Position=14:Center, Color=0:255:0, Text="祖国万岁，将军同志。 ">
 EndMovie
@@ -486,7 +486,7 @@ Font=batang.ttc
 <Time=00:00:15:00, Duration=00:00:03:00, Position=14:Center, Color=0:255:0, Text="盟军将利用一种卑鄙的装置，称为">
 <Time=00:00:18:30, Duration=00:00:05:00, Position=14:Center, Color=0:255:0, Text="超时空传送仪入侵莫斯科，">
 <Time=00:00:26:30, Duration=00:00:06:00, Position=14:Center, Color=0:255:0, Text="你必须前往德国，">
-<Time=00:00:32:00, Duration=00:00:00:00, Position=14:center, Color=0:255:0, Text="在爱因斯坦发明这项时间装置之前，">
+<Time=00:00:32:00, Duration=00:00:00:00, Position=14:center, Color=0:255:0, Text="在爱因斯坦发明这项超时空装置之前，">
 <Time=00:00:37:00, Duration=00:00:00:00, Position=14:center, Color=0:255:0, Text="摧毁他的实验室，">
 <Time=00:00:42:00, Duration=00:00:00:00, Position=14:center, Color=0:255:0, Text="这么一来，盟军就会放弃他们愚蠢的抵抗，">
 <Time=00:00:44:30, Duration=00:00:00:00, Position=14:center, Color=0:255:0, Text="并加入荣耀的苏联阵营，">
