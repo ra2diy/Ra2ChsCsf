@@ -1111,8 +1111,8 @@ EndMovie
 BeginMovie S11_P04E
 Font=batang.ttc
 <Time=00:00:01:10, Duration=00:00:00:00, Position=14:center, Color=255:255:0, Text="现在就算不设防，也没有人能逮到我们了，同志。">
-<Time=00:00:04:30, Duration=00:00:00:00, Position=14:center, Color=255:255:0, Text="我手上有加强心灵侦测器的办法。">
-<Time=00:00:07:30, Duration=00:00:00:00, Position=14:center, Color=255:255:0, Text="这项装置将能警告我们所有进入射程的部队行动。">
+<Time=00:00:04:30, Duration=00:00:00:00, Position=14:center, Color=255:255:0, Text="我已经取得了心灵探测器的设计图。">
+<Time=00:00:07:30, Duration=00:00:00:00, Position=14:center, Color=255:255:0, Text="这项装置能警告我们侦测范围内的任何部队行动。">
 <Time=00:00:12:00, Duration=00:00:02:30, Position=14:center, Color=255:255:0, Text="我们可以高枕无忧了。">
 EndMovie
 
