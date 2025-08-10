@@ -327,8 +327,8 @@ EndMovie
 
 BeginMovie A06_P01E
 Font=batang.ttc
-<Time=00:00:01:10, Duration=00:00:03:00, Position=14:center, Color=255:255:0, Text="长官，苏联军放出了机械小蜘蛛！">
-<Time=00:00:06:00, Duration=00:00:03:00, Position=14:center, Color=255:255:0, Text="要是我方坦克太过靠近这些机械小蜘蛛，就会被撕裂成碎片。">
+<Time=00:00:01:10, Duration=00:00:03:00, Position=14:center, Color=255:255:0, Text="长官，苏联军放出了恐怖机器人！">
+<Time=00:00:06:00, Duration=00:00:03:00, Position=14:center, Color=255:255:0, Text="要是我方坦克太过靠近这些恐怖机器人，就会被撕裂成碎片。">
 EndMovie
 
 BeginMovie A06_P02E
