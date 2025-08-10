@@ -271,7 +271,7 @@ Font=batang.ttc
 EndMovie
 
 BeginMovie A05_F00E
-<Time=00:00:00:30, Duration=00:00:00:00, Position=14:Center, Color=0:255:0, Text="各位，我们的间谍卫星已经在澳大利亚侦测到一座巨大的实验室机构，">
+<Time=00:00:00:30, Duration=00:00:00:00, Position=14:Center, Color=0:255:0, Text="各位，我们的间谍卫星已经在澳大利亚侦测到一座巨大的实验室设施，">
 <Time=00:00:06:00, Duration=00:00:03:30, Position=14:Center, Color=0:255:0, Text="那里将是尤里展开他复制人行动的地点，">
 <Time=00:00:10:00, Duration=00:00:00:00, Position=14:Center, Color=0:255:0, Text="根据情报所获得的资料，">
 <Time=00:00:12:30, Duration=00:00:00:00, Position=14:Center, Color=0:255:0, Text="他正计划绑架主要的盟军领袖，">
