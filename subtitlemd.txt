@@ -193,7 +193,7 @@ EndMovie
 
 BeginMovie A02_P03E
 <Time=00:00:00:30, Duration=00:00:06:00, Position=14:Center, Color=0:255:0, Text="指挥官，这些好莱坞的市民当中，">
-<Time=00:00:03:00, Duration=00:00:03:00, Position=14:center, Color=0:255:0, Text="有些相当强健的人物，">
+<Time=00:00:03:00, Duration=00:00:03:00, Position=14:center, Color=0:255:0, Text="有实打实的硬汉，">
 <Time=00:00:04:40, Duration=00:00:02:00, Position=14:center, Color=0:255:0, Text="他们或许可以帮助你。">
 EndMovie
 
