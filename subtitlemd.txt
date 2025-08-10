@@ -133,7 +133,7 @@ Font=batang.ttc
 <Time=00:00:09:40, Duration=00:00:01:00, Position=14:center, Color=255:255:0, Text="旅途可能相当颠簸！">
 <Time=00:00:12:00, Duration=00:00:00:00, Position=14:Center, Color=255:255:128, Text="我恐怕你已经没有时间了，">
 <Time=00:00:14:30, Duration=00:00:00:00, Position=14:Center, Color=255:255:128, Text="但不用担心，">
-<Time=00:00:16:30, Duration=00:00:00:00, Position=14:center, Color=255:255:128, Text="这一点都不会有痛苦，">
+<Time=00:00:16:30, Duration=00:00:00:00, Position=14:center, Color=255:255:128, Text="这不会有一点痛苦，">
 <Time=00:00:18:30, Duration=00:00:00:00, Position=14:center, Color=255:255:128, Text="而且当你们没有自由意志之后，">
 <Time=00:00:21:30, Duration=00:00:02:00, Position=14:center, Color=255:255:128, Text="生活会变得更简单一些。">
 EndMovie
