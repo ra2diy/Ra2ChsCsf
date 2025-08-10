@@ -1110,7 +1110,7 @@ EndMovie
 
 BeginMovie S11_P04E
 Font=batang.ttc
-<Time=00:00:01:10, Duration=00:00:00:00, Position=14:center, Color=255:255:0, Text="现在没人能打我们个措手不及了同志，">
+<Time=00:00:01:10, Duration=00:00:00:00, Position=14:center, Color=255:255:0, Text="同志，现在没人能打我们个措手不及了。">
 <Time=00:00:04:30, Duration=00:00:00:00, Position=14:center, Color=255:255:0, Text="我已经取得了心灵探测器的设计图。">
 <Time=00:00:07:30, Duration=00:00:00:00, Position=14:center, Color=255:255:0, Text="这项装置会在其探测范围内出现部队调动时警告我们。">
 <Time=00:00:12:00, Duration=00:00:02:30, Position=14:center, Color=255:255:0, Text="我们终于又可以高枕无忧了。">
