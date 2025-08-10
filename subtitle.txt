@@ -618,7 +618,7 @@ Font=batang.ttc
 <Time=00:01:27:30, Duration=00:00:03:00, Position=14:Center, Color=0:255:0, Text="同志，你的首要目标是">
 <Time=00:01:30:30, Duration=00:00:00:00, Position=14:Center, Color=0:255:0, Text="华盛顿特区。">
 <Time=00:01:33:30, Duration=00:00:00:00, Position=14:Center, Color=0:255:0, Text="向我们证实对你的信赖是正确的吧，将军同志。">
-<Time=00:01:36:30, Duration=00:00:05:00, Position=14:Center, Color=0:255:0, Text="粉碎美国首府的所有盟军，摧毁五角大楼。">
+<Time=00:01:36:30, Duration=00:00:05:00, Position=14:Center, Color=0:255:0, Text="粉碎美国首都的所有盟军，摧毁五角大楼。">
 EndMovie
 
 BeginMovie S01_F00F
@@ -655,7 +655,7 @@ Font=batang.ttc
 <Time=00:01:27:30, Duration=00:00:03:00, Position=14:Center, Color=0:255:0, Text="同志，你的首要目标是">
 <Time=00:01:30:30, Duration=00:00:00:00, Position=14:Center, Color=0:255:0, Text="华盛顿特区。">
 <Time=00:01:33:30, Duration=00:00:00:00, Position=14:Center, Color=0:255:0, Text="向我们证实对你的信赖是正确的吧，将军同志。">
-<Time=00:01:36:30, Duration=00:00:05:00, Position=14:Center, Color=0:255:0, Text="粉碎美国首府的所有盟军，摧毁五角大楼。">
+<Time=00:01:36:30, Duration=00:00:05:00, Position=14:Center, Color=0:255:0, Text="粉碎美国首都的所有盟军，摧毁五角大楼。">
 EndMovie
 
 BeginMovie S01_F00G
@@ -692,7 +692,7 @@ Font=batang.ttc
 <Time=00:01:27:30, Duration=00:00:03:00, Position=14:Center, Color=0:255:0, Text="同志，你的首要目标是">
 <Time=00:01:30:30, Duration=00:00:00:00, Position=14:Center, Color=0:255:0, Text="华盛顿特区。">
 <Time=00:01:33:30, Duration=00:00:00:00, Position=14:Center, Color=0:255:0, Text="向我们证实对你的信赖是正确的吧，将军同志。">
-<Time=00:01:36:30, Duration=00:00:05:00, Position=14:Center, Color=0:255:0, Text="粉碎美国首府的所有盟军，摧毁五角大楼。">
+<Time=00:01:36:30, Duration=00:00:05:00, Position=14:Center, Color=0:255:0, Text="粉碎美国首都的所有盟军，摧毁五角大楼。">
 EndMovie
 
 BeginMovie S01_F00K
@@ -729,7 +729,7 @@ Font=batang.ttc
 <Time=00:01:27:30, Duration=00:00:03:00, Position=14:Center, Color=0:255:0, Text="同志，你的首要目标是">
 <Time=00:01:30:30, Duration=00:00:00:00, Position=14:Center, Color=0:255:0, Text="华盛顿特区。">
 <Time=00:01:33:30, Duration=00:00:00:00, Position=14:Center, Color=0:255:0, Text="向我们证实对你的信赖是正确的吧，将军同志。">
-<Time=00:01:36:30, Duration=00:00:05:00, Position=14:Center, Color=0:255:0, Text="粉碎美国首府的所有盟军，摧毁五角大楼。">
+<Time=00:01:36:30, Duration=00:00:05:00, Position=14:Center, Color=0:255:0, Text="粉碎美国首都的所有盟军，摧毁五角大楼。">
 EndMovie
 
 BeginMovie S01_P01E
