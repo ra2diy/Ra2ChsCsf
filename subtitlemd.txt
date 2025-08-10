@@ -80,24 +80,24 @@ BeginMovie A01_F00E
 <Time=00:00:18:30, Duration=00:00:00:00, Position=14:center, Color=255:255:0, Text="幸运的是，在旧金山这边的装置，">
 <Time=00:00:20:00, Duration=00:00:00:00, Position=14:center, Color=255:255:0, Text="似乎因为电力不足，到目前为止还没有...">
 <Time=00:00:23:30, Duration=00:00:01:30, Position=14:center, Color=255:255:0, Text="启动。">
-<Time=00:00:26:00, Duration=00:00:01:30, Position=14:center, Color=255:255:0, Text="指挥官，请稍待，">
+<Time=00:00:26:00, Duration=00:00:01:30, Position=14:center, Color=255:255:0, Text="指挥官，请稍候，">
 <Time=00:00:28:00, Duration=00:00:02:00, Position=14:Center, Color=255:255:0, Text="特务谭雅正在线上。">
 <Time=00:00:34:00, Duration=00:00:00:00, Position=14:Center, Color=0:255:0, Text="指挥官，这可能是一种解决方案，">
-<Time=00:00:36:00, Duration=00:00:03:00, Position=14:Center, Color=0:255:0, Text="爱因斯坦教授有了一个新玩意，">
+<Time=00:00:36:00, Duration=00:00:03:00, Position=14:Center, Color=0:255:0, Text="爱因斯坦博士有了一个新玩意，">
 <Time=00:00:37:30, Duration=00:00:00:00, Position=14:Center, Color=0:255:0, Text="虽然这东西目前还没经过实验，">
 <Time=00:00:38:30, Duration=00:00:04:00, Position=14:Center, Color=0:255:0, Text="但可能是我们唯一的办法了，">
-<Time=00:00:41:00, Duration=00:00:01:00, Position=14:Center, Color=0:255:0, Text="对吧，教授？">
-<Time=00:00:43:30, Duration=00:00:01:00, Position=14:Center, Color=0:255:0, Text="教授！">
+<Time=00:00:41:00, Duration=00:00:01:00, Position=14:Center, Color=0:255:0, Text="对吧，博士？">
+<Time=00:00:43:30, Duration=00:00:01:00, Position=14:Center, Color=0:255:0, Text="博士！">
 <Time=00:00:45:00, Duration=00:00:00:00, Position=14:Center, Color=0:0:255, Text="喔，是，对啊。">
 <Time=00:00:45:30, Duration=00:00:00:30, Position=14:Center, Color=0:255:0, Text="对。">
-<Time=00:00:47:00, Duration=00:00:00:00, Position=14:Right, Color=0:0:255, Text="这是我时间机器的原型，">
+<Time=00:00:47:00, Duration=00:00:00:00, Position=14:Right, Color=0:0:255, Text="这是我的时间机器原型，">
 <Time=00:00:51:00, Duration=00:00:00:00, Position=14:Right, Color=0:0:255, Text="我相信可以用它将部队送回之前的时间，">
 <Time=00:00:57:30, Duration=00:00:00:00, Position=14:Right, Color=0:0:255, Text="如果幸运的话，说不定可以在心灵控制器造成伤害之前扭转情势。">
 <Time=00:01:05:30, Duration=00:00:00:00, Position=14:Center, Color=0:255:0, Text="但我们没有多少时间了，指挥官，">
 <Time=00:01:07:30, Duration=00:00:03:00, Position=14:Center, Color=0:255:0, Text="尤里的部队正准备通过城市占领发电厂，">
 <Time=00:01:10:30, Duration=00:00:03:00, Position=14:Center, Color=0:255:0, Text="以便提供心灵控制器所需的电力，">
-<Time=00:01:13:00, Duration=00:00:03:00, Position=14:Center, Color=0:255:0, Text="不过教授的机器也需要电力，">
-<Time=00:01:15:30, Duration=00:00:03:00, Position=14:Center, Color=0:255:0, Text="所以你必须自己到那边去，占领自己所需的发电厂。">
+<Time=00:01:13:00, Duration=00:00:03:00, Position=14:Center, Color=0:255:0, Text="不过博士的机器也需要电力，">
+<Time=00:01:15:30, Duration=00:00:03:00, Position=14:Center, Color=0:255:0, Text="所以你必须自己到那边去，占领所需的发电厂。">
 <Time=00:01:18:30, Duration=00:00:03:00, Position=14:Center, Color=0:255:0, Text="嗨，我可不是说这是一件简单的事，">
 <Time=00:01:21:00, Duration=00:00:02:30, Position=14:Center, Color=0:255:0, Text="我只是一名战士，而不是战略家，">
 <Time=00:01:24:00, Duration=00:00:00:00, Position=14:Center, Color=0:255:0, Text="我真的很不愿意承认这件事，">
@@ -105,7 +105,7 @@ BeginMovie A01_F00E
 <Time=00:01:29:00, Duration=00:00:00:00, Position=14:Center, Color=0:0:255, Text="如果我的装置顺利运作了，谭雅小姐，">
 <Time=00:01:32:00, Duration=00:00:00:00, Position=14:Center, Color=0:0:255, Text="你的愿望说不定可以实现。">
 <Time=00:01:34:30, Duration=00:00:00:00, Position=14:Center, Color=0:0:255, Text="当你们回到过去的时候，请跟以前的我联络，">
-<Time=00:01:38:30, Duration=00:00:02:30, Position=14:Center, Color=0:0:255, Text="我应该可以提供你们协助，对吧？">
+<Time=00:01:38:30, Duration=00:00:02:30, Position=14:Center, Color=0:0:255, Text="我应该可以协助你们，对吧？">
 EndMovie
 
 BeginMovie A01_f04E
