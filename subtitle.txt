@@ -1034,7 +1034,7 @@ Font=batang.ttc
 <Time=00:00:37:30, Duration=00:00:00:00, Position=14:Center, Color=255:0:0, Text="用我提供给你的核弹，摧毁这项装置。">
 <Time=00:00:41:30, Duration=00:00:02:00, Position=14:Center, Color=255:0:0, Text="让我们的大军再度动起来吧。">
 <Time=00:00:45:00, Duration=00:00:04:00, Position=14:Center, Color=0:255:0, Text="将军，我已经将维拉迪摩的指挥权转入您麾下。">
-<Time=00:00:50:00, Duration=00:00:03:00, Position=14:Center, Color=0:255:0, Text="天气控制装置似乎位于美国维尔京群岛。">
+<Time=00:00:50:00, Duration=00:00:03:00, Position=14:Center, Color=0:255:0, Text="天气控制装置似乎位于美属维京群岛。">
 <Time=00:00:57:00, Duration=00:00:03:00, Position=14:Center, Color=0:255:0, Text="长官？我并不是很清楚您的意图。">
 <Time=00:00:61:00, Duration=00:00:04:00, Position=14:Center, Color=0:255:0, Text="但要是您心中有所盘算，现在是告诉我的时候了。">
 EndMovie
