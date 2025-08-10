@@ -208,7 +208,7 @@ Font=batang.ttc
 <Time=00:00:22:00, Duration=00:00:05:00, Position=14:center, Color=0:255:0, Text="并且威胁要炸掉整个西雅图，">
 <Time=00:00:24:10, Duration=00:00:00:00, Position=14:center, Color=0:255:0, Text="除非我贡献出足够他运作的战争资金，">
 <Time=00:00:26:30, Duration=00:00:00:00, Position=14:center, Color=0:255:0, Text="同时他还强迫我们的研发部门，进行...">
-<Time=00:00:30:00, Duration=00:00:00:00, Position=14:center, Color=0:255:0, Text="...一些特别的专案...">
+<Time=00:00:30:00, Duration=00:00:00:00, Position=14:center, Color=0:255:0, Text="...一些特别的项目...">
 <Time=00:00:32:00, Duration=00:00:02:00, Position=14:center, Color=0:255:0, Text="看起来像...基因软件...">
 EndMovie
 
