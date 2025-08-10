@@ -107,7 +107,7 @@ EndMovie
 
 BeginMovie A01_P01E
 Font=batang.ttc
-<Time=00:00:02:20, Duration=00:00:06:00, Position=14:Center, Color=255:255:0, Text="我仅代表伟大的苏联，诚挚的邀请美国国民。">
+<Time=00:00:02:20, Duration=00:00:06:00, Position=14:Center, Color=255:255:0, Text="我谨代表伟大的苏联，诚挚的邀请美国国民。">
 <Time=00:00:10:00, Duration=00:00:00:00, Position=14:center, Color=255:255:0, Text="瞧瞧你们的自由女神像，">
 <Time=00:00:12:40, Duration=00:00:00:00, Position=14:center, Color=255:255:0, Text="看看她在你们面前是如何的残破不堪。">
 <Time=00:00:15:50, Duration=00:00:00:00, Position=14:center, Color=255:255:0, Text="在片刻之间，你们一度强大的纽约市，">
