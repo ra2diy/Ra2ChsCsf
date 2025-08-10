@@ -154,7 +154,7 @@ EndMovie
 BeginMovie A02_F00E
 <Time=00:00:00:00, Duration=00:00:10:00, Position=14:Center, Color=255:255:0, Text="指挥官，回到以前的时间给了我们另一次机会，">
 <Time=00:00:04:00, Duration=00:00:00:00, Position=14:Center, Color=255:255:0, Text="杜根总统要求我在我们到达之后，跟一位老朋友联络。">
-<Time=00:00:08:10, Duration=00:00:02:30, Position=14:Center, Color=255:255:0, Text="希望您不要太诧异。">
+<Time=00:00:08:10, Duration=00:00:02:30, Position=14:Center, Color=255:255:0, Text="希望您坐稳了，不要吃惊。">
 <Time=00:00:13:00, Duration=00:00:00:00, Position=14:center, Color=0:255:0, Text="嘿，指挥官，">
 <Time=00:00:14:00, Duration=00:00:00:00, Position=14:center, Color=0:255:0, Text="以我所了解，">
 <Time=00:00:17:00, Duration=00:00:02:30, Position=14:center, Color=0:255:0, Text="未来的世界似乎跟往常有所不同，">
