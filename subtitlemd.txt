@@ -248,7 +248,7 @@ EndMovie
 
 BeginMovie A04_P01E
 Font=batang.ttc
-<Time=00:00:00:30, Duration=00:00:03:00, Position=14:Center, Color=255:255:0, Text="我们已经追踪博士到一座秘密基地，这里是埃及。">
+<Time=00:00:00:30, Duration=00:00:03:00, Position=14:Center, Color=255:255:0, Text="我们已经追踪到教授，在一座埃及的秘密基地里。">
 EndMovie
 
 BeginMovie A04_f02E
