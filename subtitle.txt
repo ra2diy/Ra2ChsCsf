@@ -429,13 +429,13 @@ Font=batang.ttc
 <Time=00:00:12:00, Duration=00:00:05:00, Position=14:Center, Color=255:255:0, Text="很显然苏联人认为我们不会注意到位于尤卡坦的这处研发设施。">
 <Time=00:00:18:00, Duration=00:00:05:00, Position=14:Center, Color=255:255:0, Text="从这些指数上我们可以判断，他们正在尝试要复制爱因斯坦的光棱科技。">
 <Time=00:00:24:00, Duration=00:00:05:00, Position=14:Center, Color=255:255:0, Text="您的目的地是靠近加勒比海海岸的玛雅废墟城市，都兰。">
-<Time=00:00:29:00, Duration=00:00:00:00, Position=14:Center, Color=255:255:0, Text="我们空降了一组海豹小组，协助您找出并摧毁这座设施。">
+<Time=00:00:29:00, Duration=00:00:00:00, Position=14:Center, Color=255:255:0, Text="我们空降了一组海豹部队，协助您找出并摧毁这座设施。">
 <Time=00:00:33:00, Duration=00:00:02:00, Position=14:Center, Color=255:255:0, Text="我想您会喜欢上这些人。">
 EndMovie
 
 BeginMovie A09_P01E
 Font=batang.ttc
-<Time=00:00:01:00, Duration=00:00:00:00, Position=14:center, Color=255:255:0, Text="指挥官，海豹小组解放了一群当地的自由斗士。">
+<Time=00:00:01:00, Duration=00:00:00:00, Position=14:center, Color=255:255:0, Text="指挥官，海豹部队解放了一群当地的自由斗士。">
 <Time=00:00:04:50, Duration=00:00:00:00, Position=14:center, Color=255:255:0, Text="他们愿意用苏联研发设施的位置资讯来交换">
 <Time=00:00:07:40, Duration=00:00:00:00, Position=14:center, Color=255:255:0, Text="与我们并肩作战的机会。">
 <Time=00:00:11:00, Duration=00:00:02:00, Position=14:center, Color=255:255:0, Text="我想您应该不会介意。">
