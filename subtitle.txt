@@ -277,7 +277,7 @@ EndMovie
 
 BeginMovie A05_P01E
 Font=batang.ttc
-<Time=00:00:00:30, Duration=00:00:00:00, Position=14:center, Color=255:255:0, Text="看来我们已经进入状况了。">
+<Time=00:00:00:30, Duration=00:00:00:00, Position=14:center, Color=255:255:0, Text="看来我们已经潜入成功了。">
 <Time=00:00:03:00, Duration=00:00:00:00, Position=14:center, Color=255:255:0, Text="我方间谍渗透进苏联的作战实验室，">
 <Time=00:00:04:30, Duration=00:00:00:00, Position=14:center, Color=255:255:0, Text="传递出他们发射井所在位置的工程设计图。">
 <Time=00:00:06:50, Duration=00:00:00:00, Position=14:center, Color=255:255:0, Text="指挥官，我准备要大干一场了。">
