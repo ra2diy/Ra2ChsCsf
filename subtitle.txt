@@ -811,7 +811,7 @@ Font=batang.ttc
 <Time=00:00:04:00, Duration=00:00:00:00, Position=14:center, Color=255:255:0, Text="那可悲的资本主义者的圣坛">
 <Time=00:00:06:00, Duration=00:00:00:00, Position=14:center, Color=255:255:0, Text="世界贸易中心。">
 <Time=00:00:09:00, Duration=00:00:00:00, Position=14:center, Color=255:255:0, Text="征服此区的美国守军后，">
-<Time=00:00:13:00, Duration=00:00:03:00, Position=14:center, Color=255:255:0, Text="部署一具心灵信标确实控制美国人。">
+<Time=00:00:13:00, Duration=00:00:03:00, Position=14:center, Color=255:255:0, Text="部署一具心灵信标，以加强我们对该区域的控制。">
 EndMovie
 
 BeginMovie S04_F00E
