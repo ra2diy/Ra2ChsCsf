@@ -270,7 +270,7 @@ Font=batang.ttc
 <Time=00:01:03:30, Duration=00:00:00:00, Position=14:center, Color=255:0:255, Text="你在第二张照片所见的物体就是苏联飞弹发射井。">
 <Time=00:01:10:00, Duration=00:00:00:00, Position=14:center, Color=255:0:255, Text="指挥官，你也看得出来这些发射井靠得太近了。">
 <Time=00:01:15:00, Duration=00:00:00:00, Position=14:center, Color=255:0:255, Text="我相信洛马诺夫企图威胁不要让我们参战。">
-<Time=00:01:20:00, Duration=00:00:00:00, Position=14:center, Color=128:128:255, Text="除非解除了这项危机，不然我们的人那儿都不会去。">
+<Time=00:01:20:00, Duration=00:00:00:00, Position=14:center, Color=128:128:255, Text="除非解除了这项危机，不然我们的人哪儿都不会去。">
 <Time=00:01:25:00, Duration=00:00:00:00, Position=14:center, Color=0:255:0, Text="解决掉这些飞弹发射井，战争就接近尾声了。">
 <Time=00:01:29:00, Duration=00:00:03:00, Position=14:center, Color=0:255:0, Text="我们全靠你了，指挥官。">
 EndMovie
