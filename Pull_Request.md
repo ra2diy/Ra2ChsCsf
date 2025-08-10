@@ -32,7 +32,7 @@ The translation was developed with careful consideration for official Traditiona
 </details>
 
 > [!NOTE]
-> Due to rendering limitations in the client, some map descriptions may display unexpected line breaks at certain resolutions. These are not manually added in translation files.
+> Some map descriptions may display unexpected line breaks at certain resolutions due to a client-side rendering limitation. We believe this is a client-level issue and is not fixable within the translation.
 
 Please review and suggest any required adjustments. Thank you for your collaboration.
 
