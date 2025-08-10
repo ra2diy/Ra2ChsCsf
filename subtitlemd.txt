@@ -240,9 +240,9 @@ BeginMovie A04_F00E
 Font=batang.ttc
 <Time=00:00:00:30, Duration=00:00:06:00, Position=14:Center, Color=255:255:0, Text="指挥官，我有一个很坏的消息！">
 <Time=00:00:02:30, Duration=00:00:04:00, Position=14:Center, Color=255:255:0, Text="爱因斯坦教授已经被俘虏了，">
-<Time=00:00:04:30, Duration=00:00:04:00, Position=14:center, Color=255:255:0, Text="我们相信尤里计划强迫他，协助进行改善心灵控制器技术。">
-<Time=00:00:09:30, Duration=00:00:04:00, Position=14:Right, Color=0:255:0, Text="借由博士的协助，">
-<Time=00:00:11:00, Duration=00:00:03:00, Position=14:Right, Color=0:255:0, Text="尤里将可更快的完成其心灵控制器网络，">
+<Time=00:00:04:30, Duration=00:00:04:00, Position=14:center, Color=255:255:0, Text="我们相信尤里计划强迫他改善心灵控制器技术。">
+<Time=00:00:09:30, Duration=00:00:04:00, Position=14:Right, Color=0:255:0, Text="借由教授的协助，">
+<Time=00:00:11:00, Duration=00:00:03:00, Position=14:Right, Color=0:255:0, Text="尤里可以更快的完成其心灵控制器网络，">
 <Time=00:00:15:00, Duration=00:00:02:30, Position=14:Right, Color=0:255:0, Text="我们不可以让这样的情况发生！">
 EndMovie
 
