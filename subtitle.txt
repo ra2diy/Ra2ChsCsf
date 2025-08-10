@@ -933,7 +933,7 @@ EndMovie
 
 BeginMovie S07_F00E
 Font=batang.ttc
-<Time=00:00:01:30, Duration=00:00:00:00, Position=14:Center, Color=0:255:0 Text="将军，晚安。">
+<Time=00:00:01:30, Duration=00:00:00:00, Position=14:Center, Color=0:255:0 Text="将军，晚上好。">
 <Time=00:00:03:00, Duration=00:00:00:00, Position=14:Center, Color=0:255:0, Text="你的表现还是如同往常一样杰出。">
 <Time=00:00:06:00, Duration=00:00:00:00, Position=14:Center, Color=0:255:0, Text="不过，我有些坏消息。">
 <Time=00:00:08:30, Duration=00:00:00:00, Position=14:Left, Color=0:255:0, Text="维拉迪摩，在这个消息公开之前，">
