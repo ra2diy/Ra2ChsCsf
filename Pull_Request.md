@@ -16,23 +16,19 @@ The translation was developed with careful consideration for official Traditiona
   <summary>Our detailed localization approach</summary>
 
   Key considerations during localization:
-  - Adapted official Traditional Chinese translations to Simplified Chinese conventions, going beyond mere character conversion.
-  - Corrected grammatical errors in legacy CSF texts and fixed typos in icons
-  - Established terminology from historical articles in Chinese player communities
-    - Competition conventions developed over many years
-    - Communication methods formed through word-of-mouth (with no critical errors)
-    - Descriptions long-used on encyclopedia sites
-    - Some enthusiasts from the PvP community provided us with suggestions and materials. We appreciate their help!
-  - Documentation practices from Chinese modder communities
-    - Foundational tutorial documents
-    - Online resources, translations, and technical discussion records
-    - Chinese modders' interface localization experience sharing for their own mods
-    - Contributors from Ares Community Chinese Docs, Phobos Community Chinese Docs, and Phobos Official Chinese Docs also participated in this project, providing guidance.
-  - [*Chinese Copywriting Guidelines*](https://github.com/sparanoid/chinese-copywriting-guidelines)
-
-  We conducted an open vote and collected opinions on the translation content on the [RA2DIY forum](https://bbs.ra2diy.com/), and also held extensive discussions and critical feedback in the [Phobos Chinese User Community group](http://qm.qq.com/cgi-bin/qm/qr?_wv=1027&amp;k=f_h7TZoVX_8--ZedVFBMmjRrLBIzjMKJ&amp;authKey=QfNyW4DZUFqL3ZKzGL5PgLUWTnISj0myWn4WGtPPQmi3F%2FP3vfnuBd3YjLFk%2BU94&amp;noverify=0&amp;group_code=630590659).
-
-  Moreover, we also contacted many original authors of maps created by Chinese enthusiasts, sought their opinions and gave careful consideration, avoiding issues such as 'Export to domestic sales'.
+  - Adapted official Traditional Chinese in-game translations to Simplified Chinese, going beyond simple character conversion.
+  - Corrected grammatical errors in legacy CSF texts and fixed typos in icons.
+  - Carefully-chosen terminology using established community standards and historical usage:
+    - Longstanding player conventions from years of competitive play.
+    - Common terms and slang that have spread through word-of-mouth in the community.
+    - Long-used descriptions on fan-made encyclopedia sites.
+    - We also received valuable suggestions on map names from enthusiasts in the PvP community. We appreciate their help!
+  - Incorporated documentation practices from Chinese modder communities:
+    - Referencing tutorial documents, online resources, and technical discussion records.
+    - Referencing other Chinese modders' experiences with the CnCNet client localization.
+    - Receiving guidance from contributors to the Ares and Phobos Chinese Docs communities.
+    - Holding extensive discussions and critical feedback sessions in the Phobos Chinese User Community group.
+  - Adhered to the [*Chinese Copywriting Guidelines*](https://github.com/sparanoid/chinese-copywriting-guidelines).
 </details>
 
 > [!NOTE]
