@@ -531,7 +531,7 @@ EndMovie
 
 BeginMovie A12_F00E
 Font=batang.ttc
-<Time=00:00:13:30, Duration=00:00:03:00, Position=14:Center, Color=255:255:0, Text="他为国家贡献良多。是位光荣的美国人。">
+<Time=00:00:13:30, Duration=00:00:03:00, Position=14:Center, Color=255:255:0, Text="他尽忠职守为国捐躯，是一位引以为傲的美国人。">
 <Time=00:00:19:00, Duration=00:00:00:00, Position=14:Center, Color=255:255:0, Text="我知道卡维利将军看到你继承他的盟军总司令之位，">
 <Time=00:00:22:00, Duration=00:00:00:00, Position=14:Center, Color=255:255:0, Text="一定会觉得很光荣。">
 <Time=00:00:25:00, Duration=00:00:00:00, Position=14:Center, Color=255:255:0, Text="将军，接下来我们需要由你领导部队。">
