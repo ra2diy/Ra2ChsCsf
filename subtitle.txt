@@ -846,7 +846,7 @@ BeginMovie S04_P02E
 Font=batang.ttc
 <Time=00:00:01:00, Duration=00:00:00:00, Position=14:center, Color=255:255:0, Text="同志，">
 <Time=00:00:02:00, Duration=00:00:05:00, Position=14:center, Color=255:255:0, Text="我刚收到我方令人恐惧的新反装甲武器的示范简报。">
-<Time=00:00:09:30, Duration=00:00:03:00, Position=14:center, Color=255:255:0, Text="这些机械蜘蛛深受恐怖机器人的设计影响。">
+<Time=00:00:09:30, Duration=00:00:03:00, Position=14:center, Color=255:255:0, Text="我们亲切地称之为恐怖机器人。">
 <Time=00:00:15:00, Duration=00:00:00:00, Position=14:center, Color=255:255:0, Text="您喜欢吗？同志，">
 <Time=00:00:17:30, Duration=00:00:03:30, Position=14:center, Color=255:255:0, Text="我想您一定迫不及待要在战场上试试这种新武器。">
 EndMovie
