@@ -1055,7 +1055,7 @@ EndMovie
 
 BeginMovie S10_P03E
 Font=batang.ttc
-<Time=00:00:01:30, Duration=00:00:00:00, Position=14:center, Color=255:255:0, Text="牠们要是能听从我们的指挥，威力会更加强大。">
+<Time=00:00:01:30, Duration=00:00:00:00, Position=14:center, Color=255:255:0, Text="它们要是能听从我们的指挥，威力会更加强大。">
 <Time=00:00:06:00, Duration=00:00:00:00, Position=14:center, Color=255:255:0, Text="我的巨型乌贼强大的力量，">
 <Time=00:00:10:00, Duration=00:00:04:00, Position=14:center, Color=255:255:0, Text="唯一的克星是盟军特别训练的攻击海豚而己。">
 EndMovie
