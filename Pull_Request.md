@@ -14,6 +14,7 @@ The translation was developed with careful consideration for official Traditiona
 
 <details>
   <summary>Our detailed localization approach</summary>
+
   Key considerations during localization:
   - Adapted official Traditional Chinese translations to Simplified Chinese conventions, going beyond mere character conversion.
   - Corrected grammatical errors in legacy CSF texts and fixed typos in icons
