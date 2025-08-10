@@ -456,8 +456,8 @@ EndMovie
 BeginMovie A10_P01E
 Font=batang.ttc
 <Time=00:00:00:30, Duration=00:00:03:00, Position=14:center, Color=255:255:0, Text="指挥官，我有大好消息要告诉你。">
-<Time=00:00:04:00, Duration=00:00:03:00, Position=14:center, Color=255:255:0, Text="这是我的幻影号坦克。">
-<Time=00:00:07:00, Duration=00:00:00:00, Position=14:center, Color=255:255:0, Text="幻影号的神奇功能是能准确模仿其所锁定的任何有机物的外观。">
+<Time=00:00:04:00, Duration=00:00:03:00, Position=14:center, Color=255:255:0, Text="这是我的幻影坦克。">
+<Time=00:00:07:00, Duration=00:00:00:00, Position=14:center, Color=255:255:0, Text="幻影坦克的神奇功能是能准确模仿其所锁定的任何有机物的外观。">
 <Time=00:00:14:00, Duration=00:00:02:00, Position=14:center, Color=255:255:0, Text="看...">
 <Time=00:00:19:00, Duration=00:00:03:00, Position=14:center, Color=255:255:0, Text="看到了吗！？">
 <Time=00:00:20:45, Duration=00:00:03:00, Position=14:center, Color=255:255:0, Text="这真是太神奇了，不是吗？">
