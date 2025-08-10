@@ -882,7 +882,7 @@ BeginMovie S05_P02E
 Font=batang.ttc
 <Time=00:00:00:30, Duration=00:00:00:00, Position=14:center, Color=255:255:0, Text="将军同志，">
 <Time=00:00:01:40, Duration=00:00:00:00, Position=14:center, Color=255:255:0, Text="我们必须再靠近铁塔一点，">
-<Time=00:00:05:00, Duration=00:00:03:00, Position=14:center, Color=255:255:0, Text="才能补充足更多磁能。">
+<Time=00:00:05:00, Duration=00:00:03:00, Position=14:center, Color=255:255:0, Text="才能确保充能良好。">
 EndMovie
 
 BeginMovie S06_F00E
