@@ -337,8 +337,8 @@ Font=batang.ttc
 <Time=00:00:02:30, Duration=00:00:00:00, Position=14:center, Color=255:255:0, Text="我想向您展示一项很有趣的东西。">
 <Time=00:00:07:00, Duration=00:00:03:00, Position=14:center, Color=255:255:0, Text="请，我想让您看一看。">
 <Time=00:00:10:00, Duration=00:00:00:00, Position=14:center, Color=255:255:0, Text="您瞧，">
-<Time=00:00:12:00, Duration=00:00:00:00, Position=14:center, Color=255:255:0, Text="当光棱炮塔 X 位置靠近光棱炮塔 Y 时，">
-<Time=00:00:17:10, Duration=00:00:00:00, Position=14:center, Color=255:255:0, Text="中央光棱炮塔产生的能力，">
+<Time=00:00:12:00, Duration=00:00:00:00, Position=14:center, Color=255:255:0, Text="当光棱塔 X 位置靠近光棱塔 Y 时，">
+<Time=00:00:17:10, Duration=00:00:00:00, Position=14:center, Color=255:255:0, Text="中央光棱塔产生的威力，">
 <Time=00:00:23:00, Duration=00:00:00:00, Position=14:center, Color=255:255:0, Text="就会受到 X 与 Y 的影响，增加两倍。">
 <Time=00:00:27:20, Duration=00:00:03:00, Position=14:center, Color=255:255:0, Text="很奇妙吧？">
 EndMovie
