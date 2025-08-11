@@ -67,9 +67,9 @@ Font=batang.ttc
 <Time=00:02:55:30, Duration=00:00:00:00, Position=14:Center, Color=255:255:128, Text="真是太不幸了，">
 <Time=00:02:57:30, Duration=00:00:00:00, Position=14:Center, Color=255:255:128, Text="但我们还有其他装置，">
 <Time=00:03:00:30, Duration=00:00:03:00, Position=14:Center, Color=255:255:128, Text="我想现在该是启动它们的时候了。">
-<Time=00:03:43:30, Duration=00:00:02:00, Position=14:Center, Color=0:255:0, Text="愿主保佑我们！">
 <Time=00:03:34:00, Duration=00:00:00:00, Position=14:Center, Color=255:255:0, Text="总统先生，我们侦测到了全球各地出现的巨大的冲击波！">
 <Time=00:03:38:30, Duration=00:00:03:00, Position=14:Center, Color=0:255:0, Text="我的天啊，那个狂人还真的做了。">
+<Time=00:03:43:30, Duration=00:00:02:00, Position=14:Center, Color=0:255:0, Text="愿主保佑我们！">
 EndMovie
 
 ;First Allied Mission Briefing
