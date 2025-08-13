@@ -908,7 +908,7 @@ Font=batang.ttc
 <Time=00:00:53:00, Duration=00:00:00:00, Position=14:center, Color=0:255:0, Text="真是遗憾。将军，我们有要务得处理。">
 <Time=00:00:56:30, Duration=00:00:00:00, Position=14:center, Color=0:255:0, Text="盟军太平洋舰队在夏威夷附近集结。">
 <Time=00:00:59:00, Duration=00:00:03:00, Position=14:center, Color=0:255:0, Text="你接下来要到珍珠港摧毁太平洋舰队，">
-<Time=00:00:61:00, Duration=00:00:03:00, Position=14:center, Color=0:255:0, Text="为我苏联军在那里建立新据点。">
+<Time=00:00:61:00, Duration=00:00:03:00, Position=14:center, Color=0:255:0, Text="为我苏联军在那里建立新的据点。">
 EndMovie
 
 BeginMovie S06_P01E
