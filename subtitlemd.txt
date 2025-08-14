@@ -641,7 +641,7 @@ BeginMovie S06_P02E
 Font=batang.ttc
 <Time=00:00:00:30, Duration=00:00:00:00, Position=14:center, Color=255:255:0, Text="我们的一部分车辆已经改装完成，">
 <Time=00:00:03:00, Duration=00:00:00:00, Position=14:center, Color=255:255:0, Text="以便在月球表面上使用，">
-<Time=00:00:05:00, Duration=00:00:03:00, Position=14:center, Color=255:255:0, Text="不过传统的步兵部队在这边将无法生存。">
+<Time=00:00:05:00, Duration=00:00:03:00, Position=14:center, Color=255:255:0, Text="不过传统部队在这边将无法生存。">
 EndMovie
 
 BeginMovie S07_F00E
