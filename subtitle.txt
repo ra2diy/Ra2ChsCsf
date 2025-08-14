@@ -404,9 +404,9 @@ Font=batang.ttc
 <Time=00:00:05:20, Duration=00:00:02:00, Position=14:center, Color=255:255:0, Text="不，是这里。">
 <Time=00:00:07:30, Duration=00:00:02:00, Position=14:center, Color=255:255:0, Text="拍我，你这个笨蛋！">
 <Time=00:00:10:30, Duration=00:00:02:00, Position=14:center, Color=255:255:0, Text="嘿，指挥官，">
-<Time=00:00:13:00, Duration=00:00:02:00, Position=14:center, Color=255:255:0, Text="你不觉得是下令撤退的时间了吗？">
+<Time=00:00:13:00, Duration=00:00:02:00, Position=14:center, Color=255:255:0, Text="为什么要对抗注定发生的事？">
 <Time=00:00:16:00, Duration=00:00:02:00, Position=14:center, Color=255:255:0, Text="为什么作战无法避免？">
-<Time=00:00:19:00, Duration=00:00:04:00, Position=14:center, Color=255:255:0, Text="现在加入胜利的一方还不迟。">
+<Time=00:00:19:00, Duration=00:00:04:00, Position=14:center, Color=255:255:0, Text="现在加入胜利的一方还不算太迟。">
 <Time=00:00:24:30, Duration=00:00:03:00, Position=14:center, Color=255:255:0, Text="哈，哈，哈，哈！">
 <Time=00:00:29:00, Duration=00:00:01:30, Position=14:center, Color=255:255:0, Text="走吧！">
 <Time=00:00:32:00, Duration=00:00:02:30, Position=14:center, Color=255:255:0, Text="祖国万岁！">
@@ -1043,7 +1043,7 @@ BeginMovie S10_P01E
 Font=batang.ttc
 <Time=00:00:01:00, Duration=00:00:00:00, Position=14:center, Color=255:255:0, Text="我想你会喜欢这家伙的，将军。">
 <Time=00:00:03:00, Duration=00:00:00:00, Position=14:center, Color=255:255:0, Text="名为疯狂伊文的爆破专家现在开始加入您阵营中。">
-<Time=00:00:08:30, Duration=00:00:03:00, Position=14:center, Color=255:255:0, Text="他最适合目前的任务了。">
+<Time=00:00:08:30, Duration=00:00:03:00, Position=14:center, Color=255:255:0, Text="他最适合当前的任务了。">
 EndMovie
 
 BeginMovie S10_P02E
@@ -1147,5 +1147,5 @@ Font=batang.ttc
 <Time=00:00:07:00, Duration=00:00:00:00, Position=14:Center, Color=255:255:0, Text="街上的人们呀，这是最棒的时刻了...">
 <Time=00:00:10:00, Duration=00:00:00:00, Position=14:Center, Color=255:0:0, Text="...已经有几十年没见过这样的场面了，">
 <Time=00:00:13:00, Duration=00:00:03:00, Position=14:Center, Color=255:0:0, Text="众所期待的新总理亲自现身了...">
-<Time=00:00:17:00, Duration=00:00:07:00, Position=14:Center, Color=0:255:0, Text="将军，如果早点看透你的想法就好了。不过，我还是有机会的...">
+<Time=00:00:17:00, Duration=00:00:07:00, Position=14:Center, Color=0:255:0, Text="将军，如果能看透你的想法就好了，我还是有机会的...">
 EndMovie
