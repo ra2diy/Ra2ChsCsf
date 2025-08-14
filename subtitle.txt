@@ -423,7 +423,7 @@ EndMovie
 BeginMovie A09_F00E
 Font=batang.ttc
 <Time=00:00:00:30, Duration=00:00:00:00, Position=14:Center, Color=255:0:0, Text="苏联军队今天在数个关键地区撤退或投降了...">
-<Time=00:00:04:00, Duration=00:00:02:30, Position=14:Center, Color=255:0:0, Text="请收看第九频道的战争新闻，就可知道是哪些地区...">
+<Time=00:00:04:00, Duration=00:00:02:30, Position=14:Center, Color=255:0:0, Text="详情请锁定今晚九点的《战争观察》...">
 <Time=00:00:07:30, Duration=00:00:00:00, Position=14:Center, Color=255:255:0, Text="别太放松了，指挥官。洛马诺夫还有得打呢。">
 <Time=00:00:12:00, Duration=00:00:05:00, Position=14:Center, Color=255:255:0, Text="很显然苏联人认为我们不会注意到位于尤卡坦的这处研发设施。">
 <Time=00:00:18:00, Duration=00:00:05:00, Position=14:Center, Color=255:255:0, Text="从这些指数上我们可以判断，他们正在尝试要复制爱因斯坦的光棱科技。">
