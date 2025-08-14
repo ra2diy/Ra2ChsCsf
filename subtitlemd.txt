@@ -453,7 +453,7 @@ Font=batang.ttc
 <Time=00:01:11:00, Duration=00:00:01:30, Position=14:Center, Color=0:255:0, Text="我必须离开了，">
 <Time=00:01:13:30, Duration=00:00:00:00, Position=14:Center, Color=0:255:0, Text="佐菲亚同志已经将这段讯息录下来，">
 <Time=00:01:16:30, Duration=00:00:00:00, Position=14:Center, Color=0:255:0, Text="并准备交给过去的我。">
-<Time=00:01:19:00, Duration=00:00:02:30, Position=14:Center, Color=0:255:0, Text="祖国万岁，将军同志。 ">
+<Time=00:01:19:00, Duration=00:00:02:30, Position=14:Center, Color=0:255:0, Text="再见，将军同志。 ">
 EndMovie
 
 BeginMovie S01_P01E
