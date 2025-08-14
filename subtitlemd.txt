@@ -213,7 +213,7 @@ Font=batang.ttc
 EndMovie
 
 BeginMovie A03_P01E
-<Time=00:00:00:30, Duration=00:00:00:00, Position=14:Center, Color=0:255:0, Text="卫星讯号确认。">
+<Time=00:00:00:30, Duration=00:00:00:00, Position=14:Center, Color=0:255:0, Text="侦察卫星确认。">
 <Time=00:00:02:30, Duration=00:00:03:00, Position=14:Center, Color=0:255:0, Text="尤里已经在本区域建立了一座发射井，">
 EndMovie
 
