@@ -718,7 +718,7 @@ Font=batang.ttc
 <Time=00:00:07:00, Duration=00:00:05:00, Position=12:Center, Color=255:255:255, Text="为全球百万爱好命令与征服的玩家而设计">
 <Time=00:00:11:00, Duration=00:00:03:00, Position=12:Center, Color=255:255:255, Text="我们为您隆重呈现">
 <Time=00:00:23:00, Duration=00:00:03:00, Position=12:Center, Color=0:0:255, Text="援军抵达">
-<Time=00:00:27:05, Duration=00:00:03:00, Position=12:Center, Color=0:0:255, Text="NOD兄弟会之手遭受攻击">
+<Time=00:00:27:05, Duration=00:00:03:00, Position=12:Center, Color=0:0:255, Text="NOD 之手遭受攻击">
 <Time=00:00:37:00, Duration=00:00:03:00, Position=12:Center, Color=0:0:255, Text="发现敌军踪迹">
-<Time=00:00:46:00, Duration=00:00:03:00, Position=10:Right, Color=255:255:255, Text="将于2001年十一月与您见面          ">
+<Time=00:00:46:00, Duration=00:00:03:00, Position=10:Right, Color=255:255:255, Text="将于 2001 年十一月与您见面        ">
 EndMovie
