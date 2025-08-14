@@ -587,7 +587,7 @@ BeginMovie S05_F00E
 Font=batang.ttc
 <Time=00:00:02:30, Duration=00:00:00:00, Position=14:center, Color=0:255:0, Text="嗨，我的好朋友！">
 <Time=00:00:04:30, Duration=00:00:00:00, Position=14:center, Color=0:255:0, Text="我终于回到我所属的地方，">
-<Time=00:00:07:00, Duration=00:00:02:00, Position=14:center, Color=0:255:0, Text="可靠，而且安全。">
+<Time=00:00:07:00, Duration=00:00:02:00, Position=14:center, Color=0:255:0, Text="安然无恙！">
 <Time=00:00:11:00, Duration=00:00:00:00, Position=14:center, Color=0:255:0, Text="叛国者尤里正在建造了一支雷鸣攻击潜艇舰队，">
 <Time=00:00:15:00, Duration=00:00:00:00, Position=14:center, Color=0:255:0, Text="这些部队将可以对任何特定的城市发射飞弹，">
 <Time=00:00:18:00, Duration=00:00:00:00, Position=14:center, Color=0:255:0, Text="佐菲亚将告诉你更多资讯，">
