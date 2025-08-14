@@ -164,7 +164,7 @@ EndMovie
 
 BeginMovie A02_P01E
 Font=batang.ttc
-<Time=00:00:01:30, Duration=00:00:00:00, Position=14:Center, Color=255:255:0, Text="我们找出科泉市一群火箭飞行兵的位置了。">
+<Time=00:00:01:30, Duration=00:00:00:00, Position=14:Center, Color=255:255:0, Text="我们找出了科泉市一队火箭飞行兵的位置。">
 <Time=00:00:04:30, Duration=00:00:02:00, Position=14:center, Color=255:255:0, Text="他们准备过来会合，接受我们的指挥。">
 EndMovie
 
