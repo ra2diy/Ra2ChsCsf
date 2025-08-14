@@ -94,7 +94,7 @@ BeginMovie A01_F00E
 <Time=00:00:51:00, Duration=00:00:00:00, Position=14:Right, Color=0:0:255, Text="我相信可以用它将部队送回之前的时间，">
 <Time=00:00:57:30, Duration=00:00:00:00, Position=14:Right, Color=0:0:255, Text="如果幸运的话，说不定可以在心灵控制器造成伤害之前扭转情势。">
 <Time=00:01:05:30, Duration=00:00:00:00, Position=14:Center, Color=0:255:0, Text="但我们没有多少时间了，指挥官，">
-<Time=00:01:07:30, Duration=00:00:03:00, Position=14:Center, Color=0:255:0, Text="尤里的部队正准备通过城市占领发电厂，">
+<Time=00:01:07:30, Duration=00:00:03:00, Position=14:Center, Color=0:255:0, Text="尤里的部队正准备占领全城的发电厂，">
 <Time=00:01:10:30, Duration=00:00:03:00, Position=14:Center, Color=0:255:0, Text="以便提供心灵控制器所需的电力，">
 <Time=00:01:13:00, Duration=00:00:03:00, Position=14:Center, Color=0:255:0, Text="不过博士的机器也需要电力，">
 <Time=00:01:15:30, Duration=00:00:03:00, Position=14:Center, Color=0:255:0, Text="所以你必须自己到那边去，占领所需的发电厂。">
