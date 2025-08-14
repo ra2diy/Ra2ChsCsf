@@ -522,7 +522,7 @@ BeginMovie S03_P02E
 Font=batang.ttc
 <Time=00:00:00:30, Duration=00:00:00:00, Position=14:center, Color=255:0:0, Text="将军同志，你为什么这么做呢？">
 <Time=00:00:03:30, Duration=00:00:00:00, Position=14:center, Color=255:0:0, Text="没有了我，">
-<Time=00:00:05:30, Duration=00:00:00:00, Position=14:center, Color=255:0:0, Text="苏联将变成美利坚帝国的一小个州而已，">
+<Time=00:00:05:30, Duration=00:00:00:00, Position=14:center, Color=255:0:0, Text="苏联将变成美利坚帝国的一小个省而已，">
 <Time=00:00:11:30, Duration=00:00:00:00, Position=14:center, Color=255:0:0, Text="我所做的都是为了我们的命运，">
 <Time=00:00:14:30, Duration=00:00:02:30, Position=14:center, Color=255:0:0, Text="唉，没关系，">
 <Time=00:00:17:30, Duration=00:00:02:30, Position=14:center, Color=255:0:0, Text="这些美国部队的心灵太脆弱了，">
