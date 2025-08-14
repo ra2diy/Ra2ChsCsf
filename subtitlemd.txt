@@ -497,7 +497,7 @@ BeginMovie S02_P01E
 Font=batang.ttc
 <Time=00:00:00:30, Duration=00:00:00:00, Position=14:center, Color=255:255:0, Text="在我们的时间轴中，">
 <Time=00:00:02:00, Duration=00:00:00:00, Position=14:center, Color=255:255:0, Text="这场战争里，我们的部队数量远超过盟军，">
-<Time=00:00:04:30, Duration=00:00:02:30, Position=14:center, Color=255:255:0, Text="虽然如此，我们还是战败了。">
+<Time=00:00:04:30, Duration=00:00:02:30, Position=14:center, Color=255:255:0, Text="尽管如此，我们还是战败了。">
 EndMovie
 
 BeginMovie S03_F00E
