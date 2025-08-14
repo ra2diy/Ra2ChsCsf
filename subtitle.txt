@@ -225,9 +225,9 @@ EndMovie
 BeginMovie A04_P01E
 Font=batang.ttc
 <Time=00:00:01:00, Duration=00:00:05:45, Position=14:Center, Color=255:255:0, Text="指挥官，我们刚刚接获一个关于苏联在芝加哥活动的情报。">
-<Time=00:00:08:00, Duration=00:00:00:00, Position=14:center, Color=255:255:0, Text="这是一台心灵控制增幅器，我们推测要是这台仪器启动了，">
+<Time=00:00:08:00, Duration=00:00:00:00, Position=14:center, Color=255:255:0, Text="这是一部心灵控制增幅器，我们推测要是这部仪器启动了，">
 <Time=00:00:11:30, Duration=00:00:04:00, Position=14:center, Color=255:255:0, Text="就能像控制华盛顿一样，控制全国。">
-<Time=00:00:15:40, Duration=00:00:04:00, Position=14:center, Color=255:255:0, Text="卡维利将军希望您找出这台装置，并摧毁它。">
+<Time=00:00:15:40, Duration=00:00:04:00, Position=14:center, Color=255:255:0, Text="卡维利将军希望您找出这部装置，并摧毁它。">
 EndMovie
 
 BeginMovie A04_P02E
@@ -556,7 +556,7 @@ Font=batang.ttc
 <Time=00:00:02:00, Duration=00:00:00:00, Position=14:center, Color=255:255:0, Text="嗯，指挥官。">
 <Time=00:00:04:00, Duration=00:00:00:00, Position=14:center, Color=255:255:0, Text="就我所学，操纵大自然的力量不是个好主意，">
 <Time=00:00:10:00, Duration=00:00:04:30, Position=14:center, Color=255:255:0, Text="但这邪恶的洛马诺夫一再逼进，我们别无选择。">
-<Time=00:00:17:00, Duration=00:00:00:00, Position=14:center, Color=255:255:0, Text="这台天气控制装置能有效控制天气状态。">
+<Time=00:00:17:00, Duration=00:00:00:00, Position=14:center, Color=255:255:0, Text="这部天气控制装置能有效控制天气状态。">
 <Time=00:00:24:00, Duration=00:00:00:00, Position=14:center, Color=255:255:0, Text="这可是上帝的玩具呀，指挥官。">
 <Time=00:00:27:30, Duration=00:00:03:00, Position=14:center, Color=255:255:0, Text="请谨慎使用！">
 EndMovie
