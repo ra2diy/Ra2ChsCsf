@@ -173,7 +173,7 @@ BeginMovie A02_F00E
 <Time=00:01:09:30, Duration=00:00:00:00, Position=14:Center, Color=255:0:0, Text="只有最坚定的尤里信仰，才可以保护你们，">
 <Time=00:01:14:00, Duration=00:00:00:00, Position=14:Center, Color=255:0:0, Text="只有完全的服从，才可以拯救你及你的家人，">
 <Time=00:01:21:30, Duration=00:00:00:00, Position=14:Center, Color=255:0:0, Text="净空你的心灵，并顺从我的意志，">
-<Time=00:01:26:30, Duration=00:00:00:00, Position=14:Center, Color=255:0:0, Text="知道的越少，就可以变得越好，">
+<Time=00:01:26:30, Duration=00:00:00:00, Position=14:Center, Color=255:0:0, Text="知道得越少，就可以变得越好，">
 <Time=00:01:31:30, Duration=00:00:00:00, Position=14:Center, Color=255:0:0, Text="我是尤里，">
 <Time=00:01:35:00, Duration=00:00:02:00, Position=14:Center, Color=255:0:0, Text="服从我吧！">
 EndMovie
@@ -242,7 +242,7 @@ Font=batang.ttc
 <Time=00:00:02:30, Duration=00:00:04:00, Position=14:Center, Color=255:255:0, Text="爱因斯坦教授已经被俘虏了，">
 <Time=00:00:04:30, Duration=00:00:04:00, Position=14:center, Color=255:255:0, Text="我们相信尤里计划强迫他改善心灵控制器技术。">
 <Time=00:00:09:30, Duration=00:00:04:00, Position=14:Right, Color=0:255:0, Text="借由教授的协助，">
-<Time=00:00:11:00, Duration=00:00:03:00, Position=14:Right, Color=0:255:0, Text="尤里可以更快的完成其心灵控制器网络，">
+<Time=00:00:11:00, Duration=00:00:03:00, Position=14:Right, Color=0:255:0, Text="尤里可以更快地完成其心灵控制器网络，">
 <Time=00:00:15:00, Duration=00:00:02:30, Position=14:Right, Color=0:255:0, Text="我们不可以让这样的情况发生！">
 EndMovie
 
@@ -339,7 +339,7 @@ Font=batang.ttc
 <Time=00:00:00:30, Duration=00:00:00:00, Position=14:center, Color=255:0:0, Text="指挥官，你是不会胜利的，">
 <Time=00:00:02:30, Duration=00:00:00:00, Position=14:center, Color=255:0:0, Text="很快那个愚笨的洛马诺夫就会死亡，">
 <Time=00:00:05:30, Duration=00:00:00:00, Position=14:center, Color=255:0:0, Text="盟军的领袖也会落入我的控制之中，">
-<Time=00:00:09:30, Duration=00:00:04:00, Position=14:center, Color=255:0:0, Text="很快的你将会乞求我的同情与怜悯。">
+<Time=00:00:09:30, Duration=00:00:04:00, Position=14:center, Color=255:0:0, Text="很快地你将会乞求我的同情与怜悯。">
 <Time=00:00:14:00, Duration=00:00:00:00, Position=14:center, Color=255:0:0, Text="或许你将活下去...">
 <Time=00:00:16:30, Duration=00:00:00:00, Position=14:center, Color=255:0:0, Text="变成毫无自我意识的奴隶，">
 <Time=00:00:19:00, Duration=00:00:02:30, Position=14:center, Color=255:0:0, Text="这说不定可以讨我高兴。">
@@ -618,7 +618,7 @@ Font=batang.ttc
 <Time=00:00:16:30, Duration=00:00:03:00, Position=14:center, Color=0:255:0, Text="你接受过太空人训练，对吧？">
 <Time=00:00:26:00, Duration=00:00:00:00, Position=14:center, Color=255:255:0, Text="将军同志，升空一切顺利，">
 <Time=00:00:30:00, Duration=00:00:00:00, Position=14:center, Color=255:255:0, Text="再过几分钟，您将进入月球轨道，">
-<Time=00:00:33:00, Duration=00:00:04:00, Position=14:center, Color=255:255:0, Text="减速火箭应该会自动启动，以便让您平稳的登陆。">
+<Time=00:00:33:00, Duration=00:00:04:00, Position=14:center, Color=255:255:0, Text="减速火箭应该会自动启动，以便让您平稳地登陆。">
 <Time=00:00:38:00, Duration=00:00:00:00, Position=14:center, Color=255:255:0, Text="将军大人，请小心，">
 <Time=00:00:39:50, Duration=00:00:03:30, Position=14:center, Color=255:255:0, Text="您有许多必须安全返回的理由，对吧？">
 <Time=00:00:45:00, Duration=00:00:05:00, Position=14:center, Color=255:255:0, Text="减速火箭即将启动，三秒...两秒...一秒...">
@@ -654,7 +654,7 @@ Font=batang.ttc
 <Time=00:00:29:30, Duration=00:00:05:00, Position=14:center, Color=0:255:0, Text="我确定他有统治世界的新阴谋，">
 <Time=00:00:36:30, Duration=00:00:03:00, Position=14:center, Color=0:255:0, Text="终结他吧，将军同志，">
 <Time=00:00:39:30, Duration=00:00:04:30, Position=14:center, Color=0:255:0, Text="摧毁要塞、然后将他打入十八层地狱！">
-<Time=00:00:48:00, Duration=00:00:03:00, Position=14:center, Color=255:255:0, Text="将军同志，这可能是您所面对最危险的任务了，">
+<Time=00:00:48:00, Duration=00:00:03:00, Position=14:center, Color=255:255:0, Text="将军同志，这可能是您所面对的最危险的任务了，">
 <Time=00:00:52:30, Duration=00:00:03:00, Position=14:center, Color=255:255:0, Text="整个世界都在等着看，">
 <Time=00:00:55:30, Duration=00:00:03:00, Position=14:center, Color=255:255:0, Text="都已经到达这个地步了，如果现在失败了...">
 <Time=00:00:58:10, Duration=00:00:02:00, Position=14:center, Color=255:255:0, Text="真是令人难以置信的，">
