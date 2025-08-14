@@ -367,7 +367,7 @@ EndMovie
 
 BeginMovie A07_P02E
 Font=batang.ttc
-<Time=00:00:00:40, Duration=00:00:00:00, Position=14:center, Color=255:255:0, Text="指挥官，您的时空裂缝产生器可以用来阻挠苏联雷达。">
+<Time=00:00:00:40, Duration=00:00:00:00, Position=14:center, Color=255:255:0, Text="指挥官，您的裂缝产生器可以用来干扰苏联雷达。">
 <Time=00:00:05:00, Duration=00:00:03:00, Position=14:center, Color=255:255:0, Text="就能阻止他们在这块区域里发射核武器。">
 EndMovie
 
