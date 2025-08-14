@@ -1146,5 +1146,5 @@ Font=batang.ttc
 <Time=00:00:07:00, Duration=00:00:00:00, Position=14:Center, Color=255:255:0, Text="街上的人们呀，这是最棒的时刻了...">
 <Time=00:00:10:00, Duration=00:00:00:00, Position=14:Center, Color=255:0:0, Text="...已经有几十年没见过这样的场面了，">
 <Time=00:00:13:00, Duration=00:00:03:00, Position=14:Center, Color=255:0:0, Text="众所期待的新总理亲自现身了...">
-<Time=00:00:17:00, Duration=00:00:07:00, Position=14:Center, Color=0:255:0, Text="能看透你想法的感觉真是很棒，我还是有机会的...">
+<Time=00:00:17:00, Duration=00:00:07:00, Position=14:Center, Color=0:255:0, Text="将军，如果能看透你的想法就好了，我还是有机会的...">
 EndMovie
