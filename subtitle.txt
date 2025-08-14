@@ -386,7 +386,7 @@ Font=batang.ttc
 <Time=00:00:32:30, Duration=00:00:00:00, Position=14:Left, Color=255:255:0, Text="为受苏联控制的杀手。">
 <Time=00:00:35:30, Duration=00:00:00:00, Position=14:Left, Color=255:255:0, Text="动作迅速、明确，">
 <Time=00:00:37:30, Duration=00:00:03:00, Position=14:Left, Color=255:255:0, Text="试着不要伤害我的选民，好吗？">
-<Time=00:00:42:00, Duration=00:00:00:00, Position=14:Center, Color=255:0:0, Text="您恐怕要伤害他们。">
+<Time=00:00:42:00, Duration=00:00:00:00, Position=14:Center, Color=255:0:0, Text="不幸的是，您恐怕不得不伤害他们。">
 <Time=00:00:44:00, Duration=00:00:00:00, Position=14:Center, Color=255:0:0, Text="谭雅的突击队已经准备就绪。但是我们不清楚他们能行动多久，">
 <Time=00:00:49:00, Duration=00:00:00:00, Position=14:Center, Color=255:0:0, Text="才会受心灵信标控制...呃...">
 <Time=00:00:51:30, Duration=00:00:01:30, Position=14:Center, Color=255:0:0, Text="等等，指挥官。">
@@ -920,8 +920,8 @@ EndMovie
 BeginMovie S06_P02E
 Font=batang.ttc
 <Time=00:00:01:30, Duration=00:00:00:00, Position=14:center, Color=255:255:0, Text="真是杰出的战略，同志。">
-<Time=00:00:03:00, Duration=00:00:00:00, Position=14:center, Color=255:255:0, Text="考爱岛机场已落入我们手中，">
-<Time=00:00:05:00, Duration=00:00:03:00, Position=14:center, Color=255:255:0, Text="我们将能如你所愿地向各地派遣伞兵。">
+<Time=00:00:03:00, Duration=00:00:00:00, Position=14:center, Color=255:255:0, Text="由于掌控了考爱岛机场，">
+<Time=00:00:05:00, Duration=00:00:03:00, Position=14:center, Color=255:255:0, Text="我们可以随心所欲地向任何地点派遣伞兵了。">
 EndMovie
 
 BeginMovie S06_P03E
@@ -1126,8 +1126,8 @@ Font=batang.ttc
 <Time=00:00:18:00, Duration=00:00:00:00, Position=14:Center, Color=255:255:0, Text="他提供给我们，一份临别礼物。">
 <Time=00:00:22:00, Duration=00:00:00:00, Position=14:Center, Color=255:255:0, Text="盟军认为我们不知道超时空传送仪在阿拉斯加，">
 <Time=00:00:26:00, Duration=00:00:00:00, Position=14:Center, Color=255:255:0, Text="他们借此打算发动全面的攻击。">
-<Time=00:00:29:00, Duration=00:00:00:00, Position=14:Center, Color=255:255:0, Text="这是他们仅存的所有军力。">
-<Time=00:00:32:00, Duration=00:00:00:00, Position=14:Center, Color=255:255:0, Text="碾碎他们寄予厚望的部队可太有意思了。">
+<Time=00:00:29:00, Duration=00:00:00:00, Position=14:Center, Color=255:255:0, Text="这是他们仅存的兵力，">
+<Time=00:00:32:00, Duration=00:00:00:00, Position=14:Center, Color=255:255:0, Text="碾碎他们最后的希望岂不快哉。">
 <Time=00:00:35:00, Duration=00:00:00:00, Position=14:Center, Color=255:255:0, Text="成功之后，您就准备成为世界总理吧。">
 EndMovie
 
