@@ -247,9 +247,9 @@ BeginMovie A05_F00E
 Font=batang.ttc
 <Time=00:00:00:30, Duration=00:00:00:00, Position=14:Center, Color=255:255:0, Text="午安，指挥官。">
 <Time=00:00:02:30, Duration=00:00:00:00, Position=14:Center, Color=255:255:0, Text="总统及欧洲议会正在等您。">
+<Time=00:00:05:00, Duration=00:00:02:00, Position=14:Center, Color=255:255:0, Text="请稍候，我正在为您接通。">
 <Time=00:00:09:30, Duration=00:00:00:00, Position=14:Center, Color=0:255:0, Text="呀，指挥官，我很高兴你赶到了。">
 <Time=00:00:11:30, Duration=00:00:00:00, Position=14:Center, Color=0:255:0, Text="我和欧洲议会正在讨论援助计划...">
-<Time=00:00:05:00, Duration=00:00:02:00, Position=14:Center, Color=255:255:0, Text="请稍候，我正在为您接通。">
 <Time=00:00:13:30, Duration=00:00:00:00, Position=14:center, Color=128:128:255, Text="只...只是可能而己。">
 <Time=00:00:15:30, Duration=00:00:00:00, Position=14:center, Color=0:255:0, Text="...对美国可能的援助计划。">
 <Time=00:00:19:00, Duration=00:00:00:00, Position=14:center, Color=0:255:0, Text="芝加哥遭受的核打击似乎让他们开始考虑。">
@@ -299,9 +299,9 @@ EndMovie
 
 BeginMovie A06_F00E
 Font=batang.ttc
+<Time=00:00:00:30, Duration=00:00:00:00, Position=14:Center, Color=255:255:0, Text="我不得不佩服你，孩子...">
 <Time=00:00:03:00, Duration=00:00:00:00, Position=14:Center, Color=255:255:0, Text="我从来都没看过谭雅为谁卖命。">
 <Time=00:00:06:00, Duration=00:00:00:00, Position=14:center, Color=255:255:0, Text="她目前回乡执行任务，但她要我传送是否有什么、嗯，">
-<Time=00:00:00:30, Duration=00:00:00:00, Position=14:Center, Color=255:255:0, Text="我不得不佩服你，孩子...">
 <Time=00:00:12:00, Duration=00:00:00:00, Position=14:center, Color=255:255:0, Text="必须召集她回来的地方。">
 <Time=00:00:15:30, Duration=00:00:00:00, Position=14:center, Color=255:255:0, Text="嗯，另外你一定也给德国人留下深刻印象了。">
 <Time=00:00:18:30, Duration=00:00:00:00, Position=14:center, Color=255:255:0, Text="基于对你的赏识，他们的总理决定让你与他们最杰出的科学家接触，">
@@ -353,8 +353,8 @@ Font=batang.ttc
 <Time=00:00:15:30, Duration=00:00:05:00, Position=14:center, Color=0:255:0, Text="好消息是很高兴终于又回到家了。">
 <Time=00:00:21:00, Duration=00:00:00:00, Position=14:center, Color=0:255:0, Text="而坏消息是，我们的 U2 侦察机，发现了苏联舰队正航向南太平洋。">
 <Time=00:00:26:00, Duration=00:00:00:00, Position=14:center, Color=0:255:0, Text="看来维拉迪摩将军正动身前往珍珠港的太平洋司令部。">
-<Time=00:00:37:30, Duration=00:00:00:00, Position=14:center, Color=0:255:0, Text="我要你准备准备，由衷的欢迎这条苏联的牛头犬，维拉迪摩。">
 <Time=00:00:32:30, Duration=00:00:00:00, Position=14:center, Color=0:255:0, Text="好像他们能对我们成功的发动袭击一样。">
+<Time=00:00:37:30, Duration=00:00:00:00, Position=14:center, Color=0:255:0, Text="我要你准备准备，由衷的欢迎这条苏联的牛头犬，维拉迪摩。">
 <Time=00:00:43:30, Duration=00:00:04:00, Position=14:center, Color=0:255:0, Text="喔，指挥官，替自己倒杯咖啡吧。">
 <Time=00:00:48:30, Duration=00:00:03:00, Position=14:center, Color=0:255:0, Text="你看起来气色很差。">
 EndMovie
