@@ -167,7 +167,7 @@ BeginMovie A02_F00E
 <Time=00:00:43:30, Duration=00:00:00:00, Position=14:Center, Color=0:255:0, Text="孩子，我们有工作要做了，">
 <Time=00:00:45:30, Duration=00:00:02:00, Position=14:Center, Color=0:255:0, Text="少尉会向你介绍任务细节。">
 <Time=00:00:48:10, Duration=00:00:00:00, Position=14:Center, Color=255:255:0, Text="指挥官，尤里已经用心灵控制科技统治了好莱坞，">
-<Time=00:00:53:00, Duration=00:00:00:00, Position=14:Center, Color=255:255:0, Text="他开始运用媒体传送潜意识宣传。">
+<Time=00:00:53:00, Duration=00:00:00:00, Position=14:Center, Color=255:255:0, Text="他开始运用媒体传播潜意识宣传。">
 <Time=00:00:56:30, Duration=00:00:03:00, Position=14:Center, Color=255:255:0, Text="这里有一段影片，将潜意识心灵控制波移除后。">
 <Time=00:01:02:30, Duration=00:00:00:00, Position=14:Center, Color=255:0:0, Text="我们将跟资本主义力量进行一场生与死的争斗。">
 <Time=00:01:09:30, Duration=00:00:00:00, Position=14:Center, Color=255:0:0, Text="只有最坚定的尤里信仰，才可以保护你们，">
