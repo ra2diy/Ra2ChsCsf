@@ -580,7 +580,7 @@ Font=batang.ttc
 <Time=00:00:00:30, Duration=00:00:00:00, Position=14:center, Color=0:255:0, Text="全世界的每一间酒吧，">
 <Time=00:00:03:30, Duration=00:00:03:00, Position=14:center, Color=0:255:0, Text="都将注视这一位走进来的人！">
 <Time=00:00:07:30, Duration=00:00:03:00, Position=14:center, Color=0:255:0, Text="欢迎，将军同志！">
-<Time=00:00:11:30, Duration=00:00:05:30, Position=14:center, Color=0:255:0, Text="我想，我们将开始之间珍贵的友情！">
+<Time=00:00:11:30, Duration=00:00:05:30, Position=14:center, Color=0:255:0, Text="我想，我们之间将开始一段珍贵的友情！">
 EndMovie
 
 BeginMovie S05_F00E
