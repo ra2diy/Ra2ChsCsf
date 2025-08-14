@@ -510,7 +510,7 @@ Font=batang.ttc
 <Time=00:00:20:00, Duration=00:00:02:00, Position=14:Center, Color=0:255:0, Text="祖国万岁！">
 <Time=00:00:23:30, Duration=00:00:00:00, Position=14:center, Color=255:255:0, Text="我们的特殊军事情报指出，">
 <Time=00:00:25:30, Duration=00:00:00:00, Position=14:center, Color=255:255:0, Text="在伦敦的某处正在兴建另一具心灵控制器装置，">
-<Time=00:00:30:00, Duration=00:00:04:00, Position=14:center, Color=255:255:0, Text="总理希望我们在尤里重新启动之前，就摧毁它。">
+<Time=00:00:30:00, Duration=00:00:04:00, Position=14:center, Color=255:255:0, Text="总理希望我们在尤里有所动作之前，就摧毁它。">
 EndMovie
 
 BeginMovie S03_P01E
