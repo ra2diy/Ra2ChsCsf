@@ -160,8 +160,8 @@ BeginMovie A02_F00E
 <Time=00:00:17:00, Duration=00:00:02:30, Position=14:center, Color=0:255:0, Text="未来的世界似乎跟往常有所不同，">
 <Time=00:00:20:00, Duration=00:00:04:00, Position=14:center, Color=0:255:0, Text="现在我们的工作就是让它恢复正常。">
 <Time=00:00:24:30, Duration=00:00:00:00, Position=14:center, Color=0:255:0, Text="根据执行命令 9-O-6-6...">
-<Time=00:00:27:30, Duration=00:00:00:00, Position=14:Center, Color=0:255:0, Text="这可是时间转换前接下来的几个月中，不会发布的命令，">
-<Time=00:00:32:00, Duration=00:00:00:00, Position=14:Center, Color=0:255:0, Text="你知道的，有一个家伙在这座时间机器上有了突破性的发明。">
+<Time=00:00:27:30, Duration=00:00:00:00, Position=14:Center, Color=0:255:0, Text="这个命令要到几个月后才会起草，">
+<Time=00:00:32:00, Duration=00:00:00:00, Position=14:Center, Color=0:255:0, Text="你知道的，琢磨这时间旅行的玩意儿，会把人给逼疯的。">
 <Time=00:00:38:20, Duration=00:00:00:00, Position=14:Center, Color=0:255:0, Text="这件事的要点是：">
 <Time=00:00:40:00, Duration=00:00:03:00, Position=14:Center, Color=0:255:0, Text="我们必须挺身而出，直到苦难结束为止。">
 <Time=00:00:43:30, Duration=00:00:00:00, Position=14:Center, Color=0:255:0, Text="孩子，我们有工作要做了，">
