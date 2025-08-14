@@ -508,7 +508,7 @@ Font=batang.ttc
 <Time=00:00:09:30, Duration=00:00:03:30, Position=14:Center, Color=0:255:0, Text="现在他们将跟我们一同对付叛国者尤里，">
 <Time=00:00:14:00, Duration=00:00:04:00, Position=14:Center, Color=0:255:0, Text="所有的苏联人民都对你满怀感激，">
 <Time=00:00:20:00, Duration=00:00:02:00, Position=14:Center, Color=0:255:0, Text="祖国万岁！">
-<Time=00:00:23:30, Duration=00:00:00:00, Position=14:center, Color=255:255:0, Text="我们的特殊军事情报指出，">
+<Time=00:00:23:30, Duration=00:00:00:00, Position=14:center, Color=255:255:0, Text="我们的特殊情报来源指出，">
 <Time=00:00:25:30, Duration=00:00:00:00, Position=14:center, Color=255:255:0, Text="在伦敦的某处正在兴建另一具心灵控制器装置，">
 <Time=00:00:30:00, Duration=00:00:04:00, Position=14:center, Color=255:255:0, Text="总理希望我们在尤里有所动作之前，就摧毁它。">
 EndMovie
@@ -535,7 +535,7 @@ EndMovie
 BeginMovie S03_P03E
 Font=batang.ttc
 <Time=00:00:00:30, Duration=00:00:00:00, Position=14:center, Color=255:255:0, Text="太好了，长官，">
-<Time=00:00:02:10, Duration=00:00:03:30, Position=14:center, Color=255:255:0, Text="盟军已经从尤里的手中解放了。">
+<Time=00:00:02:10, Duration=00:00:03:30, Position=14:center, Color=255:255:0, Text="盟军已经脱离了尤里的心灵控制。">
 <Time=00:00:06:30, Duration=00:00:00:00, Position=14:center, Color=255:255:0, Text="嗯，">
 <Time=00:00:08:00, Duration=00:00:00:00, Position=14:center, Color=255:255:0, Text="盟军的特务谭雅正在线上等着跟您通话，">
 <Time=00:00:12:30, Duration=00:00:01:30, Position=14:center, Color=255:255:0, Text="我帮您接通。">
@@ -566,9 +566,9 @@ Font=batang.ttc
 EndMovie
 
 BeginMovie S04_P02E
-<Time=00:00:01:30, Duration=00:00:00:00, Position=14:center, Color=255:0:0, Text="这是给我旧同志洛马诺夫的讯息。">
+<Time=00:00:01:30, Duration=00:00:00:00, Position=14:center, Color=255:0:0, Text="这是给我老同志洛马诺夫的讯息。">
 <Time=00:00:06:30, Duration=00:00:05:00, Position=14:center, Color=255:0:0, Text="总理同志，自己出来投降，">
-<Time=00:00:08:50, Duration=00:00:00:00, Position=14:center, Color=255:0:0, Text="我就答应部队收留你。">
+<Time=00:00:08:50, Duration=00:00:00:00, Position=14:center, Color=255:0:0, Text="我的部队会保证你的生命安全。">
 <Time=00:00:12:30, Duration=00:00:00:00, Position=14:center, Color=255:0:0, Text="如果继续躲藏的话，你一定会被我们所杀的。">
 <Time=00:00:16:00, Duration=00:00:03:30, Position=14:center, Color=255:0:0, Text="将军同志已经成为全苏联人民的叛徒，">
 <Time=00:00:20:00, Duration=00:00:04:30, Position=14:center, Color=255:0:0, Text="他们以及全世界的命运，">
@@ -578,7 +578,7 @@ EndMovie
 BeginMovie S04_P03E
 Font=batang.ttc
 <Time=00:00:00:30, Duration=00:00:00:00, Position=14:center, Color=0:255:0, Text="全世界的每一间酒吧，">
-<Time=00:00:03:30, Duration=00:00:03:00, Position=14:center, Color=0:255:0, Text="都将注视这一位走进来的人！">
+<Time=00:00:03:30, Duration=00:00:03:00, Position=14:center, Color=0:255:0, Text="看看谁来了！">
 <Time=00:00:07:30, Duration=00:00:03:00, Position=14:center, Color=0:255:0, Text="欢迎，将军同志！">
 <Time=00:00:11:30, Duration=00:00:05:30, Position=14:center, Color=0:255:0, Text="我想，我们之间将开始一段珍贵的友情！">
 EndMovie
@@ -589,7 +589,7 @@ Font=batang.ttc
 <Time=00:00:04:30, Duration=00:00:00:00, Position=14:center, Color=0:255:0, Text="我终于回到我所属的地方，">
 <Time=00:00:07:00, Duration=00:00:02:00, Position=14:center, Color=0:255:0, Text="安然无恙！">
 <Time=00:00:11:00, Duration=00:00:00:00, Position=14:center, Color=0:255:0, Text="叛国者尤里正在建造了一支雷鸣攻击潜艇舰队，">
-<Time=00:00:15:00, Duration=00:00:00:00, Position=14:center, Color=0:255:0, Text="这些部队将可以对任何特定的城市发射飞弹，">
+<Time=00:00:15:00, Duration=00:00:00:00, Position=14:center, Color=0:255:0, Text="这些部队将可以对任何城市发射飞弹，">
 <Time=00:00:18:00, Duration=00:00:00:00, Position=14:center, Color=0:255:0, Text="佐菲亚将告诉你更多资讯，">
 <Time=00:00:21:00, Duration=00:00:00:00, Position=14:center, Color=0:255:0, Text="同志，你必须小心，">
 <Time=00:00:23:00, Duration=00:00:04:00, Position=14:center, Color=0:255:0, Text="我想，尤里对我们一定有更多出人意外的计划！">
@@ -617,11 +617,11 @@ Font=batang.ttc
 <Time=00:00:13:00, Duration=00:00:02:30, Position=14:center, Color=0:255:0, Text="我们必须找出背后的原因。">
 <Time=00:00:16:30, Duration=00:00:03:00, Position=14:center, Color=0:255:0, Text="你接受过太空人训练，对吧？">
 <Time=00:00:26:00, Duration=00:00:00:00, Position=14:center, Color=255:255:0, Text="将军同志，升空一切顺利，">
-<Time=00:00:30:00, Duration=00:00:00:00, Position=14:center, Color=255:255:0, Text="再过几分钟，您将进入月球轨道，">
-<Time=00:00:33:00, Duration=00:00:04:00, Position=14:center, Color=255:255:0, Text="减速火箭应该会自动启动，以便让您平稳地登陆。">
+<Time=00:00:30:00, Duration=00:00:00:00, Position=14:center, Color=255:255:0, Text="很快，您将进入月球轨道，">
+<Time=00:00:33:00, Duration=00:00:04:00, Position=14:center, Color=255:255:0, Text="反推火箭应该会自动启动，以便让您平稳地登陆。">
 <Time=00:00:38:00, Duration=00:00:00:00, Position=14:center, Color=255:255:0, Text="将军大人，请小心，">
 <Time=00:00:39:50, Duration=00:00:03:30, Position=14:center, Color=255:255:0, Text="您有许多必须安全返回的理由，对吧？">
-<Time=00:00:45:00, Duration=00:00:05:00, Position=14:center, Color=255:255:0, Text="减速火箭即将启动，三秒...两秒...一秒...">
+<Time=00:00:45:00, Duration=00:00:05:00, Position=14:center, Color=255:255:0, Text="反推火箭即将启动，三秒...两秒...一秒...">
 <Time=00:00:57:00, Duration=00:00:02:30, Position=14:center, Color=255:255:0, Text="太空船已经着陆了，将军同志。">
 <Time=00:01:00:30, Duration=00:00:00:00, Position=14:center, Color=0:255:0, Text="苏联终于到达月球了！">
 <Time=00:01:04:00, Duration=00:00:00:00, Position=14:center, Color=0:255:0, Text="将军同志的一小步，">
@@ -685,7 +685,7 @@ EndMovie
 
 BeginMovie S08_F00E
 Font=batang.ttc
-<Time=00:00:01:00, Duration=00:00:00:00, Position=12:center, Color=255:192:26, Text="我的将军，要塞已经被占领了！">
+<Time=00:00:01:00, Duration=00:00:00:00, Position=12:center, Color=255:192:26, Text="我的将军，要塞已经被攻占了！">
 <Time=00:00:03:00, Duration=00:00:02:30, Position=12:center, Color=255:191:26, Text="我就知道您会获胜的。">
 <Time=00:00:07:00, Duration=00:00:04:00, Position=12:center, Color=255:191:26, Text="将军同志，我们侦测到要塞地底有不寻常的能量！">
 <Time=00:00:11:30, Duration=00:00:04:00, Position=12:center, Color=255:191:26, Text="这样带有扭曲波特征的波形，应该是由时间机器发出来的！">
@@ -700,7 +700,7 @@ Font=batang.ttc
 <Time=00:00:47:00, Duration=00:00:00:00, Position=12:center, Color=255:191:26, Text="经历过因为载入能量太多，而导致问题的情况。">
 <Time=00:00:51:30, Duration=00:00:04:00, Position=12:center, Color=255:191:26, Text="该机器的储备能源已经被完全耗尽，">
 <Time=00:00:54:00, Duration=00:00:03:00, Position=12:center, Color=255:191:26, Text="在没有额外能源的情况下，尤里将无法再度使用该机器，">
-<Time=00:00:57:30, Duration=00:00:02:00, Position=12:center, Color=255:191:26, Text="他将被困在该时间当中。">
+<Time=00:00:57:30, Duration=00:00:02:00, Position=12:center, Color=255:191:26, Text="他将被困在时间当中。">
 <Time=00:01:06:00, Duration=00:00:01:00, Position=14:center, Color=255:0:0, Text="那是什么？">
 <Time=00:01:08:00, Duration=00:00:01:00, Position=14:center, Color=255:0:0, Text="谁在那里？">
 <Time=00:01:19:00, Duration=00:00:03:00, Position=14:center, Color=255:255:255, Text="感谢时间旅行者们，叛国者尤里已经被打败了...">
@@ -709,7 +709,7 @@ Font=batang.ttc
 <Time=00:01:26:00, Duration=00:00:03:00, Position=14:center, Color=255:191:26, Text="...一个属于太空探索的新黄金年代，">
 <Time=00:01:28:30, Duration=00:00:03:00, Position=14:center, Color=255:191:26, Text="感谢洛马诺夫总理与其大胆的新计划...">
 <Time=00:01:32:00, Duration=00:00:03:00, Position=14:center, Color=64:255:64, Text="...谁知道未来会发生什么事，">
-<Time=00:01:33:30, Duration=00:00:04:00, Position=14:center, Color=64:255:64, Text="随着共产党扩展我们星球的界限，并往太阳系之外拓展。">
+<Time=00:01:33:30, Duration=00:00:04:00, Position=14:center, Color=64:255:64, Text="共产主义已经超越了地球的界限，并在太阳系中传播。">
 EndMovie
 
 ; Comments begin with a semicolon character.
