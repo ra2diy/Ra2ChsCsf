@@ -344,7 +344,7 @@ EndMovie
 
 BeginMovie A07_F00E
 Font=batang.ttc
-<Time=00:00:00:30, Duration=00:00:00:00, Position=14:Center, Color=255:255:0, Text="指挥官，没有休息是会过劳死的！">
+<Time=00:00:00:30, Duration=00:00:00:00, Position=14:Center, Color=255:255:0, Text="指挥官，没有休息的时间了。">
 <Time=00:00:02:30, Duration=00:00:00:00, Position=14:Center, Color=255:255:0, Text="很抱歉吵醒您，但卡维利将军发布了紧急召集令，">
 <Time=00:00:05:30, Duration=00:00:00:00, Position=14:center, Color=255:255:0, Text="预定开始时间是...">
 <Time=00:00:06:30, Duration=00:00:02:00, Position=14:center, Color=255:255:0, Text="现在。">
