@@ -385,7 +385,7 @@ EndMovie
 
 BeginMovie A07_P02E
 Font=batang.ttc
-<Time=00:00:00:30, Duration=00:00:00:00, Position=14:center, Color=255:0:0, Text="我准备了一项惊喜给你，将军同志，">
+<Time=00:00:00:30, Duration=00:00:00:00, Position=14:center, Color=255:0:0, Text="我准备了一项惊喜给你，指挥官，">
 <Time=00:00:05:00, Duration=00:00:03:00, Position=14:center, Color=255:0:0, Text="一个称为基因突变器的新装置。">
 <Time=00:00:09:00, Duration=00:00:03:00, Position=14:center, Color=255:0:0, Text="你在战场上遇过我的狂兽人了吧？">
 <Time=00:00:11:30, Duration=00:00:03:00, Position=14:center, Color=255:0:0, Text="借由这项装置，">
