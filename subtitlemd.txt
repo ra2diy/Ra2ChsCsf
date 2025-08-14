@@ -76,7 +76,7 @@ EndMovie
 BeginMovie A01_F00E
 <Time=00:00:08:00, Duration=00:00:00:00, Position=14:Center, Color=255:255:0, Text="指挥官，情况看起来很不妙。">
 <Time=00:00:10:00, Duration=00:00:00:00, Position=12:Center, Color=255:255:0, Text="尤里的部队已经成功地启动了两部心灵控制器装置，">
-<Time=00:00:14:30, Duration=00:00:03:00, Position=12:Center, Color=255:255:0, Text="将该区域的大部分居民转化成其麾下没有心智的行尸走肉，">
+<Time=00:00:14:30, Duration=00:00:03:00, Position=12:Center, Color=255:255:0, Text="将大部分居民转化成其麾下没有心智的行尸走肉，">
 <Time=00:00:18:30, Duration=00:00:00:00, Position=14:center, Color=255:255:0, Text="幸运的是，在旧金山这边的装置，">
 <Time=00:00:20:00, Duration=00:00:00:00, Position=14:center, Color=255:255:0, Text="似乎因为电力不足，到目前为止还没有...">
 <Time=00:00:23:30, Duration=00:00:01:30, Position=14:center, Color=255:255:0, Text="启动。">
