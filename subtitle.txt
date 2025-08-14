@@ -69,7 +69,7 @@ BeginMovie A01_F00E
 Font=batang.ttc
 <Time=00:00:03:00, Duration=00:00:00:00, Position=14:Center, Color=255:255:0, Text="早安，指挥官。">
 <Time=00:00:04:30, Duration=00:00:00:00, Position=14:Center, Color=255:255:0, Text="我们成功的着手规划了">
-<Time=00:00:06:30, Duration=00:00:00:00, Position=14:Center, Color=255:255:0, Text="总统的紧急「拉撒路」草案。">
+<Time=00:00:06:30, Duration=00:00:00:00, Position=14:Center, Color=255:255:0, Text="总统的紧急“拉撒路”草案。">
 <Time=00:00:08:30, Duration=00:00:00:00, Position=14:center, Color=255:255:0, Text="我是雅娃少尉，">
 <Time=00:00:10:00, Duration=00:00:00:00, Position=14:center, Color=255:255:0, Text="奉命前来接受您指挥的情报官。">
 <Time=00:00:12:30, Duration=00:00:00:00, Position=14:center, Color=255:255:0, Text="既然您是唯一幸存的指挥官，">
