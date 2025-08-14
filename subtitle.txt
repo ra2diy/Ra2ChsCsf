@@ -263,6 +263,8 @@ Font=batang.ttc
 <Time=00:00:46:00, Duration=00:00:00:00, Position=14:center, Color=255:0:0, Text="我们没有时间训练这个人，总统先生。">
 <Time=00:00:49:30, Duration=00:00:00:00, Position=14:center, Color=255:0:0, Text="如果你需要我的人手，就必须把我和指挥官派在一起。">
 <Time=00:00:52:30, Duration=00:00:03:00, Position=14:center, Color=255:0:0, Text="这就是我的条件。">
+<Time=00:00:56:00, Duration=00:00:00:00, Position=14:center, Color=0:255:0, Text="很好。指挥官，如果你同意的话...">
+<Time=00:00:59:00, Duration=00:00:00:00, Position=14:center, Color=0:255:0, Text="不过看样子，你已经被​征调​了。">
 <Time=00:01:01:40, Duration=00:00:00:00, Position=14:center, Color=0:255:0, Text="首相会告诉你细节。">
 <Time=00:01:03:30, Duration=00:00:00:00, Position=14:center, Color=255:0:255, Text="你在第二张照片所见的物体就是苏联飞弹发射井。">
 <Time=00:01:10:00, Duration=00:00:00:00, Position=14:center, Color=255:0:255, Text="指挥官，你也看得出来这些发射井靠得太近了。">
@@ -270,8 +272,6 @@ Font=batang.ttc
 <Time=00:01:20:00, Duration=00:00:00:00, Position=14:center, Color=128:128:255, Text="除非解除了这项危机，不然我们的人哪儿都不会去。">
 <Time=00:01:25:00, Duration=00:00:00:00, Position=14:center, Color=0:255:0, Text="解决掉这些飞弹发射井，战争就接近尾声了。">
 <Time=00:01:29:00, Duration=00:00:03:00, Position=14:center, Color=0:255:0, Text="我们全靠你了，指挥官。">
-<Time=00:00:56:00, Duration=00:00:00:00, Position=14:center, Color=0:255:0, Text="很好。指挥官，如果你同意的话...">
-<Time=00:00:59:00, Duration=00:00:00:00, Position=14:center, Color=0:255:0, Text="不过看样子，你已经被​征调​了。">
 EndMovie
 
 BeginMovie A05_P01E
