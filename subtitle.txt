@@ -247,9 +247,9 @@ BeginMovie A05_F00E
 Font=batang.ttc
 <Time=00:00:00:30, Duration=00:00:00:00, Position=14:Center, Color=255:255:0, Text="午安，指挥官。">
 <Time=00:00:02:30, Duration=00:00:00:00, Position=14:Center, Color=255:255:0, Text="总统及欧洲议会正在等您。">
-<Time=00:00:05:00, Duration=00:00:02:00, Position=14:Center, Color=255:255:0, Text="请不要挂断，我会带领您的。">
 <Time=00:00:09:30, Duration=00:00:00:00, Position=14:Center, Color=0:255:0, Text="呀，指挥官，我很高兴你赶到了。">
 <Time=00:00:11:30, Duration=00:00:00:00, Position=14:Center, Color=0:255:0, Text="我和欧洲议会正在讨论援助计划...">
+<Time=00:00:05:00, Duration=00:00:02:00, Position=14:Center, Color=255:255:0, Text="请稍候，我正在为您接通。">
 <Time=00:00:13:30, Duration=00:00:00:00, Position=14:center, Color=128:128:255, Text="只...只是可能而己。">
 <Time=00:00:15:30, Duration=00:00:00:00, Position=14:center, Color=0:255:0, Text="...对美国可能的援助计划。">
 <Time=00:00:19:00, Duration=00:00:00:00, Position=14:center, Color=0:255:0, Text="芝加哥遭受的核弹攻击似乎让他们重新考虑。">
