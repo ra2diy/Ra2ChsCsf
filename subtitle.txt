@@ -408,7 +408,7 @@ Font=batang.ttc
 <Time=00:00:19:00, Duration=00:00:04:00, Position=14:center, Color=255:255:0, Text="现在加入胜利的一方还不算太迟。">
 <Time=00:00:24:30, Duration=00:00:03:00, Position=14:center, Color=255:255:0, Text="哈，哈，哈，哈！">
 <Time=00:00:29:00, Duration=00:00:01:30, Position=14:center, Color=255:255:0, Text="走吧！">
-<Time=00:00:32:00, Duration=00:00:02:30, Position=14:center, Color=255:255:0, Text="祖国万岁！">
+<Time=00:00:32:00, Duration=00:00:02:30, Position=14:center, Color=255:255:0, Text="~再见~">
 EndMovie
 
 
