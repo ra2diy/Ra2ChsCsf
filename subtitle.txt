@@ -374,7 +374,7 @@ EndMovie
 BeginMovie A08_F00E
 Font=batang.ttc
 <Time=00:00:00:30, Duration=00:00:02:00, Position=14:Center, Color=255:255:0, Text="指挥官，你在夏威夷的表现真是太杰出了，">
-<Time=00:00:03:30, Duration=00:00:00:00, Position=14:Center, Color=255:255:0, Text="我知道你的心在见到威基基海滩就想安定下来了，">
+<Time=00:00:03:30, Duration=00:00:00:00, Position=14:Center, Color=255:255:0, Text="我知道你一直渴望去看看威基基海滩，">
 <Time=00:00:08:00, Duration=00:00:00:00, Position=14:Center, Color=255:255:0, Text="但我们在圣路易斯有新的状况。">
 <Time=00:00:11:30, Duration=00:00:00:00, Position=14:Right, Color=0:255:0, Text="密苏里的腹地现在是我国所有地面作战">
 <Time=00:00:15:30, Duration=00:00:00:00, Position=14:Right, Color=0:255:0, Text="的心脏地带，我们要是没有这地方，">
