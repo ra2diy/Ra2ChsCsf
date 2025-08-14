@@ -561,7 +561,7 @@ EndMovie
 BeginMovie S04_P01E
 Font=batang.ttc
 <Time=00:00:00:30, Duration=00:00:00:00, Position=14:center, Color=255:255:0, Text="尤里的部队已经占领了本区域唯一的机场，">
-<Time=00:00:04:00, Duration=00:00:00:00, Position=14:center, Color=255:255:0, Text="，到目前为止，他们还在搜寻我们的总理。">
+<Time=00:00:04:00, Duration=00:00:00:00, Position=14:center, Color=255:255:0, Text="到目前为止，他们还在搜寻我们的总理。">
 <Time=00:00:06:30, Duration=00:00:00:00, Position=14:center, Color=255:255:0, Text="您必须赶在敌人之前找到总理。">
 EndMovie
 
