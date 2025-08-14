@@ -254,7 +254,7 @@ EndMovie
 BeginMovie A04_f02E
 Font=batang.ttc
 <Time=00:00:01:30, Duration=00:00:00:00, Position=14:center, Color=0:0:255, Text="指挥官，相信你会很高兴听到，">
-<Time=00:00:04:30, Duration=00:00:00:00, Position=14:center, Color=0:0:255, Text="我替敌人所进行的「工作」，完全都没有好处，">
+<Time=00:00:04:30, Duration=00:00:00:00, Position=14:center, Color=0:0:255, Text="我为敌人「工作」时并非完全没有收获，">
 <Time=00:00:09:30, Duration=00:00:00:00, Position=14:center, Color=0:0:255, Text="我已经入侵了心灵控制器，">
 <Time=00:00:14:30, Duration=00:00:00:00, Position=14:center, Color=0:0:255, Text="对，你甚至可以用它来对付尤里的部队，">
 <Time=00:00:17:30, Duration=00:00:00:00, Position=14:center, Color=0:0:255, Text="然而，当你第一次使用它之后，">
