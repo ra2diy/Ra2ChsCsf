@@ -466,9 +466,9 @@ Font=batang.ttc
 <Time=00:00:09:30, Duration=00:00:00:00, Position=14:center, Color=255:255:0, Text="我们已经逃回过去了，将军同志，">
 <Time=00:00:13:00, Duration=00:00:00:00, Position=14:center, Color=255:255:0, Text="但我恐怕我们苏联优秀的工兵同志，">
 <Time=00:00:17:00, Duration=00:00:00:00, Position=14:center, Color=255:255:0, Text="过度调整了美国时间机器的效率，">
-<Time=00:00:19:00, Duration=00:00:03:30, Position=14:center, Color=255:255:0, Text="我们已经到达六千五百万前的过去；">
+<Time=00:00:19:00, Duration=00:00:03:30, Position=14:center, Color=255:255:0, Text="我们已经到达六千五百万年前的过去；">
 <Time=00:00:23:00, Duration=00:00:00:00, Position=14:center, Color=255:255:0, Text="请稍候，同志，">
-<Time=00:00:25:00, Duration=00:00:02:00, Position=14:center, Color=255:255:0, Text="我们将进行另一次的时间转移。！">
+<Time=00:00:25:00, Duration=00:00:02:00, Position=14:center, Color=255:255:0, Text="我们将进行另一次的时间转移。">
 EndMovie
 
 BeginMovie S01_P03E
