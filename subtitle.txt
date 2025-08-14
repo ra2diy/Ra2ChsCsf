@@ -58,8 +58,8 @@ Font=batang.ttc
 <Time=00:02:04:00, Duration=00:00:01:00, Position=14:Center, Color=192:192:0, Text="飞弹指挥部。">
 <Time=00:02:10:00, Duration=00:00:02:00, Position=14:Center, Color=255:255:128, Text="离发射还有十秒，开启飞弹发射井！">
 <Time=00:02:13:30, Duration=00:00:02:00, Position=14:Center, Color=255:255:128, Text="杰瑞，这到底怎么...">
-<Time=00:02:15:00, Duration=00:00:02:00, Position=14:Center, Color=255:255:128, Text="我们得打开飞弹发射井，不然飞弹会在里头爆炸......">
-<Time=00:02:19:00, Duration=00:00:03:00, Position=14:Center, Color=255:255:128, Text="飞弹发射井舱门是关闭的，这是自杀的行为呀.......">
+<Time=00:02:15:00, Duration=00:00:02:00, Position=14:Center, Color=255:255:128, Text="我们得打开飞弹发射井，不然飞弹会在里头爆炸...">
+<Time=00:02:19:00, Duration=00:00:03:00, Position=14:Center, Color=255:255:128, Text="飞弹发射井舱门是关闭的，这是自杀的行为呀....">
 <Time=00:02:28:00, Duration=00:00:00:00, Position=14:Center, Color=255:0:0, Text="尤里，办妥了吗？">
 <Time=00:02:31:00, Duration=00:00:03:30, Position=14:Center, Color=255:0:255, Text="不的，总理同志。好戏正要上场而己。">
 EndMovie
@@ -157,7 +157,7 @@ Font=batang.ttc
 <Time=00:01:06:30, Duration=00:00:00:00, Position=14:Right, Color=255:255:0, Text="指挥官，把谭雅从洞里弄出来吧！">
 <Time=00:01:09:30, Duration=00:00:00:00, Position=14:Right, Color=255:255:0, Text="让她多出点有价值的任务，">
 <Time=00:01:11:00, Duration=00:00:00:00, Position=14:Right, Color=255:255:0, Text="没问题吧？我相信她会感激的。">
-<Time=00:01:12:40, Duration=00:00:02:30, Position=14:Left, Color=255:255:255, Text="真是见......">
+<Time=00:01:12:40, Duration=00:00:02:30, Position=14:Left, Color=255:255:255, Text="真是见...">
 <Time=00:01:15:30, Duration=00:00:00:00, Position=14:Center, Color=255:255:0, Text="看来我们和谭雅失去连络了。">
 <Time=00:01:18:30, Duration=00:00:03:00, Position=14:Center, Color=255:255:0, Text="指挥官，出发去把她弄回来吧。">
 EndMovie
@@ -270,7 +270,7 @@ Font=batang.ttc
 <Time=00:01:20:00, Duration=00:00:00:00, Position=14:center, Color=128:128:255, Text="除非解除了这项危机，不然我们的人哪儿都不会去。">
 <Time=00:01:25:00, Duration=00:00:00:00, Position=14:center, Color=0:255:0, Text="解决掉这些飞弹发射井，战争就接近尾声了。">
 <Time=00:01:29:00, Duration=00:00:03:00, Position=14:center, Color=0:255:0, Text="我们全靠你了，指挥官。">
-<Time=00:00:56:00, Duration=00:00:00:00, Position=14:center, Color=0:255:0, Text="很好。指挥官，如果你同意的话......">
+<Time=00:00:56:00, Duration=00:00:00:00, Position=14:center, Color=0:255:0, Text="很好。指挥官，如果你同意的话...">
 <Time=00:00:59:00, Duration=00:00:00:00, Position=14:center, Color=0:255:0, Text="不过看样子，你已经被​征调​了。">
 EndMovie
 
@@ -568,7 +568,7 @@ Font=batang.ttc
 <Time=00:00:39:00, Duration=00:00:00:00, Position=14:Center, Color=0:255:0, Text="就在今天下午，盟军展现出令人措手不及的高科技及优良的传统军事纪律，">
 <Time=00:00:42:00, Duration=00:00:00:00, Position=14:Center, Color=0:255:0, Text="在克里姆林宫的指挥所，俘虏了苏联总理洛马诺夫。">
 <Time=00:00:45:00, Duration=00:00:00:00, Position=14:Center, Color=0:255:0, Text="盟军这次令人惊喜而成功的军事行动，">
-<Time=00:00:48:00, Duration=00:00:00:00, Position=14:Center, Color=0:255:0, Text="大部分要归功于这位知名度并不高的指挥官，他来自......">
+<Time=00:00:48:00, Duration=00:00:00:00, Position=14:Center, Color=0:255:0, Text="大部分要归功于这位知名度并不高的指挥官，他来自...">
 EndMovie
 
 BeginMovie A13_F02E
@@ -1080,7 +1080,7 @@ Font=batang.ttc
 <Time=00:01:12:30, Duration=00:00:00:00, Position=14:Center, Color=0:255:255, Text="我想现在我们都弄清事实真相了吧。啍？">
 <Time=00:01:16:40, Duration=00:00:00:00, Position=14:Center, Color=0:255:255, Text="尤里在莫斯科城外有自己的要塞，他正在集结军队。">
 <Time=00:01:21:00, Duration=00:00:00:00, Position=14:Center, Color=0:255:255, Text="但大部分的军队听从您的指示。">
-<Time=00:01:23:00, Duration=00:00:00:00, Position=14:Center, Color=0:255:255, Text="不，......别再多说，将军。">
+<Time=00:01:23:00, Duration=00:00:00:00, Position=14:Center, Color=0:255:255, Text="不，...别再多说，将军。">
 <Time=00:01:26:00, Duration=00:00:00:00, Position=14:Center, Color=0:255:255, Text="他们现在听从您的指示。">
 <Time=00:01:29:00, Duration=00:00:00:00, Position=14:Center, Color=0:255:255, Text="即便我们从此再也无法讲话...">
 <Time=00:01:31:00, Duration=00:00:03:00, Position=14:Center, Color=0:255:255, Text="为您效劳是我的荣誉。">
