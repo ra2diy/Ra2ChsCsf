@@ -385,7 +385,7 @@ Font=batang.ttc
 <Time=00:00:32:30, Duration=00:00:00:00, Position=14:Left, Color=255:255:0, Text="为受苏联控制的杀手。">
 <Time=00:00:35:30, Duration=00:00:00:00, Position=14:Left, Color=255:255:0, Text="动作迅速、明确，">
 <Time=00:00:37:30, Duration=00:00:03:00, Position=14:Left, Color=255:255:0, Text="试着不要伤害我的选民，好吗？">
-<Time=00:00:42:00, Duration=00:00:00:00, Position=14:Center, Color=255:0:0, Text="不幸地，您必须这样做。">
+<Time=00:00:42:00, Duration=00:00:00:00, Position=14:Center, Color=255:0:0, Text="不幸的是，您恐怕不得不伤害他们。">
 <Time=00:00:44:00, Duration=00:00:00:00, Position=14:Center, Color=255:0:0, Text="谭雅的突击队已经准备就绪。但是我们不清楚他们能行动多久，">
 <Time=00:00:49:00, Duration=00:00:00:00, Position=14:Center, Color=255:0:0, Text="才会受心灵信标控制...呃...">
 <Time=00:00:51:30, Duration=00:00:01:30, Position=14:Center, Color=255:0:0, Text="等等，指挥官。">
@@ -907,7 +907,7 @@ Font=batang.ttc
 <Time=00:00:53:00, Duration=00:00:00:00, Position=14:center, Color=0:255:0, Text="真是遗憾。将军，我们有要务得处理。">
 <Time=00:00:56:30, Duration=00:00:00:00, Position=14:center, Color=0:255:0, Text="盟军太平洋舰队在夏威夷附近集结。">
 <Time=00:00:59:00, Duration=00:00:03:00, Position=14:center, Color=0:255:0, Text="你接下来要到珍珠港摧毁太平洋舰队，">
-<Time=00:00:61:00, Duration=00:00:03:00, Position=14:center, Color=0:255:0, Text="为我苏联军在那里重建据点。">
+<Time=00:00:61:00, Duration=00:00:03:00, Position=14:center, Color=0:255:0, Text="为我苏联军在那里建立新的据点。">
 EndMovie
 
 BeginMovie S06_P01E
@@ -919,8 +919,8 @@ EndMovie
 BeginMovie S06_P02E
 Font=batang.ttc
 <Time=00:00:01:30, Duration=00:00:00:00, Position=14:center, Color=255:255:0, Text="真是杰出的战略，同志。">
-<Time=00:00:03:00, Duration=00:00:00:00, Position=14:center, Color=255:255:0, Text="考爱岛机场落入我们掌控之中，我们就能随心所欲，">
-<Time=00:00:05:00, Duration=00:00:03:00, Position=14:center, Color=255:255:0, Text="派遣伞兵到四处奇袭。">
+<Time=00:00:03:00, Duration=00:00:00:00, Position=14:center, Color=255:255:0, Text="由于掌控了考爱岛机场，">
+<Time=00:00:05:00, Duration=00:00:03:00, Position=14:center, Color=255:255:0, Text="我们可以随心所欲地向任何地点派遣伞兵了。">
 EndMovie
 
 BeginMovie S06_P03E
@@ -962,7 +962,7 @@ BeginMovie S07_P01E
 Font=batang.ttc
 <Time=00:00:00:30, Duration=00:00:00:00, Position=14:center, Color=255:255:0, Text="有件事您该注意。">
 <Time=00:00:03:10, Duration=00:00:00:00, Position=14:center, Color=255:255:0, Text="卡维利将军在我方村落部署了一辆卡车；">
-<Time=00:00:07:20, Duration=00:00:00:00, Position=14:center, Color=255:255:0, Text="他一直播放资本主义的宣传带，">
+<Time=00:00:07:20, Duration=00:00:00:00, Position=14:center, Color=255:255:0, Text="他一直在大肆宣传资本主义思想，">
 <Time=00:00:10:30, Duration=00:00:04:00, Position=14:center, Color=255:255:0, Text="企图鼓动我方民众起而反抗。">
 EndMovie
 
@@ -1090,7 +1090,7 @@ BeginMovie S11_P01E
 Font=batang.ttc
 <Time=00:00:01:30, Duration=00:00:00:00, Position=14:center, Color=255:255:0, Text="多谢了，将军。">
 <Time=00:00:03:00, Duration=00:00:00:00, Position=14:center, Color=255:255:0, Text="这些人现在成为我的手下了。">
-<Time=00:00:05:00, Duration=00:00:02:30, Position=14:center, Color=255:255:0, Text="我总是有更多人能差遣。">
+<Time=00:00:05:00, Duration=00:00:02:30, Position=14:center, Color=255:255:0, Text="我来者不拒。">
 EndMovie
 
 BeginMovie S11_P02E
@@ -1125,8 +1125,8 @@ Font=batang.ttc
 <Time=00:00:18:00, Duration=00:00:00:00, Position=14:Center, Color=255:255:0, Text="他提供给我们，一份临别礼物。">
 <Time=00:00:22:00, Duration=00:00:00:00, Position=14:Center, Color=255:255:0, Text="盟军认为我们不知道超时空传送仪在阿拉斯加，">
 <Time=00:00:26:00, Duration=00:00:00:00, Position=14:Center, Color=255:255:0, Text="他们借此打算发动全面的攻击。">
-<Time=00:00:29:00, Duration=00:00:00:00, Position=14:Center, Color=255:255:0, Text="这是他们仅存的所有军力。">
-<Time=00:00:32:00, Duration=00:00:00:00, Position=14:Center, Color=255:255:0, Text="能一举消灭他们的最后希望是再好不过了。">
+<Time=00:00:29:00, Duration=00:00:00:00, Position=14:Center, Color=255:255:0, Text="这是他们仅存的兵力，">
+<Time=00:00:32:00, Duration=00:00:00:00, Position=14:Center, Color=255:255:0, Text="碾碎他们最后的希望岂不快哉。">
 <Time=00:00:35:00, Duration=00:00:00:00, Position=14:Center, Color=255:255:0, Text="成功之后，您就准备成为世界总理吧。">
 EndMovie
 
