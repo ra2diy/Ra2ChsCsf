@@ -138,7 +138,7 @@ EndMovie
 BeginMovie A02_F00E
 Font=batang.ttc
 <Time=00:00:01:00, Duration=00:00:01:00, Position=14:Center, Color=255:255:0, Text="总统先生">
-<Time=00:00:03:00, Duration=00:00:00:00, Position=14:Center, Color=255:255:0, Text="在事态变得更严重之前，欧洲会请求我们援助的。">
+<Time=00:00:03:00, Duration=00:00:00:00, Position=14:Center, Color=255:255:0, Text="欧洲过不了多久也会向我们请求援助的。">
 <Time=00:00:07:30, Duration=00:00:03:00, Position=14:Center, Color=255:255:0, Text="是，长官。我会处理。">
 <Time=00:00:20:00, Duration=00:00:00:00, Position=14:center, Color=255:255:0, Text="我就是觉得不对劲。">
 <Time=00:00:21:30, Duration=00:00:00:00, Position=14:center, Color=255:255:0, Text="我们不应该向任何人求援。">
